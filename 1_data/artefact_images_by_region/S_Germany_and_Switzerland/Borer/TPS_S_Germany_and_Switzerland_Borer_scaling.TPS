@@ -1,0 +1,16 @@
+LM=0
+IMAGE=TS12_EAzil_CH_AbriNeumuhle_Sedlmeier2015_BR_na_1.jpg
+ID=0
+SCALE=0,015744
+LM=0
+IMAGE=TS1_EAzil_CH_HauteriveChampreveyres_Leeschetal2004_BR_na_1.jpg
+ID=1
+SCALE=0,023250
+LM=0
+IMAGE=TS1_LMagTKE_CH_AbriSchweizersbild_HoneisenPeyer1994_BR_na_1.jpg
+ID=2
+SCALE=0,018517
+LM=0
+IMAGE=TS1_TransMag_SG_ZigeunerfelsF_Taute1972_BR_na_1.jpg
+ID=3
+SCALE=0,007440
