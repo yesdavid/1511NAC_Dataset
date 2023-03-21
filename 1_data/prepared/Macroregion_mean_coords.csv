@@ -1,0 +1,33 @@
+Macro_region,Macro_region_code,Macro_region_code_n,Macro_region_code_mean_Long,Macro_region_code_mean_Lat,Macro_region_number
+Southern Scandinavia,SS,"SS
+(n=33)",10.683939393939394,55.485757575757575,1
+"Austria, Slovakia and Hungary",ASH,"ASH
+(n=13)",15.406264153846154,47.792456384615384,10
+Belgium and Southern Netherlands,BSN,"BSN
+(n=16)",5.17,50.999375,6
+Bohemia and Moravia,BOMO,"BOMO
+(n=12)",15.792727366666666,49.6860495,7
+Lithuania,LT,"LT
+(n=17)",24.288235294117648,54.487647058823526,2
+Northeastern Italy,NEI,"NEI
+(n=13)",11.676841538461538,46.08358,12
+Northern Germany,NG,"NG
+(n=19)",10.425494736842106,53.43112631578947,3
+Southern Germany,SG,"SG
+(n=10)",10.1582452,48.5116658,8
+Switzerland,CH,"CH
+(n=11)",7.383913363636363,47.20430772727273,11
+Western France,SWF,"SWF
+(n=18)",0.6360620555555556,45.835087944444446,13
+Poland,PL,"PL
+(n=83)",20.00066296333494,51.97442496546868,5
+Cantabrian Spain,IBC,"IBC
+(n=23)",-2.998176086956522,43.213831739130434,14
+Mediterranean Iberia,IBM,"IBM
+(n=28)",-0.09872428571428572,40.981859285714286,15
+Atlantic Iberia,IBA,"IBA
+(n=7)",-8.024217390672856,40.137632217400004,16
+Northern France,NF,"NF
+(n=9)",3.1963361816830482,47.82274746922494,9
+Britain and Scotland,GBS,"GBS
+(n=40)",-1.986897975,52.367947575,4
