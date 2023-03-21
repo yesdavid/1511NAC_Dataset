@@ -1,0 +1,1334 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/">
+    <bib:BookSection rdf:about="#item_2902">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dcterms:isPartOf>
+                    <bib:Series>
+                        <dc:title>Schriften des Museums für Archäologie Schloss Gottorf - Ergänzungsreihe</dc:title>
+                        <dc:identifier>13</dc:identifier>
+                    </bib:Series>
+                </dcterms:isPartOf>
+                <dc:title>The Final Palaeolithic of Northern Eurasia : Proceedings of the Amersfoort, Schleswig and Burgos UISPP Commission Meetings</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Kiel</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Ludwig</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Riede</foaf:surname>
+                        <foaf:givenName>Felix</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Weber</foaf:surname>
+                        <foaf:givenName>Mara-Julia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Westen</foaf:surname>
+                        <foaf:givenName>Brian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gregersen</foaf:surname>
+                        <foaf:givenName>Kristian Murphy</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lundqvist Eriksen</foaf:surname>
+                        <foaf:givenName>Kamilla K.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Murray</foaf:surname>
+                        <foaf:givenName>Andrew S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Henriksen</foaf:surname>
+                        <foaf:givenName>Peter Steen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mortensen</foaf:surname>
+                        <foaf:givenName>Morten Fischer</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Eriksen</foaf:surname>
+                        <foaf:givenName>Berit Valentin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rensink</foaf:surname>
+                        <foaf:givenName>Eelco</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Harris</foaf:surname>
+                        <foaf:givenName>Susan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <bib:pages>11-31</bib:pages>
+        <dc:date>2019</dc:date>
+        <dc:title>Krogsbølle, a new Hamburgian site in eastern Denmark</dc:title>
+    </bib:BookSection>
+    <bib:Article rdf:about="https://doi.org/10.1080/0108464X.1991.10590051">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0108-464X"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Petersen</foaf:surname>
+                        <foaf:givenName>Peter Vang</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Johansen</foaf:surname>
+                        <foaf:givenName>Lykke</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_2904"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://doi.org/10.1080/0108464X.1991.10590051</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>20-37</bib:pages>
+        <dc:date>1991</dc:date>
+        <dc:description>Publisher: Routledge</dc:description>
+        <dc:title>Sølbjerg I—An Ahrensburgian Site on a Reindeer Migration Route through Eastern Denmark</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0108-464X">
+        <prism:volume>10</prism:volume>
+        <dc:title>Journal of Danish Archaeology</dc:title>
+        <dc:identifier>ISSN 0108-464X</dc:identifier>
+        <dcterms:alternative>Journal of Danish Archaeology</dcterms:alternative>
+        <dc:identifier>DOI 10.1080/0108464X.1991.10590051</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_2904">
+        <rdf:value>&lt;p&gt;doi: 10.1080/0108464X.1991.10590051&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Article rdf:about="https://tidsskrift.dk/jda/article/view/125816">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>2</prism:volume>
+                <prism:number>1</prism:number>
+                <dc:title>Journal of Danish Archaeology</dc:title>
+                <dc:identifier>ISSN 0108-464X</dc:identifier>
+                <dcterms:alternative>Journal of Danish Archaeology</dcterms:alternative>
+                <dc:identifier>DOI 10.1080/0108464X.1983.10589889</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Madsen</foaf:surname>
+                        <foaf:givenName>Bo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://tidsskrift.dk/jda/article/view/125816</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>12-31</bib:pages>
+        <dc:date>1983</dc:date>
+        <dc:description>Number: 1</dc:description>
+        <dcterms:dateSubmitted>2022-11-03 08:32:11</dcterms:dateSubmitted>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dc:title>New Evidence of Late Palaeolithic Settlement in East Jutland</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="#item_2906">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>1992</prism:volume>
+                <dc:title>Aarbøger for nordisk Oldkyndighed og Historie</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fugl Petersen</foaf:surname>
+                        <foaf:givenName>B</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>7-40</bib:pages>
+        <dc:date>1994</dc:date>
+        <dc:title>Rundebakke. En senpalæolitisk boplads på Knudshoved Odde, Sydsjælland</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="https://tidsskrift.dk/jda/article/view/127294">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>7</prism:volume>
+                <dc:title>Journal of Danish Archaeology</dc:title>
+                <dc:identifier>ISSN 0108-464X</dc:identifier>
+                <dcterms:alternative>Journal of Danish Archaeology</dcterms:alternative>
+                <dc:identifier>DOI 10.1080/0108464X.1988.10589994</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fischer</foaf:surname>
+                        <foaf:givenName>Anders</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://tidsskrift.dk/jda/article/view/127294</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>7-23</bib:pages>
+        <dc:date>1988</dc:date>
+        <dcterms:dateSubmitted>2022-11-03 08:34:19</dcterms:dateSubmitted>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dc:title>A Late Palaeolithic Flint Workshop at Egtved, East Jutland</dc:title>
+    </bib:Article>
+    <rdf:Description rdf:about="#item_2908">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>Across the Western Baltic Proceedings of the archaeological conference „The Prehistory and Early Medieval Period in the Western Baltic” in Vordingborg, South Zealand, Denmark, Denmark, March 27th – 29th 2003</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Vordingborg</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Sydsjællands Museums Publikationer</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Petersen</foaf:surname>
+                        <foaf:givenName>Peter Vang</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Møller Hansen</foaf:surname>
+                        <foaf:givenName>K</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Buck Pedersen</foaf:surname>
+                        <foaf:givenName>K</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <bib:pages>57-74</bib:pages>
+        <dc:date>2006</dc:date>
+        <dc:title>White flint and hilltops-Late Palaeolithic finds in Southern Denmark</dc:title>
+    </rdf:Description>
+    <bib:Book rdf:about="urn:isbn:978-87-87483-62-9">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Nordiske fortidsminder</dc:title>
+                <dc:identifier>Serie C 3</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>København</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Det Kgl. Nordiske Oldskriftselskab</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Johansson</foaf:surname>
+                        <foaf:givenName>Axel Degn</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Det Kongelige Nordiske Oldskriftselskab</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dc:identifier>ISBN 978-87-87483-62-9</dc:identifier>
+        <dc:date>2003</dc:date>
+        <z:libraryCatalog>K10plus ISBN</z:libraryCatalog>
+        <z:language>dan eng</z:language>
+        <dc:title>Stoksbjerg Vest: et senpalæolitisk fundkompleks ved Porsmose, Sydsjælland; fra Bromme - til Ahrensburgkultur i Norden</dc:title>
+        <z:shortTitle>Stoksbjerg Vest</z:shortTitle>
+        <z:numPages>126</z:numPages>
+    </bib:Book>
+    <bib:Article rdf:about="https://tidsskrift.dk/kuml/article/view/105823">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2446-3280,%200454-6245"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Andersen</foaf:surname>
+                        <foaf:givenName>Søren H.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2911"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://tidsskrift.dk/kuml/article/view/105823</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>7-60</bib:pages>
+        <dc:date>1972</dc:date>
+        <dc:description>Number: 22</dc:description>
+        <dcterms:dateSubmitted>2022-11-03 08:47:24</dcterms:dateSubmitted>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:title>Bro, en senglacial boplads på Fyn</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2446-3280,%200454-6245">
+        <prism:volume>22</prism:volume>
+        <dc:title>Kuml</dc:title>
+        <dc:identifier>ISSN 2446-3280, 0454-6245</dc:identifier>
+        <dcterms:alternative>Kuml</dcterms:alternative>
+        <dc:identifier>DOI 10.7146/kuml.v22i22.105823</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_2911">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://tidsskrift.dk/kuml/article/download/105823/154590</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-11-03 08:47:35</dcterms:dateSubmitted>
+        <dc:title>Full Text</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_2912">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>Aarbøger for nordisk Oldkyndighed og Historie 1946,</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mathiassen</foaf:surname>
+                        <foaf:givenName>T</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>121-197</bib:pages>
+        <dc:date>1946</dc:date>
+        <dc:title>En senglacial Boplads ved Bromme</dc:title>
+    </bib:Article>
+    <rdf:Description rdf:about="#item_2913">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>Across the Western Baltic Proceedings of the Archaeological Conference “The Prehistory and Early Medieval Period in the Western Baltic” in Vordingborg, South Zealand, Denmark, March 27th – 29th 2003</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Vordingborg</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Sydsjællands Museums Publikationer</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Buck Pedersen</foaf:surname>
+                        <foaf:givenName>Kristoffer</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Brinch Petersen</foaf:surname>
+                        <foaf:givenName>Erik</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Møller Hansen</foaf:surname>
+                        <foaf:givenName>K</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Buck Pedersen</foaf:surname>
+                        <foaf:givenName>K</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <bib:pages>75-92</bib:pages>
+        <dc:date>2006</dc:date>
+        <dc:title>Variability in the Late Palaeolithic: the example of Stoksbjerg Bro, Zealand, Denmark</dc:title>
+    </rdf:Description>
+    <bib:Article rdf:about="https://tidsskrift.dk/dja/article/view/112232">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2166-2290,%202166-2282"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Eggers-Kaas</foaf:surname>
+                        <foaf:givenName>Thomas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pedersen</foaf:surname>
+                        <foaf:givenName>Jesper Borre</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hoggard</foaf:surname>
+                        <foaf:givenName>Christian Steven</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sauer</foaf:surname>
+                        <foaf:givenName>Florian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hilgart</foaf:surname>
+                        <foaf:givenName>Jan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Riede</foaf:surname>
+                        <foaf:givenName>Felix</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2915"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://tidsskrift.dk/dja/article/view/112232</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>1-18</bib:pages>
+        <dc:date>2019</dc:date>
+        <dcterms:dateSubmitted>2022-11-03 08:55:35</dcterms:dateSubmitted>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:title>A Technological and Typological Analysis of Lithic Material from Skovmosen I, Denmark</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2166-2290,%202166-2282">
+        <prism:volume>8</prism:volume>
+        <dc:title>Danish Journal of Archaeology</dc:title>
+        <dc:identifier>ISSN 2166-2290, 2166-2282</dc:identifier>
+        <dcterms:alternative>DJA</dcterms:alternative>
+        <dc:identifier>DOI 10.7146/dja.v8i0.112232</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_2915">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://tidsskrift.dk/dja/article/download/112232/165974</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-11-03 08:55:52</dcterms:dateSubmitted>
+        <dc:title>Full Text</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_2916">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>22</prism:volume>
+                <dc:title>Mesolithic Miscellany</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Riede</foaf:surname>
+                        <foaf:givenName>Felix</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>10-18</bib:pages>
+        <dc:date>2012</dc:date>
+        <dc:title>A possible Brommian shaft-smoother from the site of Møllehøje, north-western Denmark</dc:title>
+    </bib:Article>
+    <bib:BookSection rdf:about="#item_2917">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <prism:volume>4</prism:volume>
+                <dc:title>Gefjon: arkæologi og nyere tid</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Aarhus Universitetsforlag</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Måge</foaf:surname>
+                        <foaf:givenName>Bjørnar</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>176-193</bib:pages>
+        <dc:date>2019</dc:date>
+        <dc:title>Syltholm VII: En atypisk beliggende Ahrensburglokalitet fra Syd-Lolland</dc:title>
+    </bib:BookSection>
+    <bib:Book rdf:about="#item_2918">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Series><dc:title>Museerne.dk</dc:title></bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Gyllinge</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Narayana Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Buck Pedersen</foaf:surname>
+                        <foaf:givenName>Kristoffer</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <prism:volume>3</prism:volume>
+        <dc:date>2009</dc:date>
+        <dc:title>Stederne og Menneskene. Istidsjægere omkring Knudshoved Odde</dc:title>
+    </bib:Book>
+    <bib:Article rdf:about="#item_2919">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <dc:title>Midtjyske Fortællinger 2005</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Møbjerg</foaf:surname>
+                        <foaf:givenName>T</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>12-16</bib:pages>
+        <dc:date>2005</dc:date>
+        <dc:title>Dværgebakke - en boplads ved Bølling Sø med fund fra ahrensburg- og maglemosekultur.</dc:title>
+    </bib:Article>
+    <bib:Book rdf:about="urn:isbn:87-7288-159-3">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Aarhus</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Aarhus universitetsforlag</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Johansson</foaf:surname>
+                        <foaf:givenName>Axel Degn</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>ISBN 87-7288-159-3</dc:identifier>
+        <dc:date>1990</dc:date>
+        <dc:title>Barmose-gruppen: præboreale bopladsfund i Sydsjælland</dc:title>
+    </bib:Book>
+    <bib:Article rdf:about="#item_2921">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <dc:title>Aarbøger for nordisk Oldkyndighed og Historie</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mathiassen</foaf:surname>
+                        <foaf:givenName>Therkel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>1-86</bib:pages>
+        <dc:date>1937</dc:date>
+        <dc:title>Gudenaa-Kulturen: en mesolitisk indlandsbebyggelse i Jylland</dc:title>
+    </bib:Article>
+    <bib:Book rdf:about="urn:isbn:978-91-7209-412-3">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+               <dc:title>Skrifter</dc:title><dc:identifier>63</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Stockholm</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Riksantikvarieämbetet</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Karsten</foaf:surname>
+                        <foaf:givenName>Per</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nilsson</foaf:surname>
+                        <foaf:givenName>Björn</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Antiquities</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Excavations (Archaeology)</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Skåne (Sweden)</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Stone age</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Sweden Skåne</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>ISBN 978-91-7209-412-3</dc:identifier>
+        <dc:date>2006</dc:date>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>GN774.22.S8 I5 2006</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:description>OCLC: ocn144645388</dc:description>
+        <z:libraryCatalog>Library of Congress ISBN</z:libraryCatalog>
+        <dc:title>In the wake of a woman: stone age pioneering of North-Eastern Scania, Sweden, 10,000-5000 B.C.: the Årup settlements</dc:title>
+        <z:shortTitle>In the wake of a woman</z:shortTitle>
+        <z:numPages>200</z:numPages>
+    </bib:Book>
+    <bib:BookSection rdf:about="#item_2923">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:title>Hunters in a Changing World: Environment and Archaeology of the Pleistocene - Holocene Transition (ca. 11000-9000 B.C.) in Northern Central Europe; Workshop of the U.I.S.P.P.-Commission XXXII at Greifswald in September 2002</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Rahden, Westfalen</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Verlag Marie Leidorf GmbH, Rahden</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sørensen</foaf:surname>
+                        <foaf:givenName>Mikkel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sternke</foaf:surname>
+                        <foaf:givenName>F</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Terberger</foaf:surname>
+                        <foaf:givenName>T</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Eriksen</foaf:surname>
+                        <foaf:givenName>Berit Valentin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <link:link rdf:resource="#item_2924"/>
+        <bib:pages>85-112</bib:pages>
+        <dc:date>2004</dc:date>
+        <z:libraryCatalog>ResearchGate</z:libraryCatalog>
+        <dc:title>Nørregård VI - Late Glacial Hunters in Transition</dc:title>
+    </bib:BookSection>
+    <z:Attachment rdf:about="#item_2924">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.researchgate.net/profile/Mikkel-Sorensen-4/publication/265761849_Norregard_VI_-_Late_Glacial_Hunters_in_Transition/links/5825c45408aeebc4f8a1d37a/Norregard-VI-Late-Glacial-Hunters-in-Transition.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-11-03 10:11:19</dcterms:dateSubmitted>
+        <dc:title>ResearchGate Link</dc:title>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_2925">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0342-734X"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sobotta</foaf:surname>
+                        <foaf:givenName>J</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_2926"/>
+        <dcterms:isReferencedBy rdf:resource="#item_2927"/>
+        <dcterms:isReferencedBy rdf:resource="#item_2928"/>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Mésolithique</dc:subject>
+        <dc:subject>Ancien</dc:subject>
+        <dc:subject>Danemark</dc:subject>
+        <dc:subject>Draved Mose</dc:subject>
+        <dc:subject>Industrie lithique, chronologie</dc:subject>
+        <dc:subject>Maglemosien</dc:subject>
+        <bib:pages>457-467</bib:pages>
+        <dc:date>1991</dc:date>
+        <dc:description>Number: 4
+Publisher: Römisch-Germanische Zentralmuseum, Mainz</dc:description>
+        <z:libraryCatalog>Inist-CNRS</z:libraryCatalog>
+        <z:language>German</z:language>
+        <dc:title>Frühmesolithische Wohnplätze aus Draved Moor, Dänemark</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0342-734X">
+        <prism:volume>21</prism:volume>
+        <prism:number>4</prism:number>
+        <dc:title>Archäologisches Korrespondenzblatt</dc:title>
+        <dc:identifier>ISSN 0342-734X</dc:identifier>
+        <dcterms:alternative>Archäol. Korrespondenzbl</dcterms:alternative>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_2926">
+        <rdf:value>&lt;p&gt;Classification: 525-46: Europe / Europe&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_2927">
+        <rdf:value>&lt;p&gt;Classification: 525-75: Epipaléolithique et Mésolithique / Epipalaeolithic and mesolithic&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_2928">
+       <rdf:value>&lt;p&gt;Inist-CNRS record number 6551600&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Article rdf:about="https://linkinghub.elsevier.com/retrieve/pii/S030544031300232X">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:03054403"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fischer</foaf:surname>
+                        <foaf:givenName>Anders</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mortensen</foaf:surname>
+                        <foaf:givenName>Morten Fischer</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Henriksen</foaf:surname>
+                        <foaf:givenName>Peter Steen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mathiassen</foaf:surname>
+                        <foaf:givenName>Dorte Rørbeck</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Olsen</foaf:surname>
+                        <foaf:givenName>Jesper</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2930"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://linkinghub.elsevier.com/retrieve/pii/S030544031300232X</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>4663-4674</bib:pages>
+        <dc:date>2013</dc:date>
+        <dc:description>Number: 12</dc:description>
+        <dcterms:dateSubmitted>2022-11-03 10:16:32</dcterms:dateSubmitted>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dc:title>Dating the Trollesgave site and the Bromme culture – chronological fix-points for the Lateglacial settlement of Southern Scandinavia</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:03054403">
+        <prism:volume>40</prism:volume>
+        <prism:number>12</prism:number>
+        <dc:title>Journal of Archaeological Science</dc:title>
+        <dc:identifier>ISSN 03054403</dc:identifier>
+        <dcterms:alternative>Journal of Archaeological Science</dcterms:alternative>
+        <dc:identifier>DOI 10.1016/j.jas.2013.06.026</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_2930">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S030544031300232X/pdfft?md5=6c7e75794b8a5074063fc586bf23a7be&amp;pid=1-s2.0-S030544031300232X-main.pdf&amp;isDTMRedir=Y</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-11-03 10:16:37</dcterms:dateSubmitted>
+        <dc:title>Full Text</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_2931">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0065-101X"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fischer</foaf:surname>
+                        <foaf:givenName>Anders</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_2932"/>
+        <dcterms:isReferencedBy rdf:resource="#item_2933"/>
+        <dcterms:isReferencedBy rdf:resource="#item_2934"/>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Paléolithique supérieur</dc:subject>
+        <dc:subject>Industrie lithique</dc:subject>
+        <dc:subject>Danemark</dc:subject>
+        <dc:subject>Industrie lithique, chronologie</dc:subject>
+        <dc:subject>Atelier de taille</dc:subject>
+        <dc:subject>Bromme</dc:subject>
+        <dc:subject>Débitage</dc:subject>
+        <dc:subject>Etude du matériel</dc:subject>
+        <dc:subject>Expérimentation</dc:subject>
+        <dc:subject>Fonction</dc:subject>
+        <dc:subject>Méthode</dc:subject>
+        <dc:subject>Remontage</dc:subject>
+        <dc:subject>Site</dc:subject>
+        <dc:subject>Trollesgave</dc:subject>
+        <bib:pages>33-49</bib:pages>
+        <dc:date>1990</dc:date>
+        <dc:description>Publisher: Blackwell, København</dc:description>
+        <z:libraryCatalog>Inist-CNRS</z:libraryCatalog>
+        <z:language>English</z:language>
+        <dc:title>A Late Palaeolithic « School » of Flint-knapping at Trollesgave, Denmark. Results from Refitting</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0065-101X">
+        <prism:volume>60</prism:volume>
+        <dc:title>Acta archaeologica</dc:title>
+        <dc:identifier>ISSN 0065-101X</dc:identifier>
+        <dcterms:alternative>Acta archaeol</dcterms:alternative>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_2932">
+        <rdf:value>&lt;p&gt;Classification: 525-46: Europe / Europe&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_2933">
+        <rdf:value>&lt;p&gt;Classification: 525-74: Paléolithique supérieur / Upper palaeolithic&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_2934">
+       <rdf:value>&lt;p&gt;Inist-CNRS record number 6550212&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Article rdf:about="https://tidsskrift.dk/dja/article/view/124970">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2166-2282,%202166-2290"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fischer</foaf:surname>
+                        <foaf:givenName>Anders</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://tidsskrift.dk/dja/article/view/124970</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>123-141</bib:pages>
+        <dc:date>2013</dc:date>
+        <dc:description>Number: 2</dc:description>
+        <dcterms:dateSubmitted>2022-11-03 10:18:20</dcterms:dateSubmitted>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dc:title>The Fensmark settlement and the almost invisible Late Palaeolithic in Danish field archaeology</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2166-2282,%202166-2290">
+        <prism:volume>1</prism:volume>
+        <prism:number>2</prism:number>
+        <dc:title>Danish Journal of Archaeology</dc:title>
+        <dc:identifier>ISSN 2166-2282, 2166-2290</dc:identifier>
+        <dcterms:alternative>Danish Journal of Archaeology</dcterms:alternative>
+        <dc:identifier>DOI 10.1080/21662282.2012.760895</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="#item_2936">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>35</prism:volume>
+                <dc:title>Acta Archaeologica</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Salomonsson</foaf:surname>
+                        <foaf:givenName>B</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>1-28</bib:pages>
+        <dc:date>1983</dc:date>
+        <dc:title>Decouverte d’un habilitation du Tardi-Glaciere a Segebro, Scanie, Suede</dc:title>
+    </bib:Article>
+    <bib:BookSection rdf:about="#item_2937">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <prism:volume>5</prism:volume>
+                <dc:title>Monografi i serien Skrifter fra Museumsrådet for Sønderjyllands Amt</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Haderslev</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Museumsrådet for Sønderjyllands Amt</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Holm</foaf:surname>
+                        <foaf:givenName>J</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rieck</foaf:surname>
+                        <foaf:givenName>F</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>1992</dc:date>
+        <dc:title>Istidsjægere ved Jelssøerne</dc:title>
+    </bib:BookSection>
+    <bib:Article rdf:about="#item_2938">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <dc:title>Nationalmuseets Arbejdsmark 1992</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Holm</foaf:surname>
+                        <foaf:givenName>J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>52-63</bib:pages>
+        <dc:date>1992</dc:date>
+        <dc:title>Rensdyrjægerbopladser ved Slotseng–og et 13.000-årigt dødishul med knogler og flint</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="https://linkinghub.elsevier.com/retrieve/pii/S0305440314004798">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>54</prism:volume>
+                <dc:title>Journal of Archaeological Science</dc:title>
+                <dc:identifier>ISSN 03054403</dc:identifier>
+                <dcterms:alternative>Journal of Archaeological Science</dcterms:alternative>
+                <dc:identifier>DOI 10.1016/j.jas.2014.12.018</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Donahue</foaf:surname>
+                        <foaf:givenName>Randolph E.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fischer</foaf:surname>
+                        <foaf:givenName>Anders</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2940"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://linkinghub.elsevier.com/retrieve/pii/S0305440314004798</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>313-324</bib:pages>
+        <dc:date>2015</dc:date>
+        <dcterms:dateSubmitted>2022-11-05 11:27:11</dcterms:dateSubmitted>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dc:title>A Late Glacial family at Trollesgave, Denmark</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_2940">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0305440314004798/pdfft?md5=c44810839070ffec67061dcdd7333d32&amp;pid=1-s2.0-S0305440314004798-main.pdf&amp;isDTMRedir=Y</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-11-05 11:27:15</dcterms:dateSubmitted>
+        <dc:title>Full Text</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.jstor.org/stable/23209453">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:05838789"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Barrière</foaf:surname>
+                        <foaf:givenName>Cl.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Daniel</foaf:surname>
+                        <foaf:givenName>R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Delporte</foaf:surname>
+                        <foaf:givenName>H.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>de Fonton</foaf:surname>
+                        <foaf:givenName>M. Escalon</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Parent</foaf:surname>
+                        <foaf:givenName>R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Roche</foaf:surname>
+                        <foaf:givenName>J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rozoy</foaf:surname>
+                        <foaf:givenName>J.-G.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://www.jstor.org/stable/23209453</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>364-375</bib:pages>
+        <dc:date>1972</dc:date>
+        <dc:description>Number: 1
+Publisher: Société Préhistorique Française</dc:description>
+        <dcterms:dateSubmitted>2022-11-05</dcterms:dateSubmitted>
+        <dc:title>Epipaléolithique - Mésolithique. Les armatures non géométriques - 1</dc:title>
+        <z:archive>JSTOR</z:archive>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:05838789">
+        <prism:volume>69</prism:volume>
+        <prism:number>1</prism:number>
+        <dc:title>Bulletin de la Société préhistorique française</dc:title>
+        <dc:identifier>ISSN 05838789</dc:identifier>
+    </bib:Journal>
+    <bib:BookSection rdf:about="#item_2943">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:title>The Big Puzzle: International Symposium on Refitting Stone Artefacts, Monrepos, 1987</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Bonn</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Holos</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fischer</foaf:surname>
+                        <foaf:givenName>Anders</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cziesla</foaf:surname>
+                        <foaf:givenName>Erwin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Eickhoff</foaf:surname>
+                        <foaf:givenName>S</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Arts</foaf:surname>
+                        <foaf:givenName>N</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Winter</foaf:surname>
+                        <foaf:givenName>D</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <bib:pages>447-464</bib:pages>
+        <dc:date>1990</dc:date>
+        <dc:title>On Being a Pupil of a Flintknapper of 11,000 Years Ago. A Preliminary Analysis of Settlement Organization and Flint Technology Based on Conjoined Flint Artefacts from the Trollesgave Site</dc:title>
+    </bib:BookSection>
+    <bib:Thesis rdf:about="#item_2944">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Rennes</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Université Rennes 1</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Naudinot</foaf:surname>
+                        <foaf:givenName>Nicolas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Monnier</foaf:surname>
+                        <foaf:givenName>Jean-Laurent; Marchand, Grégor</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dcterms:isReferencedBy rdf:resource="#item_2945"/>
+        <dcterms:isReferencedBy rdf:resource="#item_2946"/>
+        <dc:date>2010</dc:date>
+        <z:libraryCatalog>http://www.theses.fr/2010REN1S092</z:libraryCatalog>
+        <dc:title>Dynamiques techno-économiques et de peuplement au Tardiglaciaire dans le grand‑ouest de la France</dc:title>
+        <z:numPages>1 vol. (735 p.)</z:numPages>
+    </bib:Thesis>
+    <bib:Memo rdf:about="#item_2945">
+       <rdf:value>&lt;p&gt;2010REN1S092&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_2946">
+        <rdf:value>&lt;p&gt;Thèse de doctorat Archéologie et archéométrie Rennes 1 2010&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Book rdf:about="#item_3502">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Oslo</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Unpublished PhD dissertation, University of Oslo</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Berg-Hansen</foaf:surname>
+                        <foaf:givenName>Inger Maria</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>2017</dc:date>
+        <dc:title>Den sosiale teknologien: teknologi og tradisjon i Nord-Europa ved slutten av istida, 10 900–8500 f. Kr</dc:title>
+    </bib:Book>
+</rdf:RDF>

@@ -1,0 +1,2349 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#">
+    <bib:Article rdf:about="http://revistas.uned.es/index.php/ETFI/article/view/4686">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2340-1354,%201131-7698"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Quesada López</foaf:surname>
+                        <foaf:givenName>José Manuel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>García Sánchez</foaf:surname>
+                        <foaf:givenName>Eduardo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Adán Álvarez</foaf:surname>
+                        <foaf:givenName>Gema</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3008"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://revistas.uned.es/index.php/ETFI/article/view/4686</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>215-267</bib:pages>
+        <dc:date>1999</dc:date>
+        <dc:description>Number: 12</dc:description>
+        <dcterms:dateSubmitted>2022-12-12 11:05:35</dcterms:dateSubmitted>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dcterms:abstract>La revisión crítica de los materiales arqueológicos exhumados en Cueva Oscura de Ania ha permitido definir las características generales de su depósito Aziliense, al tiempo que incorporar definitivamente esta cueva a la nómina de yacimientos donde se documenta un horizonte de transición entre el Magdaleniense superior final y el Aziliense clásico, conocido como Aziliense antiguo. Se aprovecha esta circunstancia para realizar una síntesis historiográfica sobre el conocimiento del origen y el desarrollo del Aziliense en la cuenca hidrográfica del Nalón.A critic review of the archaeological record from Cueva Oscura de Ania has allowed us explain the nature of her Azulan levéis. Thls cave can be included in the group of sites where it is found a transitional period from Upper Magdalenien to Classic Azilian, iabelled as Older Azilian. In this paper it is also introduced a regional sinthesis about the archaeological knowledge of the Azilian in the asturian Nalón basin.</dcterms:abstract>
+        <dc:title>El Aziliense de Cueva Oscura de Ania (Las Regueras, Asturias) : primera aproximación y su contexto en la cuenca del Nalón</dc:title>
+        <z:shortTitle>El Aziliense de Cueva Oscura de Ania (Las Regueras, Asturias)</z:shortTitle>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2340-1354,%201131-7698">
+        <prism:number>12</prism:number>
+        <dc:title>Espacio Tiempo y Forma. Serie I, Prehistoria y Arqueología</dc:title>
+        <dc:identifier>ISSN 2340-1354, 1131-7698</dc:identifier>
+        <dcterms:alternative>ETFI</dcterms:alternative>
+        <dc:identifier>DOI 10.5944/etfi.12.1999.4686</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_3008">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://revistas.uned.es/index.php/ETFI/article/download/4686/4525</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-12-12 11:05:40</dcterms:dateSubmitted>
+        <dc:title>Full Text</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:BookSection rdf:about="#item_3009">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:title>Cazadores y tallistas en el abrigo de Portugain. Una ocupación de Urbasa durante el Tardiglaciar</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Vitoria-Gasteiz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>José Miguel de Barandiarán Fundazioa</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Aguirre</foaf:surname>
+                        <foaf:givenName>M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Barandiarán Maestu</foaf:surname>
+                        <foaf:givenName>I.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cava Almuzara</foaf:surname>
+                        <foaf:givenName>A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <bib:pages>121-183</bib:pages>
+        <dc:date>2008</dc:date>
+        <dc:title>Caracterización tecnológica de la industria de Portugain</dc:title>
+    </bib:BookSection>
+    <bib:Article rdf:about="#item_3010">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dcterms:isPartOf>
+                   <bib:Series><dc:title>Zaragoza</dc:title></bib:Series>
+                </dcterms:isPartOf>
+                <prism:volume>44</prism:volume>
+                <dc:title>El Mesolítico geométrico en la Península ibérica: Monografías Arqueológicas</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Alday Ruiz</foaf:surname>
+                        <foaf:givenName>A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cava Almuzara</foaf:surname>
+                        <foaf:givenName>A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>93-129</bib:pages>
+        <dc:date>2009</dc:date>
+        <dc:title>El Mesolítico Geométrico en Vasconia</dc:title>
+    </bib:Article>
+    <bib:Book rdf:about="#item_3011">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>D.L. San Sebastián</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Colección Sociedad de Estudios Vascos con la colaboración de Sociedad de Ciencias Aranzadi</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Altuna</foaf:surname>
+                        <foaf:givenName>J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Merino</foaf:surname>
+                        <foaf:givenName>J. M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>1984</dc:date>
+        <dc:title>El yacimiento prehistórico de la cueva de Ekain (Deba, Gipuzkoa)</dc:title>
+        <z:numPages>351</z:numPages>
+    </bib:Book>
+    <bib:BookSection rdf:about="#item_3012">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <prism:volume>1</prism:volume>
+                <dc:title>II Congreso de Arqueología Peninsular</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Armendáriz Gutiérrez</foaf:surname>
+                        <foaf:givenName>A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Balbin Behrmann</foaf:surname>
+                        <foaf:givenName>R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bueno Ramírez</foaf:surname>
+                        <foaf:givenName>P.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <bib:pages>297-310</bib:pages>
+        <dc:date>1997</dc:date>
+        <dc:title>Anton Koba. Cazadores azilienses en la sierra de Aizkorri (Gipuzkoa)</dc:title>
+    </bib:BookSection>
+    <bib:BookSection rdf:about="#item_3013">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:title>Arqueología em Portugal/2017- Estado da Questão</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Lisboa</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Associação dos Arqueólogos Portugueses</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Aubry</foaf:surname>
+                        <foaf:givenName>T</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gameiro</foaf:surname>
+                        <foaf:givenName>C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Santos</foaf:surname>
+                        <foaf:givenName>A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Luís</foaf:surname>
+                        <foaf:givenName>L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>403-418</bib:pages>
+        <dc:date>2017</dc:date>
+        <dc:title>Existe azilense em Portugal? Novos dados sobre o tardiglaciar e o pre‑boreal no Vale do Coa</dc:title>
+    </bib:BookSection>
+    <bib:Article rdf:about="#item_3014">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>4</prism:volume>
+                <dc:title>Menga. Revista de Prehistoria de Andalucía</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Aura Tortosa</foaf:surname>
+                        <foaf:givenName>E.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jordá Pardo</foaf:surname>
+                        <foaf:givenName>J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Borja</foaf:surname>
+                        <foaf:givenName>P.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Puchol</foaf:surname>
+                        <foaf:givenName>O.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Badal</foaf:surname>
+                        <foaf:givenName>E.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pérez-Ripoll</foaf:surname>
+                        <foaf:givenName>M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pérez Jordá</foaf:surname>
+                        <foaf:givenName>G.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Benito</foaf:surname>
+                        <foaf:givenName>J.L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Morales Pérez</foaf:surname>
+                        <foaf:givenName>J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>53-78</bib:pages>
+        <dc:date>2013</dc:date>
+        <dc:title>Una perspectiva mediterránea sobre el proceso de neolitización. Los datos de la cueva de Nerja</dc:title>
+    </bib:Article>
+    <bib:Book rdf:about="urn:isbn:978-84-934689-5-8">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Colección Barandiarán</dc:title>
+                <dc:identifier>12</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Ataun</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Fundación José Miguel de Barandiarán</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Barandiarán</foaf:surname>
+                        <foaf:givenName>Ignacio</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cava</foaf:surname>
+                        <foaf:givenName>Ana</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>ISBN 978-84-934689-5-8</dc:identifier>
+        <dc:date>2008</dc:date>
+        <z:libraryCatalog>BnF ISBN</z:libraryCatalog>
+        <z:language>spa</z:language>
+        <dc:title>Cazadores y tallistas en el abrigo de Portugain: una ocupación de Urbasa durante el Tardiglaciar</dc:title>
+        <z:shortTitle>Cazadores y tallistas en el abrigo de Portugain</z:shortTitle>
+        <z:numPages>318</z:numPages>
+    </bib:Book>
+    <bib:Article rdf:about="#item_3016">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>4</prism:volume>
+                <dc:title>Recerques del Museu d’Alcoi</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cacho</foaf:surname>
+                        <foaf:givenName>C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>López</foaf:surname>
+                        <foaf:givenName>J.A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pérez-Ripoll</foaf:surname>
+                        <foaf:givenName>M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Martinez Valle</foaf:surname>
+                        <foaf:givenName>R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Uzquiano</foaf:surname>
+                        <foaf:givenName>P.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Arnanz</foaf:surname>
+                        <foaf:givenName>A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sánchez Marco</foaf:surname>
+                        <foaf:givenName>A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sevilla</foaf:surname>
+                        <foaf:givenName>P.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Morales</foaf:surname>
+                        <foaf:givenName>A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Roselló</foaf:surname>
+                        <foaf:givenName>E.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Garralda</foaf:surname>
+                        <foaf:givenName>M.D.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>García-Carrilo</foaf:surname>
+                        <foaf:givenName>M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>11-101</bib:pages>
+        <dc:date>1995</dc:date>
+        <dc:title>El Tossal de la Roca (Vall d ‘Alcalà, Alicante). Reconstrucción paleoambiental y cultural de la transición del Tardiglaciar al Holoceno inicial</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="#item_3017">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>4</prism:volume>
+                <dc:title>Zona Arqueológica</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cacho Quesada</foaf:surname>
+                        <foaf:givenName>C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Martos Romero</foaf:surname>
+                        <foaf:givenName>J.A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>88-101</bib:pages>
+        <dc:date>2004</dc:date>
+        <dc:title>Estudio tecnológico de los niveles magdalenienses del Tossal de la Roca (Vall d'Alcalá, Alicante)</dc:title>
+    </bib:Article>
+    <bib:Book rdf:about="urn:isbn:978-84-616-5992-0">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Madrid</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>CESIC: Junta de Castilla y León</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cacho Quesada</foaf:surname>
+                        <foaf:givenName>María del Carmen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>ISBN 978-84-616-5992-0</dc:identifier>
+        <dc:date>2013</dc:date>
+        <dc:description>OCLC: 892520826</dc:description>
+        <z:libraryCatalog>Open WorldCat</z:libraryCatalog>
+        <z:language>spa</z:language>
+        <dc:title>Ocupaciones magdalenienses en el interior de la Península Ibérica: La Peña de Estevanvela [i.e. Estebanvela] (Ayllón, Segovia)</dc:title>
+        <z:shortTitle>Ocupaciones magdalenienses en el interior de la Península Ibérica</z:shortTitle>
+        <z:numPages>555</z:numPages>
+    </bib:Book>
+    <bib:Article rdf:about="#item_3020">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>30</prism:volume>
+                <dc:title>Journal of Archaeological Science: Reports</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fano</foaf:surname>
+                        <foaf:givenName>M.A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chauvin Grandela</foaf:surname>
+                        <foaf:givenName>A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Clemente-Conte</foaf:surname>
+                        <foaf:givenName>I.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tarriño</foaf:surname>
+                        <foaf:givenName>A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Teira</foaf:surname>
+                        <foaf:givenName>L.C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>19-51</bib:pages>
+        <dc:date>2020</dc:date>
+        <dc:description>Number: 102230</dc:description>
+        <dc:title>Magdalenian knappers in the Asón Valley: Level 2 at El Horno Cave (Ramales de la Victoria, Cantabria, Spain)</dc:title>
+    </bib:Article>
+    <bib:Thesis rdf:about="#item_3021">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                        <vcard:locality>Ministerio de Cultura, Dirección General de Bellas Artes, Archivos y Bibliotecas, Dirección General de Patrimonio Artístico, Archivos y Museos, Santander</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad de Valladolid</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fernández-Tresguerres Velasco</foaf:surname>
+                        <foaf:givenName>J.A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>1980</dc:date>
+        <dc:title>El Aziliense en las provincias de Asturias y Santander</dc:title>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="#item_3022">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Paris</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Université de Paris I</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gameiro Gonçalves</foaf:surname>
+                        <foaf:givenName>C.M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>2012</dc:date>
+        <dc:title>La variabilité régionale des industries lithiques de la fin du Paléolithique supérieur au Portugal</dc:title>
+    </bib:Thesis>
+    <bib:Article rdf:about="https://linkinghub.elsevier.com/retrieve/pii/S1040618220301038">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:10406182"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gameiro</foaf:surname>
+                        <foaf:givenName>Cristina</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Aubry</foaf:surname>
+                        <foaf:givenName>Thierry</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Almeida</foaf:surname>
+                        <foaf:givenName>Francisco</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dimuccio</foaf:surname>
+                        <foaf:givenName>Luca</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gabriel</foaf:surname>
+                        <foaf:givenName>Sónia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gaspar</foaf:surname>
+                        <foaf:givenName>Rita</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gomes</foaf:surname>
+                        <foaf:givenName>Sérgio</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Valcarce</foaf:surname>
+                        <foaf:givenName>Ramón Fábregas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Figueiredo</foaf:surname>
+                        <foaf:givenName>Sofia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Manzano</foaf:surname>
+                        <foaf:givenName>Carmen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Marreiros</foaf:surname>
+                        <foaf:givenName>João</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Oliveira</foaf:surname>
+                        <foaf:givenName>Cláudia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Santos</foaf:surname>
+                        <foaf:givenName>André Tomás</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Silva</foaf:surname>
+                        <foaf:givenName>Maria João</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tereso</foaf:surname>
+                        <foaf:givenName>João Pedro</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Xavier</foaf:surname>
+                        <foaf:givenName>Pedro</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3024"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://linkinghub.elsevier.com/retrieve/pii/S1040618220301038</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>113-137</bib:pages>
+        <dc:date>2020</dc:date>
+        <dcterms:dateSubmitted>2022-12-12 11:55:53</dcterms:dateSubmitted>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dc:title>Archaeology of the Pleistocene-Holocene transition in Portugal: Synthesis and prospects</dc:title>
+        <z:shortTitle>Archaeology of the Pleistocene-Holocene transition in Portugal</z:shortTitle>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:10406182">
+        <prism:volume>564</prism:volume>
+        <dc:title>Quaternary International</dc:title>
+        <dc:identifier>ISSN 10406182</dc:identifier>
+        <dcterms:alternative>Quaternary International</dcterms:alternative>
+        <dc:identifier>DOI 10.1016/j.quaint.2020.03.018</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_3024">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S1040618220301038/pdfft?md5=3225004168274f1c27867afece4d18be&amp;pid=1-s2.0-S1040618220301038-main.pdf&amp;isDTMRedir=Y</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-12-12 11:56:06</dcterms:dateSubmitted>
+        <dc:title>Full Text</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:BookSection rdf:about="urn:isbn:978-2-35842-001-3">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:identifier>ISBN 978-2-35842-001-3</dc:identifier>
+                <dc:title>De Méditerranée et d'ailleurs: mélanges offerts à Jean Guilaine</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Toulouse</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Archives d'écologie préhistorique</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>García-Argüelles</foaf:surname>
+                        <foaf:givenName>P.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Estrada</foaf:surname>
+                        <foaf:givenName>A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nadal</foaf:surname>
+                        <foaf:givenName>J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fullola</foaf:surname>
+                        <foaf:givenName>J.M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mangado</foaf:surname>
+                        <foaf:givenName>X.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>2009</dc:date>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>930.109 1822</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <z:libraryCatalog>BnF ISBN</z:libraryCatalog>
+        <z:language>eng fre ita spa</z:language>
+        <dc:title>Les niveaux épipaléolithiques de la Balma del Gai (Moià, Barcelone, Catalogne)</dc:title>
+    </bib:BookSection>
+    <bib:Article rdf:about="#item_3026">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>1</prism:volume>
+                <dc:title>Trabajos de Prehistoria</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cacho</foaf:surname>
+                        <foaf:givenName>C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jordá Pardo</foaf:surname>
+                        <foaf:givenName>F.J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>de la Torre</foaf:surname>
+                        <foaf:givenName>I.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yravedra</foaf:surname>
+                        <foaf:givenName>J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>71-93</bib:pages>
+        <dc:date>2001</dc:date>
+        <dc:title>El Tossal de la Roca (Alicante). Nuevos datos sobre el Magdaleniense mediterráneo de la Península Ibérica</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="#item_3027">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>5</prism:volume>
+                <dc:title>MARQ: Arqueología y Museos</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Casabó i Bernad</foaf:surname>
+                        <foaf:givenName>J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>19-51</bib:pages>
+        <dc:date>2012</dc:date>
+        <dc:title>Las industrias de la Cova dels Blaus (La Vall d'Uixó, Castelló). Aportación a la transición paleolítico-epipaleolítico en las comarcas septentrionales del País Valenciano</dc:title>
+    </bib:Article>
+    <bib:BookSection rdf:about="#item_3028">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+               <dc:title>Septem! Homenaje a Alberto Gómez Castanedo</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>Santander</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chauvin</foaf:surname>
+                        <foaf:givenName>A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fano Martínez</foaf:surname>
+                        <foaf:givenName>M.A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Teira</foaf:surname>
+                        <foaf:givenName>L.C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>93-104</bib:pages>
+        <dc:date>2018</dc:date>
+        <dc:title>Tecnología lítica de los niveles magdalenienses de la cueva de El Horno (Ramales de la Victoria, Cantabria)</dc:title>
+    </bib:BookSection>
+    <bib:Article rdf:about="http://tp.revistas.csic.es/index.php/tp/article/view/678/701">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1988-3218,%200082-5638"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Garcia-Argüelles Andreu</foaf:surname>
+                        <foaf:givenName>Pilar</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nadal Lorenzo</foaf:surname>
+                        <foaf:givenName>Jordi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fullola Pericot</foaf:surname>
+                        <foaf:givenName>Josep M.ª</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bergadà Zapata</foaf:surname>
+                        <foaf:givenName>M.ª Mercè</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Domingo Sanz</foaf:surname>
+                        <foaf:givenName>Inés</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Allué Martí</foaf:surname>
+                        <foaf:givenName>Ethel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lloveras Roca</foaf:surname>
+                        <foaf:givenName>Lluís</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3030"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://tp.revistas.csic.es/index.php/tp/article/view/678/701</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>242-260</bib:pages>
+        <dc:date>2014</dc:date>
+        <dc:description>Number: 2</dc:description>
+        <dcterms:dateSubmitted>2022-12-12 12:06:11</dcterms:dateSubmitted>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:title>Nuevas interpretaciones del Paleolítico Superior Final de la Cataluña meridional: el yacimiento de L’ Hort de la Boquera (Priorat, Tarragona)</dc:title>
+        <z:shortTitle>Nuevas interpretaciones del Paleolítico Superior Final de la Cataluña meridional</z:shortTitle>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1988-3218,%200082-5638">
+        <prism:volume>71</prism:volume>
+        <prism:number>2</prism:number>
+        <dc:title>Trabajos de Prehistoria</dc:title>
+        <dc:identifier>ISSN 1988-3218, 0082-5638</dc:identifier>
+        <dcterms:alternative>Trab. prehist.</dcterms:alternative>
+        <dc:identifier>DOI 10.3989/tp.2014.12133</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_3030">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://tp.revistas.csic.es/index.php/tp/article/download/678/701</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-12-12 12:06:17</dcterms:dateSubmitted>
+        <dc:title>Full Text</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_3031">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>62</prism:volume>
+                <prism:number>1</prism:number>
+                <dc:title>Trabajos de Prehistoria</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Garcia-Argüelles Andreu</foaf:surname>
+                        <foaf:givenName>P.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nadal Lorenzo</foaf:surname>
+                        <foaf:givenName>J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fullola</foaf:surname>
+                        <foaf:givenName>J.M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>65-83</bib:pages>
+        <dc:date>2005</dc:date>
+        <dc:description>Number: 1</dc:description>
+        <dc:title>El Abrigo del Filador (Margalefde Montsant, Tarragona) y su contextualización cultural y cronológica en el nordeste peninsular</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="https://dialnet.unirioja.es/servlet/articulo?codigo=106984">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0213-2095"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Morales</foaf:surname>
+                        <foaf:givenName>Manuel R. González</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Casado</foaf:surname>
+                        <foaf:givenName>Yolanda Díaz</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3033"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://dialnet.unirioja.es/servlet/articulo?codigo=106984</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>43-64</bib:pages>
+        <dc:date>1992</dc:date>
+        <dc:description>Number: 8-9 (1991-1992)
+Publisher: Servicio de Publicaciones
+Section: Veleia: Revista de prehistoria, historia antigua, arqueología y filología clásicas</dc:description>
+        <dcterms:dateSubmitted>2022-12-12 12:09:01</dcterms:dateSubmitted>
+        <z:libraryCatalog>dialnet.unirioja.es</z:libraryCatalog>
+        <z:language>spa</z:language>
+        <dcterms:abstract>Autorías: Manuel R. González Morales, Yolanda Díaz Casado.
+Localización: Veleia: Revista de prehistoria, historia antigua, arqueología y filología clásicas. Nº 8, 1991.
+Artículo de Revista en Dialnet.</dcterms:abstract>
+        <dc:title>Excavaciones en los abrigos de la Peña del Perro (Santoña, Cantabria)</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0213-2095">
+        <prism:number>8-9 (1991-1992)</prism:number>
+        <dc:title>Veleia: Revista de prehistoria, historia antigua, arqueología y filología clásicas</dc:title>
+        <dc:identifier>ISSN 0213-2095</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_3033">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://dialnet.unirioja.es/servlet/articulo?codigo=106984</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-12-12 12:09:07</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_3034">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <prism:volume>25</prism:volume><dc:title>CuPAUAM</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gutiérrez</foaf:surname>
+                        <foaf:givenName>C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>87-118</bib:pages>
+        <dc:date>1998</dc:date>
+        <dc:title>Cambios en el equipamiento instrumental entre el Paleolítico Final y el Epipaleolítico: la cueva de La Pila</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="#item_3035">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dcterms:isPartOf>
+                    <bib:Series>
+                       <dc:title>Bizkaiko arkeologi induSketak</dc:title>
+                    </bib:Series>
+                </dcterms:isPartOf>
+                <prism:volume>1</prism:volume>
+                <dc:title>Excavaciones arqueologica en Bizkaia</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lopez Quintana</foaf:surname>
+                        <foaf:givenName>J.C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Guenga</foaf:surname>
+                        <foaf:givenName>A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sáenz de Buruaga</foaf:surname>
+                        <foaf:givenName>A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>71-110</bib:pages>
+        <dc:date>2011</dc:date>
+        <dc:title>Dinámica evolutiva de la industria lítica en la secuencia estratigráfica de Santimamiñe. -Campañas de 2004 a 2006</dc:title>
+    </bib:Article>
+    <bib:BookSection rdf:about="#item_3036">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:title>D´un monde à l´autre. Les systèmes lithiques pendant le Tardiglaciaire autour de la Méditerranée nord-occidentale</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Aix-en-Provence</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Actes de la table ronde internationale</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mangado</foaf:surname>
+                        <foaf:givenName>X.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bartrolí</foaf:surname>
+                        <foaf:givenName>R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Calvo</foaf:surname>
+                        <foaf:givenName>M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fullola</foaf:surname>
+                        <foaf:givenName>J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Petit</foaf:surname>
+                        <foaf:givenName>MaA</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bracco</foaf:surname>
+                        <foaf:givenName>J.P.e.M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <bib:pages>11-24</bib:pages>
+        <dc:date>2005</dc:date>
+        <dc:title>Les industries lithiques de la fin du Paléolithique de la Grotte du Parco (Alòs de Balaguer, Catalogne)</dc:title>
+    </bib:BookSection>
+    <bib:Article rdf:about="#item_3037">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>Zephyrvs</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Roman</foaf:surname>
+                        <foaf:givenName>D.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>209-218</bib:pages>
+        <dc:date>2011</dc:date>
+        <dc:title>Nuevos datos para la transición Pleistoceno Holoceno: el abrigo del Cingle de L’aigua (Xert, Baix Maestrat, País Valenciano)</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="http://ojs.uv.es/index.php/saguntum/article/view/331">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2174-517X,%200210-3729"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Roman Monroig</foaf:surname>
+                        <foaf:givenName>Didac</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3039"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://ojs.uv.es/index.php/saguntum/article/view/331</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>21-31</bib:pages>
+        <dc:date>2012</dc:date>
+        <dc:description>Number: 0</dc:description>
+        <dcterms:dateSubmitted>2022-12-12 12:18:53</dcterms:dateSubmitted>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:title>La producción lítica en el Abrigo de la Roureda (Vilafranca, Els Ports, Castellón)</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2174-517X,%200210-3729">
+        <prism:volume>43</prism:volume>
+        <prism:number>0</prism:number>
+        <dc:title>SAGVNTVM. Papeles del Laboratorio de Arqueología de Valencia</dc:title>
+        <dc:identifier>ISSN 2174-517X, 0210-3729</dc:identifier>
+        <dcterms:alternative>SAGVNTVM</dcterms:alternative>
+        <dc:identifier>DOI 10.7203/SAGVNTVM.43.331</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_3039">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://roderic.uv.es/bitstream/10550/24391/1/331.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-12-12 12:20:31</dcterms:dateSubmitted>
+        <dc:title>Full Text</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Thesis rdf:about="#item_3040">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>University of the Basque Country</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Soto</foaf:surname>
+                        <foaf:givenName>A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>2014</dc:date>
+        <z:type>Thesis doctoral</z:type>
+        <dc:title>Producción y gestión de la industria lítica de Atxoste (Álava):una aproximación a las sociedades epipaleolíticas y mesolíticas del Alto Ebro</dc:title>
+    </bib:Thesis>
+    <bib:Article rdf:about="#item_3041">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>36</prism:volume>
+                <dc:title>Anthropological Research Papers</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Straus</foaf:surname>
+                        <foaf:givenName>L.G.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Clark</foaf:surname>
+                        <foaf:givenName>G.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>1-499</bib:pages>
+        <dc:date>1986</dc:date>
+        <dc:title>La Riera cave: Stone age hunter-gatherer adaptations in Northern Spain</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="#item_3042">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <prism:volume>46</prism:volume><dc:title>Prehistoria</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Utrilla</foaf:surname>
+                        <foaf:givenName>P.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mazo</foaf:surname>
+                        <foaf:givenName>C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Domingo Martínez</foaf:surname>
+                        <foaf:givenName>R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>345-408</bib:pages>
+        <dc:date>2014</dc:date>
+        <dc:title>Los abrigos de Forcas en la dinámica cultural del Valle del Ebro. La ocupación de Forcas I: del Magdaleniense Antiguo al Mesolítico Microlaminar</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="#item_3043">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>Museu-Arxiu de Montblanc i Comarca, Montblanc</prism:volume>
+                <prism:number>5</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vaquero</foaf:surname>
+                        <foaf:givenName>M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>2004</dc:date>
+        <dc:description>Number: 5</dc:description>
+        <dcterms:abstract>Excavació 1999-2003</dcterms:abstract>
+        <dc:title>Els darrers caçadores-recol·lectors de la conca de Barberà: el jaciment del Molí del Salt (Vimbodí)</dc:title>
+    </bib:Article>
+    <bib:Thesis rdf:about="#item_3044">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Valencia</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>University of Valencia</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vadillo Consesa</foaf:surname>
+                        <foaf:givenName>M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>2018</dc:date>
+        <dc:title>Sistemes de producción lítica en el trànsit Plistocé-Holocè. Estudi de la seüencia arqueológica de Coves da Santa Maira (Castell de Castells, Alacant) i la seua contextualització mediterrània</dc:title>
+    </bib:Thesis>
+    <bib:Article rdf:about="#item_3045">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>564</prism:volume>
+                <dc:title>Quaternary International</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vadillo Consesa</foaf:surname>
+                        <foaf:givenName>M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Aura Tortosa</foaf:surname>
+                        <foaf:givenName>J.E.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>83-93</bib:pages>
+        <dc:date>2019</dc:date>
+        <dc:title>Lithic production in the centre and south of the Iberian Mediterranean region (Spain) throughout the Pleistocene-Holocene transition (14.5-10.5 ky cal BP)</dc:title>
+    </bib:Article>
+    <bib:Book rdf:about="#item_3046">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Andorra</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Ministeri d’Afers Socials i Cultura</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Guilaine</foaf:surname>
+                        <foaf:givenName>J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Barbaza</foaf:surname>
+                        <foaf:givenName>M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Martzluff</foaf:surname>
+                        <foaf:givenName>M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:date>2008</dc:date>
+        <dc:title>Les excavacions a la Balma de la Margineda (1979‐1991), IV</dc:title>
+        <z:numPages>598</z:numPages>
+    </bib:Book>
+    <bib:Thesis rdf:about="#item_3047">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Toulouse</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Université de Toulouse 2 Jean Jaurès</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Langlais</foaf:surname>
+                        <foaf:givenName>M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>2007</dc:date>
+        <z:type>PhD Thesis</z:type>
+        <dc:title>Dynamiques culturelles des sociétés magdaléniennes dans leurs cadres environnementaux. Enquête sur 7 000 ans d’évolution de leurs industries lithiques entre Rhône et Èbre</dc:title>
+        <z:numPages>550</z:numPages>
+    </bib:Thesis>
+    <bib:Article rdf:about="#item_3048">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>26</prism:volume>
+                <prism:number>3-4</prism:number>
+                <dc:title>Cuaternario y geomorfología: Revista de la Sociedad Española de Geomorfología y Asociación Española para el Estudio del Cuaternario</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Martzluff</foaf:surname>
+                        <foaf:givenName>M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Martinez Moreno</foaf:surname>
+                        <foaf:givenName>J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Guilaine</foaf:surname>
+                        <foaf:givenName>J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mora</foaf:surname>
+                        <foaf:givenName>R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Casanova Martí</foaf:surname>
+                        <foaf:givenName>J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>61-78</bib:pages>
+        <dc:date>2012</dc:date>
+        <dc:description>Number: 3-4</dc:description>
+        <dc:title>Cultural transformations and climate changes in the Pyrenees of Catalonia during Late Glacial and early Holocene: Azilian and Sauveterrian Balma de la Margineda and Balma Guilanyà</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="#item_3049">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>76</prism:volume>
+                <prism:number>1</prism:number>
+                <dc:title>Trabajos de Prehistoria</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Soto</foaf:surname>
+                        <foaf:givenName>L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Montes</foaf:surname>
+                        <foaf:givenName>L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Domingo</foaf:surname>
+                        <foaf:givenName>R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>García-Simón</foaf:surname>
+                        <foaf:givenName>L.M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>29-47</bib:pages>
+        <dc:date>2019</dc:date>
+        <dc:description>Number: 1</dc:description>
+        <dc:title>Nuevos datos sobre la transición Pleistoceno/Holoceno en el noreste de la oenínsula ibérica: el Sauveterriense de Peña 14 (Biel, Zaragoza)</dc:title>
+    </bib:Article>
+    <bib:Book rdf:about="urn:isbn:978-989-8052-14-8">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Trabalhos de arqueologia</dc:title>
+                <dc:identifier>52</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Lisboa</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>IGESPAR, Instituto de Gestão do Património Arquitectónico e Arqueológico</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Aubry</foaf:surname>
+                        <foaf:givenName>Thierry</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>ISBN 978-989-8052-14-8</dc:identifier>
+        <dc:date>2009</dc:date>
+        <z:libraryCatalog>BnF ISBN</z:libraryCatalog>
+        <z:language>por</z:language>
+        <dc:title>200 [duzentos] séculos de história do Vale do Côa: incursões na vida quotidiana dos caçadores-artistas do Paleolítico</dc:title>
+        <z:shortTitle>200 [duzentos] séculos de história do Vale do Côa</z:shortTitle>
+    </bib:Book>
+    <bib:Article rdf:about="#item_3051">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dcterms:isPartOf>
+                   <bib:Series><dc:title>IV</dc:title></bib:Series>
+                </dcterms:isPartOf>
+                <prism:volume>13-15 (1995-1997)</prism:volume>
+                <dc:title>O Arqueólogo Português</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bicho</foaf:surname>
+                        <foaf:givenName>N.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>53-86</bib:pages>
+        <dc:date>1999</dc:date>
+        <dc:title>A Ocupação Epipaleolítica do Abrigo Grande das Bocas, Rio Maior.</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="#item_3053">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dcterms:isPartOf>
+                    <bib:Series>
+                        <dc:title>Ministerio de Cultura, Dirección General de Bellas Artes, Archivos y Bibliotecas. Santander.</dc:title>
+                    </bib:Series>
+                </dcterms:isPartOf>
+                <prism:volume>3</prism:volume>
+                <dc:title>Monografías del centro de Investigación y Museo de Altamira</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>González Echegaray</foaf:surname>
+                        <foaf:givenName>J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Barandiarán Maestu</foaf:surname>
+                        <foaf:givenName>I.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>1981</dc:date>
+        <dc:title>El Paleolítico Superior de la Cueva del Rascaño (Santander)</dc:title>
+    </bib:Article>
+    <bib:Book rdf:about="#item_3054">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Kobie (Serie Excavaciones Arqueológicas en Bizkaia)</dc:title>
+                <dc:identifier>1</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Bilbao</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Diputación Foral de Bizkaia</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>López Quintana</foaf:surname>
+                        <foaf:givenName>J.C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:date>2011</dc:date>
+        <dc:title>La cueva de Santimamiñe: revisión y actualización (2004-2006)</dc:title>
+        <z:numPages>446</z:numPages>
+    </bib:Book>
+    <bib:BookSection rdf:about="#item_3055">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dcterms:isPartOf>
+                    <bib:Series>
+                        <dc:title>Monografies del SERP</dc:title>
+                        <dc:identifier>17</dc:identifier>
+                    </bib:Series>
+                </dcterms:isPartOf>
+                <dc:title>Las facies microlaminares del final del Paleolítico en el Mediterráneo Ibérico y el Valle del Ebro</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Barcelona</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Societat Catalana d'Arqueologia</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>García-Argüelles</foaf:surname>
+                        <foaf:givenName>P.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nadal</foaf:surname>
+                        <foaf:givenName>J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Román</foaf:surname>
+                        <foaf:givenName>D.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lloveras</foaf:surname>
+                        <foaf:givenName>Ll.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bergadá</foaf:surname>
+                        <foaf:givenName>M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Román</foaf:surname>
+                        <foaf:givenName>D.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>García-Argüelles</foaf:surname>
+                        <foaf:givenName>P.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fullola</foaf:surname>
+                        <foaf:givenName>J.M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <bib:pages>117-147</bib:pages>
+        <dc:date>2020</dc:date>
+        <dc:title>Las facies microlaminares del final del Paleolítico superior en el sur de Catalunya</dc:title>
+    </bib:BookSection>
+    <bib:BookSection rdf:about="#item_3056">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dcterms:isPartOf>
+                    <bib:Series>
+                        <dc:title>Prehistoria</dc:title>
+                        <dc:identifier>57</dc:identifier>
+                    </bib:Series>
+                </dcterms:isPartOf>
+                <dc:title>De la mano de la Prehistoria. Homenaje a Pilar Utrilla Miranda Monografías Arqueológicas</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Zaragoza</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Prensas de la Universidad de Zaragoza</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Román</foaf:surname>
+                        <foaf:givenName>D.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>García-Argüelles</foaf:surname>
+                        <foaf:givenName>M.P.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fullola</foaf:surname>
+                        <foaf:givenName>J.M.a</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bea</foaf:surname>
+                        <foaf:givenName>M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Domingo</foaf:surname>
+                        <foaf:givenName>R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mazo</foaf:surname>
+                        <foaf:givenName>C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Montes</foaf:surname>
+                        <foaf:givenName>L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rodanés</foaf:surname>
+                        <foaf:givenName>J.M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <bib:pages>341-360</bib:pages>
+        <dc:date>2021</dc:date>
+        <dc:title>La aparición de los elementos geométricos: el Abrigo de Filador y su contextualización en el Mediterráneo Ibérico y el Valle del Ebro</dc:title>
+    </bib:BookSection>
+    <bib:Book rdf:about="#item_3482">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Zaragoza</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Departamento de Ciencias de la Antigüedad, Universidad de Zaragoza</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Utrilla</foaf:surname>
+                        <foaf:givenName>Pilar</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mazo</foaf:surname>
+                        <foaf:givenName>Carlos</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>2014</dc:date>
+        <dc:title>La Peña de las Forcas (Graus, Huesca): un asentamiento estratégico en la confluencia del Esera y el Isábena</dc:title>
+    </bib:Book>
+    <bib:Book rdf:about="#item_3483">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Deusto</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Unversidad de Deusto</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Muños Salvatierra</foaf:surname>
+                        <foaf:givenName>Margarita</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Berganza</foaf:surname>
+                        <foaf:givenName>Eduardo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>1997</dc:date>
+        <dc:title>El yacimiento de la cueva de Urratxa III : (Orozko, Bizkaia)</dc:title>
+    </bib:Book>
+    <bib:Article rdf:about="#item_3484">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <prism:volume>57</prism:volume><dc:title>Munibe</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Villaverde</foaf:surname>
+                        <foaf:givenName>V.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Román</foaf:surname>
+                        <foaf:givenName>D.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>207-225</bib:pages>
+        <dc:date>2005</dc:date>
+        <dc:title>Los arpones del Magdaleniense superior de la Cova de les Cendres y su valoración en el contexto del Magdaleniense mediterráneo</dc:title>
+    </bib:Article>
+    <bib:BookSection rdf:about="#item_3485">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:title>Muge 150th: The 150th Anniversary of the Discovery of Mesolithic Shellmiddens</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Cambridge</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Cambridge Scholars Publishing</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Soto</foaf:surname>
+                        <foaf:givenName>Adriana</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tarriño Vinagre</foaf:surname>
+                        <foaf:givenName>Antonio</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Alday Ruiz</foaf:surname>
+                        <foaf:givenName>Alfonso</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>61-73</bib:pages>
+        <dc:date>2015</dc:date>
+        <dc:title>Evolution of procurement and management strategies of lithic raw materials in the Mesolithic of Atxoste (Alava, Spain)</dc:title>
+    </bib:BookSection>
+    <bib:Article rdf:about="#item_3487">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>75</prism:volume>
+                <prism:number>2</prism:number>
+                <dc:title>Trabajos de Prehistoria</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Utrilla</foaf:surname>
+                        <foaf:givenName>Pilar</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Laborda</foaf:surname>
+                        <foaf:givenName>R. Lorente</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>284-269</bib:pages>
+        <dc:date>2018</dc:date>
+        <dc:title>La cueva de Chaves (Bastarás, Huesca): 15 000 años de ocupación prehistórica</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="#item_3488">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>8</prism:volume>
+                <dc:title>CKQ: estudios de Cuaternario</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Piedrabuena-Fernández</foaf:surname>
+                        <foaf:givenName>Sebastián</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>121-146</bib:pages>
+        <dc:date>2018</dc:date>
+        <dc:title>Aproximación a la industria lítica del yacimiento prehistórico de Socuevas (Pobes, Álava)</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="#item_3489">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <prism:volume>67</prism:volume><dc:title>Munibe</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Soto</foaf:surname>
+                        <foaf:givenName>Adriana</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Alday</foaf:surname>
+                        <foaf:givenName>Alfonso</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mangado</foaf:surname>
+                        <foaf:givenName>Xavier</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Montes</foaf:surname>
+                        <foaf:givenName>Lourdes</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>295-312</bib:pages>
+        <dc:date>2016</dc:date>
+        <dc:title>Epipaleolítico y Mesolítico en la vertiente sur de los Pirineos desde la perspectiva de la industria lítica</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="https://raco.cat/index.php/RAP/article/view/251716">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2385-4723"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mangado</foaf:surname>
+                        <foaf:givenName>Xavier</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mendizábal</foaf:surname>
+                        <foaf:givenName>Maria Àngels Petit i</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fullola</foaf:surname>
+                        <foaf:givenName>Josep M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bartrolí</foaf:surname>
+                        <foaf:givenName>Raül</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3491"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://raco.cat/index.php/RAP/article/view/251716</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:rights>Drets d'autor</dc:rights>
+        <bib:pages>45-62</bib:pages>
+        <dc:date>2006</dc:date>
+        <dcterms:dateSubmitted>2023-01-17 14:35:25</dcterms:dateSubmitted>
+        <z:libraryCatalog>www.raco.cat</z:libraryCatalog>
+        <z:language>cat</z:language>
+        <dc:title>El paleolític superior final de la cova del Parco (Alòs de Balaguer, la Noguera)</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2385-4723">
+        <dc:title>Revista d'arqueologia de Ponent</dc:title>
+        <dc:identifier>ISSN 2385-4723</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_3491">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://raco.cat/index.php/RAP/article/download/251716/337036</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-17 14:35:28</dcterms:dateSubmitted>
+        <dc:title>Full Text PDF</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Thesis rdf:about="http://ir.library.louisville.edu/etd/2720">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>University of Louisville</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Holst</foaf:surname>
+                        <foaf:givenName>Melissa</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://ir.library.louisville.edu/etd/2720</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2017</dc:date>
+        <dc:description>DOI: 10.18297/etd/2720</dc:description>
+        <dcterms:dateSubmitted>2023-01-17 14:36:42</dcterms:dateSubmitted>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:title>Late Magdalenian lithic technological organization at Lapa do Picareiro, central Portugal.</dc:title>
+    </bib:Thesis>
+    <bib:Article rdf:about="https://linkinghub.elsevier.com/retrieve/pii/S2352409X19304389">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2352409X"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fano</foaf:surname>
+                        <foaf:givenName>Miguel Ángel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chauvin Grandela</foaf:surname>
+                        <foaf:givenName>Adriana</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Clemente-Conte</foaf:surname>
+                        <foaf:givenName>Ignacio</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tarriño</foaf:surname>
+                        <foaf:givenName>Antonio</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Teira</foaf:surname>
+                        <foaf:givenName>Luis C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://linkinghub.elsevier.com/retrieve/pii/S2352409X19304389</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>102230</bib:pages>
+        <dc:date>2020</dc:date>
+        <dcterms:dateSubmitted>2023-01-18 08:47:22</dcterms:dateSubmitted>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dc:title>Magdalenian knappers in the Asón Valley: Level 2 at El Horno Cave (Ramales de la Victoria, Cantabria, Spain)</dc:title>
+        <z:shortTitle>Magdalenian knappers in the Asón Valley</z:shortTitle>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2352409X">
+        <prism:volume>30</prism:volume>
+        <dc:title>Journal of Archaeological Science: Reports</dc:title>
+        <dc:identifier>ISSN 2352409X</dc:identifier>
+        <dcterms:alternative>Journal of Archaeological Science: Reports</dcterms:alternative>
+        <dc:identifier>DOI 10.1016/j.jasrep.2020.102230</dc:identifier>
+    </bib:Journal>
+    <bib:BookSection rdf:about="#item_3505">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:title>Ad Orientem: del final del Paleolítico en el norte de España a las primeras civilizaciones del Oriente Próximo: estudios en homenaje a Juan Antonio Fernández-Tresguerres Velasco</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Oviedo</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Universidad de Oviedo</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>González Morales</foaf:surname>
+                        <foaf:givenName>M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Straus</foaf:surname>
+                        <foaf:givenName>Lawrence Guy</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>189-216</bib:pages>
+        <dc:date>2012</dc:date>
+        <dc:title>Terminal Magdalenian/Azilian et El Mirón Cave (Ramales de la Victoria, Cantabria) and the Río Asón Valley</dc:title>
+    </bib:BookSection>
+    <bib:Book rdf:about="#item_3506">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Andorra</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Ministeri d'Afers Socials i Cultura</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Guilaine</foaf:surname>
+                        <foaf:givenName>Jean</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Martzluff</foaf:surname>
+                        <foaf:givenName>M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>1995</dc:date>
+        <dc:title>Les excavacions a la Balma de la Margineda (1979-1991), I-III</dc:title>
+    </bib:Book>
+    <bib:Article rdf:about="#item_3507">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>66</prism:volume>
+                <prism:number>2</prism:number>
+                <dc:title>Trabajos de Prehistoria</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Martínez-Moreno</foaf:surname>
+                        <foaf:givenName>J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mora</foaf:surname>
+                        <foaf:givenName>R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>45-60</bib:pages>
+        <dc:date>2009</dc:date>
+        <dc:title>Balma de Guilanyà y el Aziliense en el noroeste de la Península Ibérica</dc:title>
+    </bib:Article>
+</rdf:RDF>

@@ -1,0 +1,749 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
+    <bib:BookSection rdf:about="#item_2759">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:title>The Final Palaeolithic of Northern Eurasia. Proceedings of the Amersfoort, Schleswig and Burgos UISPP Commission Meetings</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Kiel</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Ludwig</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Berg-Hansen</foaf:surname>
+                        <foaf:givenName>I.M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>169-191</bib:pages>
+        <dc:date>2019</dc:date>
+        <dc:title>Alt Duvenstedt LA121 revisited - Blade technology in Ahrensburgian culture</dc:title>
+    </bib:BookSection>
+    <bib:Book rdf:about="urn:isbn:978-3-935751-12-4">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+               <dc:title>Tübingen Publications in Prehistory</dc:title>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Tübingen</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Kerns Verlag</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Floss</foaf:surname>
+                        <foaf:givenName>Harald</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <link:link rdf:resource="#item_2761"/>
+        <dc:identifier>ISBN 978-3-935751-12-4</dc:identifier>
+        <dc:date>2012</dc:date>
+        <z:libraryCatalog>K10plus ISBN</z:libraryCatalog>
+        <z:language>ger</z:language>
+        <dc:title>Steinartefakte vom Altpaläolithikum bis in die Neuzeit</dc:title>
+        <z:numPages>980</z:numPages>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_2761">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://d-nb.info/1022833669/04</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-19 14:19:00</dcterms:dateSubmitted>
+        <dc:title>Table of Contents PDF</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:BookSection rdf:about="#item_2762">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:title>Steinartefakte vom Altpaläolithikum bis in die Neuzeit</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Tübingen</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Kerns Verlag</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Floss</foaf:surname>
+                        <foaf:givenName>Harald</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Weber</foaf:surname>
+                        <foaf:givenName>Mara-Julia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>509-516</bib:pages>
+        <dc:date>2012</dc:date>
+        <z:language>ger</z:language>
+        <dc:title>Lithische Projektilspitzen im Spätglazial</dc:title>
+    </bib:BookSection>
+    <bib:Article rdf:about="https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&amp;idt=11893575">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <prism:volume>44</prism:volume><dc:title>Offa</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hartz</foaf:surname>
+                        <foaf:givenName>S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2764"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&amp;idt=11893575</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>5-52</bib:pages>
+        <dc:date>1987</dc:date>
+        <dcterms:dateSubmitted>2022-10-19 14:22:07</dcterms:dateSubmitted>
+        <dc:title>Neue spätpaläolithische Fundplätze bei Ahrenshoft, Kreis Nordfriesland</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_2764">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&amp;idt=11893575</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-19 14:22:07</dcterms:dateSubmitted>
+        <dc:title>Neue spätpaläolithische Fundplätze bei Ahrenshoft, Kreis Nordfriesland</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:BookSection rdf:about="#item_2765">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:title>Steinartefakte vom Altpaläolithikum bis in die Neuzeit</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Tübingen</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Kerns Verlag</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hartz</foaf:surname>
+                        <foaf:givenName>S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>389-398</bib:pages>
+        <dc:date>2012</dc:date>
+        <dc:title>Grundformproduktion im Nordischen Endpaläolithikum</dc:title>
+    </bib:BookSection>
+    <bib:BookSection rdf:about="#item_2766">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:title>Steinartefakte vom Altpaläolithikum bis in die Neuzeit</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Tübingen</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Kerns Verlag</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Heinen</foaf:surname>
+                        <foaf:givenName>M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>535-548</bib:pages>
+        <dc:date>2012</dc:date>
+        <dc:title>Grundformproduktion und -verwendung im frühen Mesolithikum Mitteleuropas</dc:title>
+    </bib:BookSection>
+    <bib:BookSection rdf:about="#item_2767">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:title>Stenalderstudier. Tidligt mesolitiske jægere og samlere i Sydskandinavien</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Højbjerg</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Jysk Arkæologisk Selskab</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sørensen</foaf:surname>
+                        <foaf:givenName>M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>19-75</bib:pages>
+        <dc:date>2006</dc:date>
+        <dc:title>Teknologiske traditioner i Maglemosekulturen. En diakron analyse af Maglemosekulturens flækkeindustri</dc:title>
+    </bib:BookSection>
+    <bib:Book rdf:about="urn:isbn:978-3-529-01857-2">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Untersuchungen und Materialien zur Steinzeit in Schleswig-Holstein</dc:title>
+                <dc:identifier>5</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Neumünster</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Wachholtz</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Weber</foaf:surname>
+                        <foaf:givenName>Mara-Julia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>ISBN 978-3-529-01857-2</dc:identifier>
+        <dc:date>2012</dc:date>
+        <z:libraryCatalog>BnF ISBN</z:libraryCatalog>
+        <z:language>eng</z:language>
+        <dc:title>From technology to tradition: re-evaluating the Hamburgian-Magdalenian relationship</dc:title>
+        <z:shortTitle>From technology to tradition</z:shortTitle>
+    </bib:Book>
+    <bib:Article rdf:about="#item_2769">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <prism:volume>57</prism:volume><dc:title>Quartär</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Weber</foaf:surname>
+                        <foaf:givenName>Mara-Julia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Clausen</foaf:surname>
+                        <foaf:givenName>I.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Housley</foaf:surname>
+                        <foaf:givenName>R.A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Miller</foaf:surname>
+                        <foaf:givenName>C.E.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Riede</foaf:surname>
+                        <foaf:givenName>F.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Usinger</foaf:surname>
+                        <foaf:givenName>H.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>7-24</bib:pages>
+        <dc:date>2010</dc:date>
+        <dc:title>New information on the Havelte Group site Ahrenshöft LA 58 D (Nordfriesland, Germany) - Preliminary results of the 2008 fieldwork</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="#item_2770">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <prism:volume>59</prism:volume><dc:title>Die Kunde N.F.</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Breest</foaf:surname>
+                        <foaf:givenName>K.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gerken</foaf:surname>
+                        <foaf:givenName>K.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>1-38</bib:pages>
+        <dc:date>2008</dc:date>
+        <dc:title>Kulturelle Einflüsse und Beziehungen im Spätpaläolithikum Niedersachsens – Ein Diskussionsbeitrag</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="#item_2771">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>6</prism:volume>
+                <dc:title>Archäologische Nachrichten aus Schleswig-Holstein</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Clausen</foaf:surname>
+                        <foaf:givenName>I.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>103-126</bib:pages>
+        <dc:date>1996</dc:date>
+        <dc:title>Alt Duvenstedt, Kreis Rendsburg-Eckernförde, LA 121: Ein Ahrensburger Kulturvorkommen in allerødzeitlichem Boden</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="#item_2772">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <prism:volume>45</prism:volume><dc:title>Offa</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Clausen</foaf:surname>
+                        <foaf:givenName>I.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hartz</foaf:surname>
+                        <foaf:givenName>S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>17-41</bib:pages>
+        <dc:date>1988</dc:date>
+        <dc:title>Fundplätze des Spätglazials am Sorgetal bei Alt Duvenstedt, Kreis Rendsburg-Eckernforde</dc:title>
+    </bib:Article>
+    <bib:Book rdf:about="#item_2773">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Oldenburg</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Kommissionsverlag Isensee Verlag</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gerken</foaf:surname>
+                        <foaf:givenName>K.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>2001</dc:date>
+        <dc:title>Studien zur jung- und spätpaläolithischen sowie mesolithischen Besiedlung im Gebiet zwischen Wümme und Oste</dc:title>
+        <z:numPages>219</z:numPages>
+    </bib:Book>
+    <bib:Article rdf:about="#item_2774">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>16</prism:volume>
+                <dc:title>Nachrichten aus Niedersachsens Urgeschichte Beiheft</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gerken</foaf:surname>
+                        <foaf:givenName>K.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>232-234</bib:pages>
+        <dc:date>2011</dc:date>
+        <dc:title>371 Bierden FStNr. 30, Gde. Stadt Achim, Ldkr. Verden, ehem. Reg.Bez. Lü.</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="#item_2775">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>16</prism:volume>
+                <dc:title>Nachrichten aus Niedersachsens Urgeschichte Beiheft</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gerken</foaf:surname>
+                        <foaf:givenName>K.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>234-236</bib:pages>
+        <dc:date>2011</dc:date>
+        <dc:title>372 Bierden FStNr. 31, Gde. Stadt Achim, Ldkr. Verden, ehem. Reg.Bez. Lü.</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="#item_2776">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>47</prism:volume>
+                <dc:title>Jahrbuch des Römisch-Germanischen Zentralmuseums Mainz</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gramsch</foaf:surname>
+                        <foaf:givenName>B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>51-96</bib:pages>
+        <dc:date>2002</dc:date>
+        <dc:title>Friesack: Letzte Jäger und Sammler in Brandenburg</dc:title>
+    </bib:Article>
+    <bib:Book rdf:about="urn:isbn:978-3-86935-326-5">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Kiel</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Ludwig</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Groß</foaf:surname>
+                        <foaf:givenName>Daniel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2778"/>
+        <link:link rdf:resource="#item_2779"/>
+        <dc:identifier>ISBN 978-3-86935-326-5</dc:identifier>
+        <dc:date>2017</dc:date>
+        <z:libraryCatalog>ResearchGate</z:libraryCatalog>
+        <dcterms:abstract>Im Fokus dieser Arbeit steht die Ausbreitung der frühen Mittelsteinzeit in die nordmitteleuropäische Tiefebene. In seiner Studie untersucht der Autor, welche ökologischen Kriterien für die Lagerplatzwahl in der beginnenden Mittelsteinzeit wichtig gewesen sind.
+
+Als Fallstudie wird in der Arbeit der Fundplatz Friesack 27a aus Brandenburg vorgelegt, der zugleich als Ausgangspunkt für die übergreifenden Analysen dient. An jener Station konnten bis zu sieben Siedlungsphasen unterschieden werden, die unter Zuhilfenahme umfangreicher paläoökologischer Analysen in ihre naturräumliche Umgebung eingegliedert wurden.
+
+Im Zusammenspiel von Literatur- und Fallstudie werden modellhafte Umweltrekonstruktionen entwickelt und mit Analysen von Fundspektren und Lagerplatzwahl verknüpft. So kann belegt werden, dass die Ausbreitung frühmesolithischer Traditionen im Arbeitsgebiet durch eine starke Ökoregionskontinuität geprägt war.</dcterms:abstract>
+        <dc:title>Welt und Umwelt frühmesolithischer Jäger und Sammler. Mensch-Umwelt-Interaktion im Frühholozän in der nordmitteleuropäischen Tiefebene</dc:title>
+        <z:numPages>235</z:numPages>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_2778">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.researchgate.net/profile/Daniel-Gross-3/publication/315697067_Welt_und_Umwelt_fruhmesolithischer_Jager_und_Sammler_Mensch-Umwelt-Interaktion_im_Fruhholozan_in_der_nordmitteleuropaischen_Tiefebene/links/58dcdfc692851c611d46f650/Welt-und-Umwelt-fruehmesolithischer-Jaeger-und-Sammler-Mensch-Umwelt-Interaktion-im-Fruehholozaen-in-der-nordmitteleuropaeischen-Tiefebene.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-19 14:46:24</dcterms:dateSubmitted>
+        <dc:title>Full Text PDF</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_2779">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.researchgate.net/publication/315697067_Welt_und_Umwelt_fruhmesolithischer_Jager_und_Sammler_Mensch-Umwelt-Interaktion_im_Fruhholozan_in_der_nordmitteleuropaischen_Tiefebene</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-19 14:46:24</dcterms:dateSubmitted>
+        <dc:title>ResearchGate Link</dc:title>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:978-3-88467-226-6">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Mainz</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Verlag des Römisch-Germanischen Zentralmuseums</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Holst</foaf:surname>
+                        <foaf:givenName>Daniela</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>ISBN 978-3-88467-226-6</dc:identifier>
+        <dc:date>2014</dc:date>
+        <z:libraryCatalog>BnF ISBN</z:libraryCatalog>
+        <z:language>ger</z:language>
+        <dc:title>Subsistenz und Landschaftsnutzung im Frühmesolithikum: Nussröstplätze am Duvensee</dc:title>
+        <z:shortTitle>Subsistenz und Landschaftsnutzung im Frühmesolithikum</z:shortTitle>
+    </bib:Book>
+    <bib:Book rdf:about="#item_2781">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Neumünster, Holstein</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Wachholtz</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rust</foaf:surname>
+                        <foaf:givenName>A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>1937</dc:date>
+        <dc:title>Das altsteinzeitliche Rentierjägerlager Meiendorf</dc:title>
+    </bib:Book>
+    <bib:Book rdf:about="#item_2782">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Series><dc:title>OffaBücher</dc:title></bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Neumünster</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Wachholtz</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rust</foaf:surname>
+                        <foaf:givenName>A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>1958</dc:date>
+        <dc:title>Die jungpaläolithischen Zeltanlagen von Ahrensburg</dc:title>
+    </bib:Book>
+    <bib:Book rdf:about="#item_2783">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Neumünster</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Wachholtz Verlag</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schwabedissen</foaf:surname>
+                        <foaf:givenName>H.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>1954</dc:date>
+        <dc:title>Die Federmesser-Gruppen des nordwesteuropäischen Flachlandes : zur Ausbreitung des Spät-Magdalénien</dc:title>
+    </bib:Book>
+    <bib:Article rdf:about="#item_2784">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <prism:volume>86</prism:volume><dc:title>Antiquity</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Veil</foaf:surname>
+                        <foaf:givenName>S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Breest</foaf:surname>
+                        <foaf:givenName>K.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Grootes</foaf:surname>
+                        <foaf:givenName>P.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nadeau</foaf:surname>
+                        <foaf:givenName>M.-J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hüls</foaf:surname>
+                        <foaf:givenName>M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>660-673</bib:pages>
+        <dc:date>2015</dc:date>
+        <dc:title>A 14 000-year-old amber elk and the origins of northern European art</dc:title>
+    </bib:Article>
+    <bib:Book rdf:about="#item_2785">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Kiel/Hamburg</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Wachholtz</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Winkler</foaf:surname>
+                        <foaf:givenName>K.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>2019</dc:date>
+        <dc:title>Ahrensburgien und Swiderien im mittleren Oderraum. Technologische und typologische Untersuchungen an Silexartefakten der Jüngeren Dryaszeit</dc:title>
+    </bib:Book>
+</rdf:RDF>

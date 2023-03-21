@@ -1,0 +1,1577 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#">
+    <bib:Article rdf:about="#item_2788">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>2017 (Nov-Dec)</prism:volume>
+                <dc:title>British Archaeology</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ballin</foaf:surname>
+                        <foaf:givenName>Torben Bjarke</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2789"/>
+        <bib:pages>26-31</bib:pages>
+        <dc:date>2017</dc:date>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dc:title>Beyond Howburn – the investigation of the Scottish Late Upper Palaeolithic period</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_2789">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://d1wqtxts1xzle7.cloudfront.net/54670146/Scotland_in_Late_Glacial_times_Brit_Arch_-_for_Academia-with-cover-page-v2.pdf?Expires=1667553179&amp;Signature=J5JkniLRyh5SjW1Gg9v-Yuy~wPzTwo6B4NRejC8od9vOLmp2x-GzG3BDCfeglZ57O-m2NKQipvYHl0E7VYYYq6HIhdXTleKCfLk9NOhHZRNqsHIHPlTNX6vMhg1XHYd3PVgTwq4Y1skND3bjO0iOngCmqj2hLEIzrfUVdsNo19iVAO1LJ6NcCQuXnvl8AKUk45VSY0UBR17-Vy-Dm39XxVtLc3hEfGHw8FjLeS7lx9U3J4Gw-rvzSCaQWQkShWFfZY~WnAvPGTo1BO5ZHCvQlSPZnE1b9UeDAOtiAPpCr6QjS9bD79kX81VLiGzRhS~PFun6dmtYZAabznDoNwIvtA__&amp;Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-11-04 08:13:10</dcterms:dateSubmitted>
+        <dc:title>Ballin - Beyond Howburn – the investigation of the Scottish.pdf</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:978-1-78491-902-3">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Oxford</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Archaeopress Publishing Ltd</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ballin</foaf:surname>
+                        <foaf:givenName>Torben Bjarke</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2791"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Social Science / Archaeology</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Social Science / Anthropology / Physical</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>ISBN 978-1-78491-902-3</dc:identifier>
+        <dc:date>2018</dc:date>
+        <dc:description>Google-Books-ID: EHwvEAAAQBAJ</dc:description>
+        <z:libraryCatalog>Google Books</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dcterms:abstract>This volume presents the lithic assemblage from Howburn in South Lanarkshire, Scotland, which at present is the oldest prehistoric settlement in Scotland (12,700-12,000 BC), and the only Hamburgian settlement in Britain. The site also included a scatter from the Late Upper Palaeolithic Federmesser- Gruppen period (12,000-10,800 BC), as well as lithics from the Mesolithic, Neolithic and Early Bronze Age. The book focuses on the Hamburgian finds, which are mainly based on the exploitation of flint from Doggerland, the then dry bed of the North Sea. The Hamburgian tools include tanged arrowheads, scrapers, piercers, burins, and other implement forms which show similarities with tools of the same age on the European continent. The shape of one scatter suggests that the Palaeolithic settlers lived in tent-like structures. The Palaeolithic finds from Howburn shed light on several important general trends, such as the ‘acclimatization’ of pioneer settlers, as well as the development of regional differences following the initial Late Glacial recolonization of Scotland. Palaeo-environmental work focused on whether there was a small lake (‘Loch Howburn’) in front of the terrace on which the camp was situated, and it was concluded that there was indeed a lake there, but it was neither contemporary with the Hamburgian, nor the Federmesser-Gruppen settlement. Most likely, ‘Loch Howburn’ dates to the Loch Lomond stadial.</dcterms:abstract>
+        <dc:title>Reindeer hunters at Howburn Farm, South Lanarkshire: A Late Hamburgian settlement in southern Scotland – its lithic artefacts and natural environment</dc:title>
+        <z:shortTitle>Reindeer hunters at Howburn Farm, South Lanarkshire</z:shortTitle>
+        <z:numPages>150</z:numPages>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_2791">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://books.google.dk/books?id=EHwvEAAAQBAJ</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-11-04 08:14:40</dcterms:dateSubmitted>
+        <dc:title>Google Books Link</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_2792">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>22</prism:volume>
+                <prism:number>2</prism:number>
+                <dc:title>Oxford Journal of Archaeology</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ballin</foaf:surname>
+                        <foaf:givenName>T. B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Saville</foaf:surname>
+                        <foaf:givenName>A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>115-131</bib:pages>
+        <dc:date>2003</dc:date>
+        <dc:description>Number: 2</dc:description>
+        <dc:title>An ahrensburgian-type tanged point from shieldag, wester ross, scotland, and its implications</dc:title>
+    </bib:Article>
+    <bib:Thesis rdf:about="https://ora.ox.ac.uk/objects/uuid:870615a7-3f6c-4733-893c-c618dd120d2c">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Oxford</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>University of Oxford</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Barton</foaf:surname>
+                        <foaf:givenName>R. N. E.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2794"/>
+        <link:link rdf:resource="#item_2795"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ora.ox.ac.uk/objects/uuid:870615a7-3f6c-4733-893c-c618dd120d2c</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>1986</dc:date>
+        <dcterms:dateSubmitted>2022-11-04 08:20:29</dcterms:dateSubmitted>
+        <z:libraryCatalog>ora.ox.ac.uk</z:libraryCatalog>
+        <z:language>English</z:language>
+        <dc:title>A study of selected British and European flint assemblages of Late Devensian and Early Flandrian Age</dc:title>
+    </bib:Thesis>
+    <z:Attachment rdf:about="#item_2794">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ora.ox.ac.uk/objects/uuid:870615a7-3f6c-4733-893c-c618dd120d2c/download_file?safe_filename=Barton_1986_Flint_Assemblages.pdf&amp;file_format=pdf&amp;type_of_work=Thesis</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-11-04 08:20:47</dcterms:dateSubmitted>
+        <dc:title>Full Text PDF</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_2795">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ora.ox.ac.uk/objects/uuid:870615a7-3f6c-4733-893c-c618dd120d2c</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-11-04 08:20:35</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="#item_2796">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Oxford</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Oxford University School of Archaeology</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Barton</foaf:surname>
+                        <foaf:givenName>R. N. E.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>1992</dc:date>
+        <dc:title>Hengistbury Head, Dorset, Volume 2: The Late Upper Palaeolithic and Early Mesolithic Sites</dc:title>
+        <z:numPages>299</z:numPages>
+    </bib:Book>
+    <bib:Article rdf:about="#item_2797">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>20</prism:volume>
+                <prism:number>2</prism:number>
+                <dc:title>Proceedings of the University of Bristol Spelaeological Society</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Barton</foaf:surname>
+                        <foaf:givenName>R. N. E.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>153-159</bib:pages>
+        <dc:date>1993</dc:date>
+        <dc:description>Number: 2</dc:description>
+        <dc:title>Excavations in the Wye Valley</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="#item_2798">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>20</prism:volume>
+                <prism:number>3</prism:number>
+                <dc:title>Proceedings of the University of Bristol Spelaeological Society</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Barton</foaf:surname>
+                        <foaf:givenName>R. N. E.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>263-273</bib:pages>
+        <dc:date>1996</dc:date>
+        <dc:description>Number: 3</dc:description>
+        <dc:title>Fourth interim report on the survey and excavations in the Wye Valley 1996</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="#item_2799">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <prism:volume>56</prism:volume><dc:title>Quartär</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Barton</foaf:surname>
+                        <foaf:givenName>R. N. E.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ford</foaf:surname>
+                        <foaf:givenName>S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Collcutt</foaf:surname>
+                        <foaf:givenName>S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Crowther</foaf:surname>
+                        <foaf:givenName>J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>MacPhail</foaf:surname>
+                        <foaf:givenName>R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rhodes</foaf:surname>
+                        <foaf:givenName>E.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>van Gijn</foaf:surname>
+                        <foaf:givenName>A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>1-29</bib:pages>
+        <dc:date>2009</dc:date>
+        <dc:title>A Final Upper Palaeolithic site at Nea Farm , Somerley , Hampshire (England) and some reflections on the occupation of Britain in the Late Glacial Interstadial</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="#item_2800">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>1986</prism:volume>
+                <dc:title>The Palaeolithic of Britain and its nearest neighbours: recent trends. University of Sheffield</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Barton</foaf:surname>
+                        <foaf:givenName>R. N. E.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Froom</foaf:surname>
+                        <foaf:givenName>F. R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>80-84</bib:pages>
+        <dc:date>1986</dc:date>
+        <dc:title>The long blade assemblage from Avington VI, Berkshire</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="#item_2801">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>15</prism:volume>
+                <prism:number>3</prism:number>
+                <dc:title>Oxford Journal of Archaeology</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Barton</foaf:surname>
+                        <foaf:givenName>R. N. E.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Roberts</foaf:surname>
+                        <foaf:givenName>A. J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>245-265</bib:pages>
+        <dc:date>1996</dc:date>
+        <dc:description>Number: 3</dc:description>
+        <dc:title>Reviewing the British Late Upper Palaeolithic: New Evidence for Chronological Patterning in the Lateglacial Record</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="#item_2802">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>Report</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Collcutt</foaf:surname>
+                        <foaf:givenName>S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>1986</dc:date>
+        <dc:title>The Later Upper Palaeolithic site of Pixie’s Hole, Chudleigh, South Devon</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="#item_2803">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>16</prism:volume>
+                <prism:number>1</prism:number>
+                <dc:title>Proceedings of the University of Bristol Spelaeological Society</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Collcutt</foaf:surname>
+                        <foaf:givenName>S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Currant</foaf:surname>
+                        <foaf:givenName>A. P.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hawkes</foaf:surname>
+                        <foaf:givenName>C. J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>21-38</bib:pages>
+        <dc:date>1981</dc:date>
+        <dc:description>Number: 1</dc:description>
+        <dc:title>A further report on the excavations at Sun Hole, Cheddar</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="#item_2804">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>26</prism:volume>
+                <prism:number>3</prism:number>
+                <dc:title>Oxford Journal of Archaeology</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Conneller</foaf:surname>
+                        <foaf:givenName>C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>215-237</bib:pages>
+        <dc:date>2007</dc:date>
+        <dc:description>Number: 3</dc:description>
+        <dc:title>Inhabiting new landscapes: settlement and mobility in Britain after the last glacial maximum</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="https://www.cambridge.org/core/journals/proceedings-of-the-prehistoric-society/article/abs/investigation-of-a-final-palaeolithic-site-at-rookery-farm-great-wilbraham-cambridgeshire/5092ADA11D00A6C694F0CD74A1454798">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2050-2729,%200079-497X"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Conneller</foaf:surname>
+                        <foaf:givenName>Chantal</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ballantyne</foaf:surname>
+                        <foaf:givenName>Rachel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>French</foaf:surname>
+                        <foaf:givenName>Charles</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Speller</foaf:surname>
+                        <foaf:givenName>George</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2806"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.cambridge.org/core/journals/proceedings-of-the-prehistoric-society/article/abs/investigation-of-a-final-palaeolithic-site-at-rookery-farm-great-wilbraham-cambridgeshire/5092ADA11D00A6C694F0CD74A1454798</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>167-187</bib:pages>
+        <dc:date>2009</dc:date>
+        <dc:description>Publisher: Cambridge University Press</dc:description>
+        <dcterms:dateSubmitted>2022-11-04 08:45:06</dcterms:dateSubmitted>
+        <z:libraryCatalog>Cambridge University Press</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dcterms:abstract>This paper presents the results of excavations at an Upper Palaeolithic site that was discovered at Rookery Farm, Great Wilbraham, Cambridgeshire in 2002. Diagnostic lithic material – three penknife points – indicates that the site was probably occupied between 12,000 and 11,000 BP, a time of deteriorating climatic conditions. Excavations discovered a small task site, located to take advantage of water and a lithic raw material source. The paper discusses Rookery Farm in relation to other sites of this date and patterns of mobility and settlement across north-west Europe., Cette étude présente les résultats d'excavations d'un site du paléolithique supérieur qui avait été découvert à Rookery Farm, Great Wilbraham, Cambridgeshireen 2002. Un matériel lithique diagnostique – trois pointes de canif – indique que le site était probablement occupé entre 12 000 et 11 000 avant le présent, époque où les conditions climatiques se détérioraient. Les excavations ont découvert un petit site artisanal, établi là pour tirer avantage de l'eau et d'une source de matière première lithique. Cette étude examine Rookery Farm par rapport aux autres sites de cette date et aux schémas de mobilité et d'occupation à travers le nord-ouest de l'Europe., Este trabajo presenta los resultados de las excavaciones en un yacimiento del Alto Paleolítico descubierto en Rookery Farm, Great Wilbraham, Cambridgeshire el año 2002. Material lítico diagnóstico – tres puntas de navaja – indica que el yacimiento probablemente estuvo ocupado entre 12,000 y 11,000 BP, un periodo de empeoramiento de las condiciones climáticas. Las excavaciones descubrieron un pequeño yacimiento de trabajo, bien situado para aprovechar fuentes de agua y materia prima lítica. El trabajo examina Rookery Farm en relación con otros yacimientos de esta fecha y los modelos de movilidad y asentamiento en el noroeste de Europa., Dieser Beitrag stellt die Ausgrabungsergebnisse einer Spätpaläolithischen Fundstelle vor, die in Rookery Farm, Great Wilbraham, Cambridgeshire 2002 entdeckt wurde. Diagnostische Steinindustrie – drei Federmesserspitzen – zeigt, dass die Fundstelle wahrscheinlich zwischen 12,000 und 11,000 BP, einer Zeit mit sich verschlechternden klimatischen Bedingungen, benutzt wurde. Ausgrabungen erbrachten Hinweise auf eine kleine Workshop Fundstelle in günstiger Lage zu Wasser und Steinrohmaterialien. Der Artikel diskutiert Rookery Farm in Verbindung zu anderen, gleichzeitigen Fundstellen und Mobilitäts- und Besiedlungsmustern in Nordwest Europa.</dcterms:abstract>
+        <dc:title>Investigation of a Final Palaeolithic Site at Rookery Farm, Great Wilbraham, Cambridgeshire</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2050-2729,%200079-497X">
+        <prism:volume>75</prism:volume>
+        <dc:title>Proceedings of the Prehistoric Society</dc:title>
+        <dc:identifier>ISSN 2050-2729, 0079-497X</dc:identifier>
+        <dc:identifier>DOI 10.1017/S0079497X00000347</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_2806">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.cambridge.org/core/journals/proceedings-of-the-prehistoric-society/article/abs/investigation-of-a-final-palaeolithic-site-at-rookery-farm-great-wilbraham-cambridgeshire/5092ADA11D00A6C694F0CD74A1454798</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-11-04 08:45:18</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:BookSection rdf:about="#item_2807">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:title>No Stone Unturned : Papers in Honour of Roger Jacobi</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>London</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Lithic Studies Society</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Conneller</foaf:surname>
+                        <foaf:givenName>C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hingham</foaf:surname>
+                        <foaf:givenName>T.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>157-66</bib:pages>
+        <dc:date>2015</dc:date>
+        <dc:title>The early Mesolithic colonisation of Britain: preliminary results</dc:title>
+    </bib:BookSection>
+    <bib:BookSection rdf:about="#item_2808">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+               <dc:title>Proceedings of the Prehistoric Society</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>London</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Prehistoric Society</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cooper</foaf:surname>
+                        <foaf:givenName>L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>53-93</bib:pages>
+        <dc:date>2006</dc:date>
+        <dc:title>Launde, a terminal palaeolithic camp-site in the english midlands and its north european context</dc:title>
+    </bib:BookSection>
+    <bib:Article rdf:about="#item_2809">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <prism:number>33</prism:number><dc:title>Lithics</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cooper</foaf:surname>
+                        <foaf:givenName>L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>30-39</bib:pages>
+        <dc:date>2012</dc:date>
+        <dc:description>Number: 33</dc:description>
+        <dc:title>An open-air Creswellian site at Bradgate Park, Newton Linford, Leistershire</dc:title>
+    </bib:Article>
+    <bib:Book rdf:about="urn:isbn:978-0-86159-153-4">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>The British Museum research publication</dc:title>
+                <dc:identifier>no. 153</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>London</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>British Museum</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Froom</foaf:surname>
+                        <foaf:givenName>Roy</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cook</foaf:surname>
+                        <foaf:givenName>J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Antiquities</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Excavations (Archaeology)</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Mesolithic period</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Tools, Prehistoric</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>England Kennet Valley</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Kennet Valley (England)</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>ISBN 978-0-86159-153-4</dc:identifier>
+        <dc:date>2005</dc:date>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>GN774.22.G7 F78 2005</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <z:libraryCatalog>Library of Congress ISBN</z:libraryCatalog>
+        <dc:title>Late glacial long blade sites in the Kennet Valley: excavations and fieldwork at Avington VI, Wawcott XII and Crown Acres</dc:title>
+        <z:shortTitle>Late glacial long blade sites in the Kennet Valley</z:shortTitle>
+        <z:numPages>130</z:numPages>
+    </bib:Book>
+    <bib:Article rdf:about="#item_2811">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>70</prism:volume>
+                <dc:title>Proceedings of the Prehistoric Society</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jacobi</foaf:surname>
+                        <foaf:givenName>R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>1-92</bib:pages>
+        <dc:date>2004</dc:date>
+        <dc:title>The Late Upper Palaeolithic lithic collection from Gough’s Cave, Cheddar, Somerset and human use of the cave</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="#item_2812">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>23</prism:volume>
+                <prism:number>3</prism:number>
+                <dc:title>Proceedings of the University of Bristol Spelaeological Society</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jacobi</foaf:surname>
+                        <foaf:givenName>R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>267-295</bib:pages>
+        <dc:date>2005</dc:date>
+        <dc:description>Number: 3</dc:description>
+        <dc:title>Some observations on the lithic artefacts from Aveline’s Hole, Burrington Combe, North Somerset</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="#item_2813">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>28</prism:volume>
+                <prism:number>19</prism:number>
+                <dc:title>Quaternary Science Reviews</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jacobi</foaf:surname>
+                        <foaf:givenName>R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Higham</foaf:surname>
+                        <foaf:givenName>T.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>1895-1913</bib:pages>
+        <dc:date>2009</dc:date>
+        <dc:description>Number: 19</dc:description>
+        <dc:title>The early Lateglacial re-colonization of Britain: new radiocarbon evidence from Gough’s Cave, southwest England</dc:title>
+    </bib:Article>
+    <bib:BookSection rdf:about="urn:isbn:978-0-444-53597-9">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <prism:volume>14</prism:volume>
+                <dc:identifier>ISBN 978-0-444-53597-9</dc:identifier>
+                <dc:title>Developments in Quaternary Sciences</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>London</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Elsevier</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jacobi</foaf:surname>
+                        <foaf:givenName>Roger</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Higham</foaf:surname>
+                        <foaf:givenName>Tom</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://linkinghub.elsevier.com/retrieve/pii/B9780444535979000121</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>223-247</bib:pages>
+        <dc:date>2011</dc:date>
+        <dc:description>DOI: 10.1016/B978-0-444-53597-9.00012-1</dc:description>
+        <dcterms:dateSubmitted>2022-11-04 08:56:10</dcterms:dateSubmitted>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dc:title>The Later Upper Palaeolithic Recolonisation of Britain: New Results from AMS Radiocarbon Dating</dc:title>
+        <z:shortTitle>The Later Upper Palaeolithic Recolonisation of Britain</z:shortTitle>
+    </bib:BookSection>
+    <bib:Article rdf:about="#item_2815">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>Palaeolithic cave art at Creswell Crags in European Context</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jacobi</foaf:surname>
+                        <foaf:givenName>R. M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>71-111</bib:pages>
+        <dc:date>2007</dc:date>
+        <dc:title>The Stone Age archaeology of Church Hole, Creswell Crags, Nottinghamshire</dc:title>
+    </bib:Article>
+    <bib:Book rdf:about="#item_2816">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Woking, Surrey</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>SpoilHeap Publications</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jones</foaf:surname>
+                        <foaf:givenName>P.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>2013</dc:date>
+        <dc:title>Upper Palaeolithic Sites in the Lower Courses of the Rivers Colne and Wey: Excavations at Church Lammas and Way Manor Farm (Monograph 5)</dc:title>
+    </bib:Book>
+    <bib:Book rdf:about="#item_2817">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>London</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Museum of London Archaeology</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lewis</foaf:surname>
+                        <foaf:givenName>J.S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rackham</foaf:surname>
+                        <foaf:givenName>J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>2011</dc:date>
+        <dc:title>Three Ways Wharf, Uxbridge: A Lateglacial and Early Holocene Hunter-Gatherer Site in the Colne Valley</dc:title>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:978-1-912482-00-9">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Leeds/Sheffield/York</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>White Rose University Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Milner</foaf:surname>
+                        <foaf:givenName>Nicky</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Conneller</foaf:surname>
+                        <foaf:givenName>Chantal</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Taylor</foaf:surname>
+                        <foaf:givenName>Barry</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <link:link rdf:resource="#item_2821"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://universitypress.whiterose.ac.uk/site/books/10.22599/book2/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:identifier>ISBN 978-1-912482-00-9</dc:identifier>
+        <dc:date>2018</dc:date>
+        <dc:description>DOI: 10.22599/book2</dc:description>
+        <dcterms:dateSubmitted>2022-11-04 09:02:09</dcterms:dateSubmitted>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:title>Star Carr Volume II</dc:title>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_2821">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://universitypress.whiterose.ac.uk/site/books/10.22599/book2/download/2008/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-11-04 09:15:16</dcterms:dateSubmitted>
+        <dc:title>Full Text</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_2822">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>27</prism:volume>
+                <prism:number>2</prism:number>
+                <dc:title>Proceedings of the University of Bristol Spelaeological Society</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rees</foaf:surname>
+                        <foaf:givenName>C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nash</foaf:surname>
+                        <foaf:givenName>G.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>185-96</bib:pages>
+        <dc:date>2017</dc:date>
+        <dc:description>Number: 2</dc:description>
+        <dc:title>Recent Archaeological Investigations at Kendrick’s Upper Cave, Great Orme, Llandudno</dc:title>
+    </bib:Article>
+    <bib:Book rdf:about="#item_2823">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Oxford</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Archaeopress</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Reynier</foaf:surname>
+                        <foaf:givenName>M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>2005</dc:date>
+        <dc:title>Early Mesolithic Britain: Origins, Development and Directions</dc:title>
+    </bib:Book>
+    <bib:Article rdf:about="#item_2824">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>49</prism:volume>
+                <prism:number>3</prism:number>
+                <dc:title>Journal of Human Evolution</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Richards</foaf:surname>
+                        <foaf:givenName>M.P.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jacobi</foaf:surname>
+                        <foaf:givenName>R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cook</foaf:surname>
+                        <foaf:givenName>J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pettitt</foaf:surname>
+                        <foaf:givenName>P.B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Stringer</foaf:surname>
+                        <foaf:givenName>C.B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>390-94</bib:pages>
+        <dc:date>2005</dc:date>
+        <dc:description>Number: 3</dc:description>
+        <dc:title>Isotope evidence for the intensive use of marine foods by Late Upper Palaeolithic humans</dc:title>
+    </bib:Article>
+    <bib:BookSection rdf:about="#item_2825">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:title>Préhistoire de l’Europe du Nord-Ouest: mobilités, climats et identités culturelles</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Paris</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Société Préhistorique française</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Barton</foaf:surname>
+                        <foaf:givenName>R. N. E.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Roberts</foaf:surname>
+                        <foaf:givenName>A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>281-389</bib:pages>
+        <dc:date>2020</dc:date>
+        <dc:title>The Transition from the Younger Dryas to the Pre-Boreal in Southern Britain: Some New Perspectives on the Spatial Patterning and Chronology of Long Blade Sites</dc:title>
+    </bib:BookSection>
+    <bib:Article rdf:about="#item_2826">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>139</prism:volume>
+                <dc:title>Proceedings of the Society of Antiquaries of Scotland</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Saville</foaf:surname>
+                        <foaf:givenName>A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ballin</foaf:surname>
+                        <foaf:givenName>T. B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>9-45</bib:pages>
+        <dc:date>2010</dc:date>
+        <dc:title>Upper Palaeolithic evidence from Kilmelfort Cave, Argyll: a re-evaluation of the lithic assemblage</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="#item_2827">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>35</prism:volume>
+                <prism:number>1/4</prism:number>
+                <dc:title>The British Museum Quarterly</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sieveking</foaf:surname>
+                        <foaf:givenName>G. de G.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>230-50</bib:pages>
+        <dc:date>1971</dc:date>
+        <dc:description>Number: 1/4</dc:description>
+        <dc:title>The Kendrick’s Cave Mandible</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="#item_2828">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>37</prism:volume>
+                <prism:number>1</prism:number>
+                <dc:title>Journal of Archaeological Science</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Stevens</foaf:surname>
+                        <foaf:givenName>R.E.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jacobi</foaf:surname>
+                        <foaf:givenName>R. M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Higham</foaf:surname>
+                        <foaf:givenName>T.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>52-61</bib:pages>
+        <dc:date>2010</dc:date>
+        <dc:description>Number: 1</dc:description>
+        <dc:title>Reassessing the diet of Upper Palaeolithic humans from Gough’s Cave and Sun Hole, Cheddar Gorge, Somerset, UK</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="#item_2829">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>7</prism:volume>
+                <prism:number>2</prism:number>
+                <dc:title>Proceedings of the University of Bristol Spelaeological Society</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tratman</foaf:surname>
+                        <foaf:givenName>E.K.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>61-70</bib:pages>
+        <dc:date>1955</dc:date>
+        <dc:description>Number: 2</dc:description>
+        <dc:title>Second report on the excavations at Sun Hole Cheddar: the Pleistocene levels</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="https://www.cambridge.org/core/product/identifier/S0079497X00011014/type/journal_article">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0079-497X,%202050-2729"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wymer</foaf:surname>
+                        <foaf:givenName>J. J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jacobi</foaf:surname>
+                        <foaf:givenName>R. M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rose</foaf:surname>
+                        <foaf:givenName>J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.cambridge.org/core/product/identifier/S0079497X00011014/type/journal_article</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>235-241</bib:pages>
+        <dc:date>1975</dc:date>
+        <dcterms:dateSubmitted>2022-11-04 09:14:32</dcterms:dateSubmitted>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dcterms:abstract>Summary
+            Commercial gravel working in the Devil's Wood Pit, Sproughton, situated in the flood plain of the River Gipping, has produced as chance finds two barbed points of bone and antler. Both came from the sand and gravel deposits which fill the buried channel of the Gipping. The points are discussed in relation to other barbed points found in England, particularly those which have associations which allow their dates to be assessed. Radiocarbon dates from organic material within the sands and gravels suggest that the barbed points were deposited during the latter part of pollen Zone III and the early part of Zone IV. A long blade industry has been recorded from the surface of the sands and gravels, and reference is given to further details of this industry.</dcterms:abstract>
+        <dc:title>Late Devensian and Early Flandrian Barbed Points from Sproughton, Suffolk</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0079-497X,%202050-2729">
+        <prism:volume>41</prism:volume>
+        <dc:title>Proceedings of the Prehistoric Society</dc:title>
+        <dc:identifier>ISSN 0079-497X, 2050-2729</dc:identifier>
+        <dcterms:alternative>Proc. Prehist. Soc.</dcterms:alternative>
+        <dc:identifier>DOI 10.1017/S0079497X00011014</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="#item_2831">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>29</prism:volume>
+                <prism:number>4</prism:number>
+                <dc:title>Oxford Journal of Archaeology</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ballin</foaf:surname>
+                        <foaf:givenName>T. B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Saville</foaf:surname>
+                        <foaf:givenName>A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tipping</foaf:surname>
+                        <foaf:givenName>R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ward</foaf:surname>
+                        <foaf:givenName>T.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>323-360</bib:pages>
+        <dc:date>2010</dc:date>
+        <dc:description>Number: 4</dc:description>
+        <dc:title>An Upper Palaeolithic Flint and Chert  Assemblage from Howburn Farm, South Lanarkshire, Scotland: First Results</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="#item_2832">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:number>77</prism:number>
+                <dc:title>CBA Research Report</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Barton</foaf:surname>
+                        <foaf:givenName>N.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>234-245</bib:pages>
+        <dc:date>1991</dc:date>
+        <dc:description>Number: 77</dc:description>
+        <dc:title>Technological innovation and continuity at the end of the Pleistocene in Britain</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="#item_2833">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>18</prism:volume>
+                <prism:number>7</prism:number>
+                <dc:title>Journal of Quaternary Science</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Barton</foaf:surname>
+                        <foaf:givenName>R. N. E.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jacobi</foaf:surname>
+                        <foaf:givenName>R. M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Stapert</foaf:surname>
+                        <foaf:givenName>D.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Street</foaf:surname>
+                        <foaf:givenName>M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>631-643</bib:pages>
+        <dc:date>2003</dc:date>
+        <dc:description>Number: 7</dc:description>
+        <dc:title>The Late-glacial reoccupation of the British Isles and the Creswellian</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="#item_2834">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:number>77</prism:number>
+                <dc:title>CBA Research Report</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lewis</foaf:surname>
+                        <foaf:givenName>J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>246-55</bib:pages>
+        <dc:date>1991</dc:date>
+        <dc:description>Number: 77</dc:description>
+        <dc:title>A Late Devension and Early Postglacial Site at Three Ways Wharf, Uxbridge, England: Interim Report</dc:title>
+    </bib:Article>
+    <bib:Book rdf:about="urn:isbn:978-1-912482-06-1%20978-1-912482-04-7%20978-1-912482-07-8%20978-1-912482-05-4">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Leeds/Sheffield/York</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>White Rose University Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Milner</foaf:surname>
+                        <foaf:givenName>Nicky</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Conneller</foaf:surname>
+                        <foaf:givenName>Chantal</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Taylor</foaf:surname>
+                        <foaf:givenName>Barry</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3477"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://universitypress.whiterose.ac.uk/site/books/e/10.22599/book1/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:identifier>ISBN 978-1-912482-06-1 978-1-912482-04-7 978-1-912482-07-8 978-1-912482-05-4</dc:identifier>
+        <dc:date>2018</dc:date>
+        <dc:description>Publication Title: White Rose University Press
+DOI: 10.22599/book1</dc:description>
+        <dcterms:dateSubmitted>2023-01-17 13:50:36</dcterms:dateSubmitted>
+        <z:libraryCatalog>universitypress.whiterose.ac.uk</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dcterms:abstract>&lt;p&gt;&lt;i&gt; &lt;font size=&quot;-1&quot;&gt;Please note: these ebook files are very large. Users downloading to mobile devices, or with an internet connection with limited bandwidth, should view and download chapters individually using the dropdown menu below.
+&lt;br&gt;Read online or download: &lt;b&gt;free&lt;/b&gt; 
+&lt;br&gt;Purchase price for print volume (including shipping and handling fees): &lt;b&gt;£50.66&lt;/b&gt;&lt;br&gt;Additional local taxes may be added to &lt;a href=&quot;https://universitypress.whiterose.ac.uk/site/Order-Process/#taxes-on-orders-to-the-eu&quot; target=&quot;_blank&quot;&gt;EU orders&lt;/a&gt; at point of delivery.&lt;/font&gt;&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;This first volume of &lt;i&gt;Star Carr&lt;/i&gt; provides an interpretation of the Star Carr site, one of the most important Mesolithic sites in Europe. Discovered in the late 1940s by John Moore and then excavated by Grahame Clark from 1949-1951, the site is famous in the archaeological world for its wealth of rare organic remains, including significant wooden artefacts. However, since the original excavations there has been much debate about how the site was used: was it a residential base camp, a hunting camp or even a ritual site? The 2003-2015 excavations directed by Conneller, Milner and Taylor aimed to answer these questions.&lt;/p&gt;&lt;p&gt;
+ 
+In use for around 800 years, the Star Carr site is much larger and more complex than ever imagined. The excavations show that Mesolithic groups were highly invested in this place and continued to occupy the site despite changes in climate. The findings include the oldest evidence for ‘houses’ in Britain, large wooden platforms along the edge of the lake, antler headdresses and a unique, engraved shale pendant which represents the earliest form of Mesolithic art in Britain. There is evidence for activity areas, such as crafts and tool repair associated with structures, an axe factory, as well as a number of caches. New finds of antler frontlets have increased our understanding of the diversity of human interactions with animals.
+&lt;/p&gt;&lt;p style=&quot;margin-left: 40px&quot;&gt;
+“If these do not get a gong, something will have to be done about archaeology book awards.” Mike Pitts, &lt;i&gt;British Archaeology &lt;/i&gt;&lt;/p&gt;&lt;p&gt;
+
+Despite the degradation, these excavations have provided a new understanding of life in the Early Mesolithic, particularly enhancing our understanding of how important wood (a material rarely recovered) was for Mesolithic people.  The findings challenge many of the preconceived views of this period in terms of the character and scale of activity and the degree of investment in a particular place in the landscape.&lt;/p&gt;&lt;p&gt;
+ 
+Volume 1 focuses on an interpretation of the site, while &lt;a href=&quot;https://doi.org/10.22599/book2&quot; target=&quot;blank&quot;&gt;volume 2 of Star Carr&lt;/a&gt; provides detail on specific areas of research.&lt;/p&gt;&lt;p&gt;
+&lt;i&gt;
+ 
+Readers may prefer to download and cite from the PDF version of this book. This has a specific DOI and has a fixed structure with page numbers. Guidance on citing from other ebook versions without stable page numbers (Kindle, EPUB etc.) is now usually offered within style guidance (e.g. by the MLA style guide, The Chicago Manual of Style etc.) so please check the information offered on this by the referencing style you use.
+&lt;/i&gt;&lt;/p&gt;&lt;p&gt; 
+&lt;a href=&quot;https://universitypress.whiterose.ac.uk/site/Order-Process/&quot; target=&quot;blank&quot;&gt;Further information on the order process&lt;/a&gt;&lt;/p&gt;</dcterms:abstract>
+        <dc:title>Star Carr Volume I</dc:title>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_3477">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://universitypress.whiterose.ac.uk/site/books/10.22599/book1/download/2004/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-17 13:54:03</dcterms:dateSubmitted>
+        <dc:title>Full Text</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.jstor.org/stable/2843698">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0307-3114"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Armstrong</foaf:surname>
+                        <foaf:givenName>A. Leslie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3479"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.jstor.org/stable/2843698</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>146-175</bib:pages>
+        <dc:date>1925</dc:date>
+        <dc:description>Publisher: [Royal Anthropological Institute of Great Britain and Ireland, Wiley]</dc:description>
+        <dcterms:dateSubmitted>2023-01-17 13:54:33</dcterms:dateSubmitted>
+        <z:libraryCatalog>JSTOR</z:libraryCatalog>
+        <dc:title>Excavations at Mother Grundy's Parlour, Creswell Crags, Derbyshire, 1924.</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0307-3114">
+        <prism:volume>55</prism:volume>
+        <dc:title>The Journal of the Royal Anthropological Institute of Great Britain and Ireland</dc:title>
+        <dc:identifier>ISSN 0307-3114</dc:identifier>
+        <dc:identifier>DOI 10.2307/2843698</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_3479">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.jstor.org/stable/pdfplus/10.2307/2843698.pdf?acceptTC=true</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-17 13:54:36</dcterms:dateSubmitted>
+        <dc:title>JSTOR Full Text PDF</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_3481">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>20</prism:volume>
+                <prism:number>1</prism:number>
+                <dc:title>Proceedings of the University of Bristol Spelaeological Society</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Barton</foaf:surname>
+                        <foaf:givenName>R. N. E.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>63-73</bib:pages>
+        <dc:date>1994</dc:date>
+        <dc:title>Second interim report on the survey and excavations in the Wye Valley</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="#item_3503">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>2009 (May-June)</prism:volume>
+                <dc:title>British Archaeology</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ward</foaf:surname>
+                        <foaf:givenName>Tam</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Saville</foaf:surname>
+                        <foaf:givenName>Alan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Martingell</foaf:surname>
+                        <foaf:givenName>Hazel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>7</bib:pages>
+        <dc:title>Flint finds point to Scotland's first people</dc:title>
+    </bib:Article>
+    <bib:Book rdf:about="#item_3508">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Oxford</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Unpublished Doctoral Dissertation, University of Oxford</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mills</foaf:surname>
+                        <foaf:givenName>William G.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>2022</dc:date>
+        <dc:title>Late Glacial Geography of The Channel River Network. Southeastern England and its Central Position in the British Peninsula and Ties with Northwestern Europe</dc:title>
+    </bib:Book>
+</rdf:RDF>

@@ -1,0 +1,989 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/">
+    <bib:Book rdf:about="urn:isbn:978-2-940347-41-4">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Archéologie neuchâteloise</dc:title>
+                <dc:identifier>42</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Hauterive</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Service et musée cantonal d'archéologie de Neuchâtel</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chauvière</foaf:surname>
+                        <foaf:givenName>François-Xavier</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_2879"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Antiquities</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Excavations (Archaeology)</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Antiquities, Prehistoric</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Azilian culture</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Bichon Cave (La Chaux-de-Fonds, Switzerland)</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>La Chaux-de-Fonds</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>La Chaux-de-Fonds (Switzerland)</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>La Chaux-de-Fonds Bichon Cave</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Switzerland</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Switzerland La Chaux-de-Fonds</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>ISBN 978-2-940347-41-4</dc:identifier>
+        <dc:date>2008</dc:date>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>GN774.2.A97 G76 2008</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:description>OCLC: ocn422637052</dc:description>
+        <z:libraryCatalog>Library of Congress ISBN</z:libraryCatalog>
+        <z:language>fre</z:language>
+        <dc:title>La grotte du Bichon: un site préhistorique des Montagnes Neuchâteloises</dc:title>
+        <z:shortTitle>La grotte du Bichon</z:shortTitle>
+        <z:numPages>164</z:numPages>
+    </bib:Book>
+    <bib:Memo rdf:about="#item_2879">
+       <rdf:value>Summaries in English, French, German and Italian</rdf:value>
+    </bib:Memo>
+    <bib:Book rdf:about="urn:isbn:978-3-938078-19-8">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Edition Mesolithikum</dc:title>
+                <dc:identifier>4</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Kerpen-Loogh</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Welt und Erde Verlag</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Graf</foaf:surname>
+                        <foaf:givenName>Robert</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bouziane</foaf:surname>
+                        <foaf:givenName>Hildegard</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Butler</foaf:surname>
+                        <foaf:givenName>Michaela</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Antiquities</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Excavations (Archaeology)</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Mesolithic period</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Antiquities, Prehistoric</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Chert</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Flint</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Germany Oberbayern</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Oberbayern. (Germany)</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>ISBN 978-3-938078-19-8</dc:identifier>
+        <dc:date>2015</dc:date>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>GN774.22.G4 G73 2015</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <z:libraryCatalog>Library of Congress ISBN</z:libraryCatalog>
+        <z:language>ger</z:language>
+        <dc:title>Kontinuität und Diskontinuität: mesolithische Silextechnik und Rohstoffversorgung am Haspelmoor im oberbayerischen Alpenvorland</dc:title>
+        <z:shortTitle>Kontinuität und Diskontinuität</z:shortTitle>
+        <z:numPages>222</z:numPages>
+    </bib:Book>
+    <bib:Book rdf:about="#item_2881">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Series><dc:title>Edition Mesolithikum 1</dc:title></bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Kerpen-Loogh</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Welt und Erde Verlag</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Heinen</foaf:surname>
+                        <foaf:givenName>Martin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>2005</dc:date>
+        <dc:description>ISBN: 9783938078013
+Series Number: 1
+Series: Edition Mesolithikum</dc:description>
+        <z:libraryCatalog>BnF ISBN</z:libraryCatalog>
+        <z:language>ger</z:language>
+        <dc:title>Sarching '83 und '89-90: Untersuchungen zum Spätpaläolithikum und Frühmesolithikum in Südost-Deutschland</dc:title>
+        <z:shortTitle>Sarching '83 und '89-90</z:shortTitle>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:3-935751-27-3">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Tübingen</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Kerns Verlag</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hess</foaf:surname>
+                        <foaf:givenName>Thomas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>ISBN 3-935751-27-3</dc:identifier>
+        <dc:date>2019</dc:date>
+        <dc:title>Das Helga-Abri im Achtal. Lithische Technologie und Rohmaterialversorgung der spätmagdalénienzeitlichen und frühmesolithischen Gruppen</dc:title>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:978-3-907066-06-5">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Schaffhauser Archäologie</dc:title>
+                <dc:identifier>2</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Schaffhausen</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Kantonsarchäologie Schaffhausen</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Höneisen</foaf:surname>
+                        <foaf:givenName>Markus</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Peyer</foaf:surname>
+                        <foaf:givenName>Sabine</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>ISBN 978-3-907066-06-5</dc:identifier>
+        <dc:date>1994</dc:date>
+        <z:libraryCatalog>K10plus ISBN</z:libraryCatalog>
+        <z:language>ger</z:language>
+        <dc:title>Schweizersbild - ein Jägerlager der Späteiszeit: Beiträge und Dokumente zur Ausgrabung vor 100 Jahren</dc:title>
+        <z:shortTitle>Schweizersbild - ein Jägerlager der Späteiszeit</z:shortTitle>
+        <z:numPages>236</z:numPages>
+    </bib:Book>
+    <bib:Article rdf:about="#item_2884">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>35</prism:volume>
+                <dc:title>Fundberichte aus Baden-Württemberg</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jochim</foaf:surname>
+                        <foaf:givenName>Michael</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kind</foaf:surname>
+                        <foaf:givenName>Claus-Joachim</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kleinmann</foaf:surname>
+                        <foaf:givenName>Angelika</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Merkt</foaf:surname>
+                        <foaf:givenName>Josef</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Stephan</foaf:surname>
+                        <foaf:givenName>Elisabeth</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>37-134</bib:pages>
+        <dc:date>2015</dc:date>
+        <dc:title>Eine spätpaläolithische Fundstelle am Ufer des Federsees: Bad Buchau-Kappel, Flurstück Gemeindebeunden</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="#item_2885">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>13</prism:volume>
+                <dc:title>Archäologisches Korrespondenzblatt</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hahn</foaf:surname>
+                        <foaf:givenName>J</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Scheer</foaf:surname>
+                        <foaf:givenName>A</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>19-28</bib:pages>
+        <dc:date>1983</dc:date>
+        <z:language>German</z:language>
+        <dc:title>Das Helga-Abri am Hohlenfelsen bei Schelklingen: Eine mesolithische und jungpaläolithische Schichtenfolge</dc:title>
+    </bib:Article>
+    <bib:Book rdf:about="urn:isbn:978-3-8062-0777-4">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Forschungen und Berichte zur Vor- und Frühgeschichte in Baden-Württemberg</dc:title>
+                <dc:identifier>23</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Stuttgart</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Konrad Theiss Verlag</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kind</foaf:surname>
+                        <foaf:givenName>Claus-Joachim</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_2887"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Paleolithic period</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Antiquities</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Excavations (Archaeology)</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Mesolithic period</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Magdalenian culture</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Alb-Donau-Kreis (Germany)</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Felsställe Rockshelter (Germany)</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Germany Alb-Donau-Kreis</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>ISBN 978-3-8062-0777-4</dc:identifier>
+        <dc:date>1987</dc:date>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>GN772.2.M3 K56 1987</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <z:libraryCatalog>Library of Congress ISBN</z:libraryCatalog>
+        <dc:title>Das Felsställe: Eine jungpaläolithisch-frühmesolithische Abri-Station bei Ehingen-Mühlen, Alb-Donau-Kreis</dc:title>
+        <z:shortTitle>Das Felsställe</z:shortTitle>
+        <z:numPages>1</z:numPages>
+    </bib:Book>
+    <bib:Memo rdf:about="#item_2887">
+       <rdf:value>One map on folded leaf in pocket</rdf:value>
+    </bib:Memo>
+    <bib:Book rdf:about="urn:isbn:978-2-940347-27-8">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Archéologie neuchâteloise</dc:title>
+                <dc:identifier>31</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Neuchâtel</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Hauterive: Service et musée cantonal d'archéologie de Neuchâtel.</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Leesch</foaf:surname>
+                        <foaf:givenName>Denise</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cattin</foaf:surname>
+                        <foaf:givenName>Marie-Isabelle</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Müller</foaf:surname>
+                        <foaf:givenName>Werner</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Plumettaz</foaf:surname>
+                        <foaf:givenName>N</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Antiquities</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Excavations (Archaeology)</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Magdalenian culture</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Azilian culture</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Hauterive-Champréveyres Site (Switzerland)</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Neuchâtel (Switzerland)</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Neuchâtel, Lake of, Region (Switzerland)</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Salvage archaeology</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Switzerland Neuchâtel, Lake of, Region</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>ISBN 978-2-940347-27-8</dc:identifier>
+        <dc:date>2004</dc:date>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>GN772.2.M3 L464 2004</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <z:libraryCatalog>Library of Congress ISBN</z:libraryCatalog>
+        <z:language>fre</z:language>
+        <dc:title>Témoins d'implantations magdaléniennes et aziliennes sur la rive nord du lac de Neuchâtel</dc:title>
+        <z:numPages>237</z:numPages>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:978-3-258-04498-9">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+               <dc:title>Archäologischer Dienst des Kantons Bern</dc:title>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Bern</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Staatlicher Lehrmittelverlag</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nielsen</foaf:surname>
+                        <foaf:givenName>Ebbe H.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>ISBN 978-3-258-04498-9</dc:identifier>
+        <dc:date>1991</dc:date>
+        <z:libraryCatalog>BnF ISBN</z:libraryCatalog>
+        <z:language>ger</z:language>
+        <dc:title>Gampelen-Jänet 3: Eine mesolithische Siedlungsstelle im westlichen Seeland</dc:title>
+        <z:shortTitle>Gampelen-Jänet 3</z:shortTitle>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:978-3-7965-3444-7">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Schriften der Archäologie Baselland</dc:title>
+                <dc:identifier>51</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Basel</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Schwabe Verlag</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sedlmeier</foaf:surname>
+                        <foaf:givenName>Jürg</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>ISBN 978-3-7965-3444-7</dc:identifier>
+        <dc:date>2015</dc:date>
+        <z:libraryCatalog>BnF ISBN</z:libraryCatalog>
+        <z:language>ger</z:language>
+        <dc:title>Die letzten Wildbeuter der Eiszeit: neue Forschungen zum Spätpaläolithikum im Kanton Basel-Landschaft</dc:title>
+        <z:shortTitle>Die letzten Wildbeuter der Eiszeit</z:shortTitle>
+    </bib:Book>
+    <bib:Article rdf:about="#item_2891">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>1</prism:volume>
+                <dc:title>Archäologische Informationen</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Taute</foaf:surname>
+                        <foaf:givenName>Wolfgang</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>29-40</bib:pages>
+        <dc:date>1972</dc:date>
+        <dc:description>ISBN: 2197-7429</dc:description>
+        <dc:title>Die spätpaläolithisch-frühmesolithische Schichtenfolge im Zigeunerfels bei Sigmaringen</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="#item_2892">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>42</prism:volume>
+                <dc:title>Jahrbuch der Schweizerischen Gesellschaft für Urgeschichte</dc:title>
+                <dc:identifier>DOI 10.5169/SEALS-114109</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wyss</foaf:surname>
+                        <foaf:givenName>R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2893"/>
+        <bib:pages>133-154</bib:pages>
+        <dc:date>1952</dc:date>
+        <dc:description>Medium: text/html,application/pdf,text/html
+Publisher: Schweizerische Gesellschaft für Urgeschichte</dc:description>
+        <dcterms:dateSubmitted>2022-10-31 08:32:34</dcterms:dateSubmitted>
+        <z:libraryCatalog>DOI.org (Datacite)</z:libraryCatalog>
+        <z:language>de</z:language>
+        <dc:title>Fürsteiner-Seeberg, eine spätjungpaläolithische Freilandstation</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_2893">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.e-periodica.ch/cntmng?pid=jas-002%3A1952%3A42%3A%3A307</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-31 08:32:24</dcterms:dateSubmitted>
+        <dc:title>Wyss - 1952 - Fürsteiner-Seeberg, eine spätjungpaläolithische Fr.pdf</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:BookSection rdf:about="urn:isbn:978-2-88028-095-6">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:identifier>ISBN 978-2-88028-095-6</dc:identifier>
+                <dc:title>ConstellaSion. Hommage à Alain Gallay</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Lausanne</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Cahiers d'archéologie romande</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chaix</foaf:surname>
+                        <foaf:givenName>Louis</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Crotti</foaf:surname>
+                        <foaf:givenName>Pierre</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pignat</foaf:surname>
+                        <foaf:givenName>Gervaise</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Besse M.</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Stahl Gretsch</foaf:surname>
+                        <foaf:givenName>Laurence-Isaline</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Curdy</foaf:surname>
+                        <foaf:givenName>Philippe</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Mésolithique</dc:subject>
+        <dc:subject>Archéologie</dc:subject>
+        <dc:subject>Industrie lithique</dc:subject>
+        <dc:subject>Industrie osseuse</dc:subject>
+        <dc:subject>Préhistoire</dc:subject>
+        <dc:subject>Silex</dc:subject>
+        <dc:subject>Suisse</dc:subject>
+        <dc:subject>Valais</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://archive-ouverte.unige.ch/unige:17905</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>59-72</bib:pages>
+        <dc:date>2003</dc:date>
+        <z:language>fre</z:language>
+        <dcterms:abstract>Fouillé sous l'initiative d'Alain Gallay entre 1980 et 1986, l'abri de Châble-Croix a livré trois séries d'occupations mésolithiques, calées entre la seconde moitié du 9e millénaire et 6000 av. J.-C. Cet article présente l'industrie lithique et l'industrie osseuse.</dcterms:abstract>
+        <dc:title>Un exemple d'économie mésolithique en milieu alpin : l'abri de Châble-Croix, près de Vionnaz (Valais, Suisse)</dc:title>
+    </bib:BookSection>
+    <bib:BookSection rdf:about="urn:isbn:978-3-7749-4180-9">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dcterms:isPartOf>
+                    <bib:Series>
+                        <dc:title>Universitätsforschungen zur prähistorischen Archäologie</dc:title>
+                        <dc:identifier>327</dc:identifier>
+                    </bib:Series>
+                </dcterms:isPartOf>
+                <dc:identifier>ISBN 978-3-7749-4180-9</dc:identifier>
+                <dc:title>&quot;All der holden Hügel ist keiner mir fremd ...&quot;: Festschrift zum 65. Geburtstag von Claus-Joachim Kind</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Bonn</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Verlag Dr. Rudolf Habelt</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hornauer-Jahnke</foaf:surname>
+                        <foaf:givenName>Tina</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Noack</foaf:surname>
+                        <foaf:givenName>Elisabeth</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Baales</foaf:surname>
+                        <foaf:givenName>Michael</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pasda</foaf:surname>
+                        <foaf:givenName>Clemens</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <bib:pages>315-336</bib:pages>
+        <dc:date>2019</dc:date>
+        <dc:title>Der Übergang vom Jung- zum Spätpaläolithikum in Südwestdeutschland: Der Zigeunerfels</dc:title>
+    </bib:BookSection>
+    <bib:Article rdf:about="#item_2896">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>8</prism:volume>
+                <dc:title>Bonner Hefte zur Vorgeschichte</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schönweiß</foaf:surname>
+                        <foaf:givenName>Werner</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>17-108</bib:pages>
+        <dc:date>1974</dc:date>
+        <dc:title>Fränkisches Epipaläolithikum: die Atzenhofer Gruppe</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="#item_2897">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>39</prism:volume>
+                <dc:title>Abhandlungen der Naturhistorischen Gesellschaft Nürnberg</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schönweiß</foaf:surname>
+                        <foaf:givenName>W.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>47-58</bib:pages>
+        <dc:date>1982</dc:date>
+        <dc:title>Die spätpaläolithische Fundlandschaft der Bibertmündungbei Iltenberg</dc:title>
+    </bib:Article>
+    <bib:Book rdf:about="#item_2898">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Chronologie Süddeutschlands</dc:title>
+                <dc:identifier>Band 1</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Tübingen</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Habilitationsschrift Universität Tübingen</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Taute</foaf:surname>
+                        <foaf:givenName>Wolfgang</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>1971</dc:date>
+        <dc:title>Untersuchungen zum Mesolithikum und zum Spätpaläolithikum im südlichen Mitteleuropa</dc:title>
+    </bib:Book>
+    <bib:BookSection rdf:about="#item_2899">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dcterms:isPartOf>
+                    <bib:Series>
+                        <dc:title>Neue Denkschriften der Schweizerischen Naturforschenden Gesellschaft</dc:title>
+                        <dc:identifier>54</dc:identifier>
+                    </bib:Series>
+                </dcterms:isPartOf>
+                <prism:volume>2</prism:volume>
+                <dc:title>Die steinzeitlichen Stationen des Birstales zwischen Basel und Delsberg (Paläontologischer Teil von Hans Georg Stehlin unter Mitwirkung von Theophil Studer)</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Basel/Genf/Lyon</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sarasin</foaf:surname>
+                        <foaf:givenName>F</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sarasin</foaf:surname>
+                        <foaf:givenName>F</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <bib:pages>84-156</bib:pages>
+        <dc:date>1913</dc:date>
+        <dc:title>Die Höhle in der Ermitage am Schlossfelsen von Birseck. Ausgrabungsbericht</dc:title>
+    </bib:BookSection>
+    <bib:Article rdf:about="#item_2900">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>66</prism:volume>
+                <dc:title>Jahrbuch der Schweizerischen Gesellschaft für Ur- und Frühgeschichte</dc:title>
+                <dc:identifier>DOI 10.5169/SEALS-116595</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Crotti</foaf:surname>
+                        <foaf:givenName>Pierre</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pignat</foaf:surname>
+                        <foaf:givenName>Gervaise</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>7-16</bib:pages>
+        <dc:date>1983</dc:date>
+        <dc:description>Medium: text/html,application/pdf,text/html
+Publisher: Schweizerische Gesellschaft für Ur- und Frühgeschichte</dc:description>
+        <dcterms:dateSubmitted>2022-11-04 15:12:33</dcterms:dateSubmitted>
+        <z:libraryCatalog>DOI.org (Datacite)</z:libraryCatalog>
+        <dc:title>Abri mésolithique de Collombey-Vionnaz : les premiers acquis</dc:title>
+        <z:shortTitle>Abri mésolithique de Collombey-Vionnaz</z:shortTitle>
+    </bib:Article>
+    <bib:Book rdf:about="#item_2901">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Münster</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>LIT</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ikinger</foaf:surname>
+                        <foaf:givenName>Eva-Maria</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>1999</dc:date>
+        <dc:title>Der endeiszeitliche Rückenspitzen-Kreis Mitteleuropas</dc:title>
+    </bib:Book>
+</rdf:RDF>

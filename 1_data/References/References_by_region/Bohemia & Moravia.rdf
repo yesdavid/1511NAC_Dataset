@@ -1,0 +1,465 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/">
+    <bib:Article rdf:about="#item_2605">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0323-1119"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vencl</foaf:surname>
+                        <foaf:givenName>S</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>140–141</bib:pages>
+        <dc:date>1995</dc:date>
+        <dc:description>Number: 1/2
+Publisher: Moravian Museum – Anthropos Institute</dc:description>
+        <z:libraryCatalog>soeg.kb.dk</z:libraryCatalog>
+        <z:language>ger</z:language>
+        <dc:title>Hostim. Magdalenian in Bohemia. Památky archeologické – Supplementum 4</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0323-1119">
+        <prism:volume>33</prism:volume>
+        <prism:number>1/2</prism:number>
+        <dc:title>Anthropologie (1962-)</dc:title>
+        <dc:identifier>ISSN 0323-1119</dc:identifier>
+    </bib:Journal>
+    <bib:Book rdf:about="#item_2606">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Studie Archeologického ústavu Československé akademie věd v Brně. 2, 1. Med tysk resumé: Die archäologische Erforschung des Plateau vor der Pekárna Höhle.</dc:title>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Praha</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Klíma Bohuslav</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>1974</dc:date>
+        <z:libraryCatalog>soeg.kb.dk</z:libraryCatalog>
+        <z:language>cze</z:language>
+        <dc:title>Archeologický výzkum plošiny před jeskyní Pekárnou.</dc:title>
+        <z:numPages>78</z:numPages>
+    </bib:Book>
+    <bib:Article rdf:about="#item_2607">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0342-734X"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Svoboda</foaf:surname>
+                        <foaf:givenName>Jiri</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2608"/>
+        <bib:pages>39-43</bib:pages>
+        <dc:date>1991</dc:date>
+        <dc:description>Number: 1
+Place: Mainz
+Publisher: Römisch-Germanische Zentralmuseum</dc:description>
+        <dc:title>Neue Erkenntnisse zur Pekárna-Höhle im Mährischen Karst</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0342-734X">
+        <prism:volume>21</prism:volume>
+        <prism:number>1</prism:number>
+        <dc:title>Neue Erkenntnisse zur Pekárna-Höhle im Mährischen Karst</dc:title>
+        <dc:identifier>ISSN 0342-734X</dc:identifier>
+        <dcterms:alternative>Archäol. Korrespondenzbl</dcterms:alternative>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_2608">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&amp;idt=6550928</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-11-11 00:55:40</dcterms:dateSubmitted>
+        <dc:title>Neue Erkenntnisse zur Pekárna-Höhle im Mährischen Karst</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.academia.edu/20546462/The_Pek%C3%A1rna_Cave_Magdalenian_stratigraphy_environment_and_the_termination_of_the_loess_formation_in_the_Moravian_Karst_Anthropozoikum_24_2000_61_79">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <prism:number>24</prism:number><dc:title>Anthropozoikum</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Svoboda</foaf:surname>
+                        <foaf:givenName>Jiri</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2610"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.academia.edu/20546462/The_Pek%C3%A1rna_Cave_Magdalenian_stratigraphy_environment_and_the_termination_of_the_loess_formation_in_the_Moravian_Karst_Anthropozoikum_24_2000_61_79</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2000</dc:date>
+        <dc:description>Number: 24</dc:description>
+        <dcterms:dateSubmitted>2022-11-11 00:59:21</dcterms:dateSubmitted>
+        <z:libraryCatalog>www.academia.edu</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dcterms:abstract>The Pekárna Cave. Magdalenian stratigraphy, environment, and the termination of the loess formation in the Moravian Karst. Anthropozoikum 24, 2000, 61-79.</dcterms:abstract>
+        <dc:title>The Pekárna Cave. Magdalenian stratigraphy, environment, and the termination of the loess formation in the Moravian Karst.</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_2610">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.academia.edu/20546462/The_Pek%C3%A1rna_Cave_Magdalenian_stratigraphy_environment_and_the_termination_of_the_loess_formation_in_the_Moravian_Karst_Anthropozoikum_24_2000_61_79</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-11-11 00:59:28</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_2611">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>94</prism:volume>
+                <dc:title>Acta Musei Moraviae, Sci. soc.</dc:title>
+                <dcterms:alternative>Acta Musei Moraviae, Sci. soc.</dcterms:alternative>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Neruda</foaf:surname>
+                        <foaf:givenName>Petr</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nerudová</foaf:surname>
+                        <foaf:givenName>Zdeňka</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Čulíková</foaf:surname>
+                        <foaf:givenName>Věra</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2612"/>
+        <link:link rdf:resource="#item_2613"/>
+        <bib:pages>39-64</bib:pages>
+        <dc:date>2009</dc:date>
+        <z:libraryCatalog>ResearchGate</z:libraryCatalog>
+        <dcterms:abstract>The latest excavation of open-air site of Loštice I - Kozí vrch has been done in 2008. Its main goal was the
+uncovering of the concentration 2 found in 2007 and interpretation of the greywacke accumulation in the
+concentration 1. New culturaly significant tools have been collected and they have confirmed clasification of the
+assemblage to the Magdalenian period. Probes in the surrounding of site shown the rest of originally bigger site
+was preserved and excavated, and therefore other concentrations are not rather supposed.</dcterms:abstract>
+        <dc:title>Loštice I - Kozí vrch. Magdalénienská stanice v Horním Pomoraví (LOŠTICE I - KOZÍ VRCH. A MAGDALENIAN SITE IN NORTHERN MORAVIA)</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_2612">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.researchgate.net/profile/Petr-Neruda/publication/266618856_Lostice_I_-_Kozi_vrch_Magdalenienska_stanice_v_Hornim_Pomoravi_LOSTICE_I_-_KOZI_VRCH_A_MAGDALENIAN_SITE_IN_NORTHERN_MORAVIA/links/543626d20cf2dc341db2dd44/Lostice-I-Kozi-vrch-Magdalenienska-stanice-v-Hornim-Pomoravi-LOSTICE-I-KOZI-VRCH-A-MAGDALENIAN-SITE-IN-NORTHERN-MORAVIA.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-11-11 01:09:09</dcterms:dateSubmitted>
+        <dc:title>Full Text PDF</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_2613">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.researchgate.net/publication/266618856_Lostice_I_-_Kozi_vrch_Magdalenienska_stanice_v_Hornim_Pomoravi_LOSTICE_I_-_KOZI_VRCH_A_MAGDALENIAN_SITE_IN_NORTHERN_MORAVIA</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-11-11 01:09:09</dcterms:dateSubmitted>
+        <dc:title>ResearchGate Link</dc:title>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_2614">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>57</prism:volume>
+                <dc:title>Archeologicke Rozhledy</dc:title>
+                <dcterms:alternative>Archeologicke Rozhledy</dcterms:alternative>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Valoch</foaf:surname>
+                        <foaf:givenName>Karel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Neruda</foaf:surname>
+                        <foaf:givenName>Petr</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2615"/>
+        <link:link rdf:resource="#item_2616"/>
+        <bib:pages>459-476</bib:pages>
+        <dc:date>2005</dc:date>
+        <z:libraryCatalog>ResearchGate</z:libraryCatalog>
+        <dcterms:abstract>New conventional radiocarbon data have been recently obtained from the Groningen laboratory for several
+Magdalenian sites of Moravia. These, together with the dates previously known for the Moravian Magdalenian,
+have been converted into calibrated dates using the INTCAL 04 calibration curve. On this basis
+earlier conceptions of the chronological position of the Magdalenian in Moravia have been re-evaluated.</dcterms:abstract>
+        <dc:title>K chronologii moravského magdalénienu On the chronology of the Moravian Magdalenian</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_2615">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.researchgate.net/profile/Petr-Neruda/publication/266796117_K_chronologii_moravskeho_magdalenienu_On_the_chronology_of_the_Moravian_Magdalenian/links/543c1ea70cf204cab1db86c6/K-chronologii-moravskeho-magdalenienu-On-the-chronology-of-the-Moravian-Magdalenian.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-11-11 01:17:48</dcterms:dateSubmitted>
+        <dc:title>Full Text PDF</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_2616">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.researchgate.net/publication/266796117_K_chronologii_moravskeho_magdalenienu_On_the_chronology_of_the_Moravian_Magdalenian</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-11-11 01:17:48</dcterms:dateSubmitted>
+        <dc:title>ResearchGate Link</dc:title>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.jstor.org/stable/26292099">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>8</prism:volume>
+                <prism:number>1</prism:number>
+                <dc:title>Anthropologie (1962-)</dc:title>
+                <dc:identifier>ISSN 0323-1119</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vencl</foaf:surname>
+                        <foaf:givenName>Sl.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.jstor.org/stable/26292099</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>3-68</bib:pages>
+        <dc:date>1970</dc:date>
+        <dc:description>Number: 1
+Publisher: Moravian Museum</dc:description>
+        <dcterms:dateSubmitted>2022-11-11 01:21:24</dcterms:dateSubmitted>
+        <z:libraryCatalog>JSTOR</z:libraryCatalog>
+        <dcterms:abstract>The article representing an abstract from one part of my dissertation „Konec starší doby kamenné v Čechách (Pozdní paleolit)“, AÚ ČSAV Praha 1967, treats the recently defined period in our country (Sl. Vencl 1964a), chronologically covering the time span between the Upper Palaeolithic and Mesolithie, e.g. the later period of the Late Glacial. In spite of the limited number of finds uncovered up to now (mostly surface finds without any reliable dating) there must be taken into account at least three cultural groups: firstly, the Epimagdalenian (Lhota type in Southern Bohemia) with persisting basic Magdalenian shapes and some new ones, (short scrapers, exceptionally a tanged point or that one of the Kent type–Messer mit einmal geknicktem Rücken) already suggesting some further relations. The Epimagdalenien of Southern Bohemia has evidently close relations with Bavaria while considering the origin of the material the blade industries are made of. The locality Kvíc in Central Bohemia as well as the finds from the cave Kůlna in the Moravian Karst seem to represent a certain local modification. The Epimagdalenien itself seems to bear the characteristic Late Palaeolithic feature, namely the relatively rich local differentiation. Secondly it is the so-called Federmesser-Gruppen settlement in NW Bohemia representing the southernmost point of this culture penetrating from the lowlands in North Germany. These industries are morphologically very poor with prevailing short scrapers, various burins, Azilian points and exceptionally with tanged points. They differ from the German finds first of all due to the partial use of local minerals, especially quartzites. The third cultural group which in the scope of the Czech Late Palaeolithic seems to be the latest, is represented by the finds of the Ostroměř type. They occurred not only in Bohemia but also in Moravia. In contradiction with the previously mentioned finds these are exclusively of flake character. However, the attempt of determinating the genesis of this group having its closest analogies in the Polish Tarnowa type, has still to be postponed. Further the article deals with the neighbouring areas, namely Moravia, where other Late Palaeolithic groups differing from those already mentioned are to be presumed. The scarcity of finds in Slovakia does not allow us to draw any conclusion. However, the raw materials of Slovakian origin occurring in the Late Palaeolithic industries in Moravia and Poland point to the fact that a better knowledge of the situation in Slovakia depends solely on the intensity of the future research work. The knowledge of the Late Palaeolithic in our country being hindered by the occurrence solely of stone industries and by the lack of good and dated sets (the whole work is based on the morphological analysis and comparative study of other better known Late Palaeolithic cultures from the northern areas of Central Europe, e.g. Poland, Germany, Netherlands), the present modest results are therefore of considerable value: from the archaeological point of view this work determinates several industrial groups, when exaggerating „new cultures“, the identification of which made possible to complete – what concerns Central Europe even geographically – the hiatus between the Upper Palaeolithic, respectively Magdalenian settlement and the Mesolithic, this being simultaneously its main historical contribution. The knowledge of the relatively rich and rather varied contents of this relatively short period, especially in such a small territory, makes possible to reject some pseudohistorical attempts which tried to establish the genesis by mechanical connecting of certain cultures, f.i. the Magdalenian with the Mesolithic. Similarly all eventual conclusions relating to the origin of the bearers of the cultures in question have to be postponed.</dcterms:abstract>
+        <dc:title>Das Spätpaläolithikum in Böhmen</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="#item_2618">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <prism:volume>1</prism:volume><dc:title>Anthropozoikum</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Klíma</foaf:surname>
+                        <foaf:givenName>B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>127–164</bib:pages>
+        <dc:date>1963</dc:date>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:title>Epipaleolitická kamenná industrie z Tišnova</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="#item_2619">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>56</prism:volume>
+                <dc:title>Acta Musei Moraviae, Sc. soc</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kos</foaf:surname>
+                        <foaf:givenName>O.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>9–52</bib:pages>
+        <dc:date>1971</dc:date>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:title>Die Grabung auf des spätpaläolithischen Station Tišnov in den Jahren 1966 und 1967</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="#item_2620">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>69</prism:volume>
+                <dc:title>Památky archeologické</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vencl</foaf:surname>
+                        <foaf:givenName>Slavomil</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>1–44</bib:pages>
+        <dc:date>1978</dc:date>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:title>Voletiny–nová pozdně paleolitická industrie z Čech</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="#item_2621">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>45</prism:volume>
+                <prism:number>1</prism:number>
+                <dc:title>Archeologické rozhledy</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vencl</foaf:surname>
+                        <foaf:givenName>S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2622"/>
+        <bib:pages>3–43</bib:pages>
+        <dc:date>1988</dc:date>
+        <dc:description>Number: 1</dc:description>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:title>Pozdne paleolitické osidleni v Plzni.</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_2622">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&amp;idt=11987190</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-11-11 01:33:44</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_2624">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:number>42</prism:number>
+                <dc:title>Acta Musei Moraviae, Sci. soc.</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Valoch</foaf:surname>
+                        <foaf:givenName>K</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>5-24</bib:pages>
+        <dc:date>1957</dc:date>
+        <dc:description>Number: 42</dc:description>
+        <dc:title>Jeskyně šipka a Čertova díra u Štramberku</dc:title>
+    </bib:Article>
+    <bib:Book rdf:about="#item_2995">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Brno</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Moravské zemské muzeum</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Valoch</foaf:surname>
+                        <foaf:givenName>Karel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>1988</dc:date>
+        <dc:title>Die Erforschung der Kuulna-Höhle 1961–1976.</dc:title>
+    </bib:Book>
+</rdf:RDF>

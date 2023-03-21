@@ -1,0 +1,1342 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/">
+    <bib:Article rdf:about="#item_2835">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>29</prism:volume>
+                <dc:title>Studia Archeologiczne</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bagniewski</foaf:surname>
+                        <foaf:givenName>Z.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>25-92</bib:pages>
+        <dc:date>1997</dc:date>
+        <dc:title>O schyłkowopaleolitycznych kulturach kompleksu z liściakami na Pomorzu</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="#item_2836">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>31</prism:volume>
+                <dc:title>Materiały i Sprawozdania Rzeszowskiego Ośrodka Archeologicznego</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bobak</foaf:surname>
+                        <foaf:givenName>Dariusz</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Łanczont</foaf:surname>
+                        <foaf:givenName>Maria</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nowak</foaf:surname>
+                        <foaf:givenName>Adam</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Połtowicz-Bobak</foaf:surname>
+                        <foaf:givenName>Marta</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tokarczyk</foaf:surname>
+                        <foaf:givenName>Sabina</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>63-78</bib:pages>
+        <dc:date>2010</dc:date>
+        <dc:description>ISBN: 0137-5725
+Publisher: Rzeszowski Ośrodek Archeologiczny</dc:description>
+        <dc:title>Wierzawice, st. 31–nowy ślad osadnictwa magdaleńskiego w Polsce południowo-wschodniej</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="#item_2837">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>32</prism:volume>
+                <dc:title>Sprawozdania Archeologiczne</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Burdukiewicz</foaf:surname>
+                        <foaf:givenName>Jan Michał</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>9-27</bib:pages>
+        <dc:date>1980</dc:date>
+        <dc:description>Publisher: Zakład Narodowy im. Ossolińskich</dc:description>
+        <dc:title>Wyniki badań stanowiska kultury hamburskiej w Olbrachcicach, gm. Wschowa, woj. Leszno</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="#item_2838">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>45</prism:volume>
+                <dc:title>Przegląd Archeologiczny</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chłodnicki</foaf:surname>
+                        <foaf:givenName>Marek</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kabaciński</foaf:surname>
+                        <foaf:givenName>Jacek</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>5-23</bib:pages>
+        <dc:date>1997</dc:date>
+        <dc:description>Publisher: Instytut Archeologii i Etnologii Polskiej Akademii Nauk</dc:description>
+        <dc:title>Mirkowice-another settlement of the Hamburgian culture at the Polish Plain</dc:title>
+    </bib:Article>
+    <bib:Book rdf:about="#item_2839">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Wrocław</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Ossolineum</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chmielewska</foaf:surname>
+                        <foaf:givenName>Maria</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <prism:volume>37</prism:volume>
+        <dc:date>1978</dc:date>
+        <dc:title>Późny paleolit pradoliny warszawsko-berlińskiej</dc:title>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:978-83-901382-7-5">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Łódź</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Muzeum Archeologiczne i Etnograficzne w Łodzi</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cyrek</foaf:surname>
+                        <foaf:givenName>Krzysztof</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Paleolithic period</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Antiquities</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Poland Warta River Valley</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Warta River Valley (Poland)</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>ISBN 978-83-901382-7-5</dc:identifier>
+        <dc:date>1996</dc:date>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>GN772.22.P6 C95 1996</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <z:libraryCatalog>Library of Congress ISBN</z:libraryCatalog>
+        <z:language>pol</z:language>
+        <dc:title>Osadnictwo schyłkowopaleolityczne w Zakolu Załęczańskim doliny Warty</dc:title>
+        <z:numPages>194</z:numPages>
+    </bib:Book>
+    <bib:Article rdf:about="#item_2841">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>43</prism:volume>
+                <dc:title>Materiały Zachodniopomorskie</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Galiński</foaf:surname>
+                        <foaf:givenName>Tadeusz</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>7-98</bib:pages>
+        <dc:date>1997</dc:date>
+        <dc:description>ISBN: 0076-5236</dc:description>
+        <dc:title>Materiały do mapy osadnictwa w epoce kamienia na Pomorzu Zachodnim</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="#item_2842">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>45</prism:volume>
+                <dc:title>Materiały zachodniopomorskie</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Galiński</foaf:surname>
+                        <foaf:givenName>Tadeusz</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>7-66</bib:pages>
+        <dc:date>1999</dc:date>
+        <dc:description>ISBN: 0076-5236</dc:description>
+        <dc:title>Stanowisko późnopaleolityczne w Kocierzy</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="#item_2843">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>2/3</prism:volume>
+                <dc:title>Materiały Zachodniopomorskie Nowa Seria</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Galiński</foaf:surname>
+                        <foaf:givenName>Tadeusz</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>43-78</bib:pages>
+        <dc:date>2006</dc:date>
+        <dc:description>ISBN: 0076-5236</dc:description>
+        <dc:title>Osadnictwo późnopaleolityczne w rejonie jeziora Świdwie na Pomorzu Zachodnim</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="#item_2844">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>Wydawnictwo IAE PAN</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Galiński</foaf:surname>
+                        <foaf:givenName>Tadeusz</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>2007</dc:date>
+        <dc:description>Publisher: Wydawnictwo Instytutu Archeologii i Etnologii PAN</dc:description>
+        <dc:title>Rotnowo: stanowisko paleolityczne i mezolityczne w Dolinie Lubieszowej na Pomorzu Zachodnim</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="#item_2845">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:00797138"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Galiński</foaf:surname>
+                        <foaf:givenName>Tadeusz</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2846"/>
+        <bib:pages>5-30</bib:pages>
+        <dc:date>2018</dc:date>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:title>Epiahrensburgian. Osadnictwo paleolityczne w początkach holocenu na stanowisku w Bolkowie na Pomorzu Zachodnim</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:00797138">
+        <prism:volume>66</prism:volume>
+        <dc:title>Przegląd Archeologiczny</dc:title>
+        <dc:identifier>ISSN 00797138</dc:identifier>
+        <dcterms:alternative>PA</dcterms:alternative>
+        <dc:identifier>DOI 10.23858/PA66.2018.001</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_2846">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://rcin.org.pl/Content/67430/PDF/WA308_87400_PIII149_Epiahrensburgian_I.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-18 10:05:42</dcterms:dateSubmitted>
+        <dc:title>Submitted Version</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:978-83-89976-37-6">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Poznań</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Institut Archeologii i Etnologii PAN</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kabaciński</foaf:surname>
+                        <foaf:givenName>Jacek</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sobkowiak-Tabaka</foaf:surname>
+                        <foaf:givenName>Iwona</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>ISBN 978-83-89976-37-6</dc:identifier>
+        <dc:date>2009</dc:date>
+        <z:libraryCatalog>K10plus ISBN</z:libraryCatalog>
+        <z:language>pol</z:language>
+        <dc:title>Późny paleolit i mezolit basenu środkowej Warty</dc:title>
+        <z:numPages>527</z:numPages>
+    </bib:Book>
+    <bib:Article rdf:about="#item_2848">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <prism:volume>57</prism:volume><dc:title>Quartär</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kabaciński</foaf:surname>
+                        <foaf:givenName>Jacek</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sobkowiak-Tabaka</foaf:surname>
+                        <foaf:givenName>Iwona</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>139-154</bib:pages>
+        <dc:date>2010</dc:date>
+        <dc:description>ISBN: 2749-9995</dc:description>
+        <dc:title>Between East and West–a new site of the Federmessergruppen in Poland</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="#item_2849">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <prism:volume>31</prism:volume><dc:title>Światowit</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kobusiewicz</foaf:surname>
+                        <foaf:givenName>Michał</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>47-54</bib:pages>
+        <dc:date>1970</dc:date>
+        <dc:description>ISBN: 0082-044X</dc:description>
+        <dc:title>Paleolit schyłkowy w środkowozachodniej Wielkopolsce</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="#item_2850">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>21</prism:volume>
+                <dc:title>Przegląd Archeologiczny</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kobusiewicz</foaf:surname>
+                        <foaf:givenName>Michał</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>65-92</bib:pages>
+        <dc:date>1973</dc:date>
+        <dc:description>Publisher: Polska Akademia Nauk. Instytut Historii Kultury Materialnej</dc:description>
+        <dc:title>Problems concerning Hamburgian culture in Central Europe</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="#item_2851">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <prism:volume>25</prism:volume><dc:title>Światowit</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kozłowski</foaf:surname>
+                        <foaf:givenName>Stefan Karol</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>253-269</bib:pages>
+        <dc:date>1964</dc:date>
+        <dc:description>ISBN: 0082-044X</dc:description>
+        <dc:title>Materiały paleolityczne ze stanowiska wydmowego Tokary-Rąbierz, pow. Gostynin: przemysł tokarski</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="#item_2852">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>34</prism:volume>
+                <dc:title>Materiały Archeologiczne</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pawłowska</foaf:surname>
+                        <foaf:givenName>M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>19-52</bib:pages>
+        <dc:date>2003</dc:date>
+        <dc:title>Schyłkowopaleolityczna pracownia wiórów na stanowisku 2 w Zagaciu, gm. Czernichów</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="#item_2853">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <prism:volume>7</prism:volume><dc:title>Światowit</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Przeździecki</foaf:surname>
+                        <foaf:givenName>M</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Migal</foaf:surname>
+                        <foaf:givenName>W</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Krajcarz</foaf:surname>
+                        <foaf:givenName>M</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pyżewicz</foaf:surname>
+                        <foaf:givenName>K</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>225-234</bib:pages>
+        <dc:date>2012 (2006-2008)</dc:date>
+        <dc:description>ISBN: 0082-044X</dc:description>
+        <dc:title>Obozowisko Kultury Magdaleńskiej Na Stanowisku 95 „Mały Gawroniec” W Ćmielowie, Pow. Ostrowiecki, Woj. Świętokrzyskie</dc:title>
+    </bib:Article>
+    <bib:Book rdf:about="#item_2854">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Warszawa</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Institute of Archaeology and Ethnology of the Polish Academy of Sciences</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schild</foaf:surname>
+                        <foaf:givenName>R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>2014</dc:date>
+        <dc:title>A Late Magdalenian winter hunting camp in southern Poland</dc:title>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:978-83-89499-90-5">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Warsaw</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Institute of Archaeology and Ethnology of the Polish Academy of Sciences</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schild</foaf:surname>
+                        <foaf:givenName>Romuald</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Królik</foaf:surname>
+                        <foaf:givenName>Halina</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tomaszewski</foaf:surname>
+                        <foaf:givenName>Andrzej Jacek</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ciepielewska</foaf:surname>
+                        <foaf:givenName>Elżbieta</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fiedorczuk</foaf:surname>
+                        <foaf:givenName>Jan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hensel</foaf:surname>
+                        <foaf:givenName>Zdzisław</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Archäologie</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Forschung</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Rydno</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>ISBN 978-83-89499-90-5</dc:identifier>
+        <dc:date>2011</dc:date>
+        <dc:description>OCLC: 812750748</dc:description>
+        <z:libraryCatalog>Open WorldCat</z:libraryCatalog>
+        <z:language>eng</z:language>
+        <dc:title>Rydno: A Stone Age Red Ochre Quarry and Ocioeconomic Center: A Century of Research</dc:title>
+        <z:shortTitle>Rydno</z:shortTitle>
+        <z:numPages>467</z:numPages>
+    </bib:Book>
+    <bib:Article rdf:about="#item_2856">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>19</prism:volume>
+                <dc:title>Lietuvos Archeologija</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Siemaszko</foaf:surname>
+                        <foaf:givenName>Jerzy</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>251-266</bib:pages>
+        <dc:date>2000</dc:date>
+        <dc:title>The Szczebra 14 site. A key to understanding the Palaeolithic in the North-eastern part of Europe or another mystery?</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="#item_2857">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <prism:volume>64</prism:volume><dc:title>Quartär</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Stefański</foaf:surname>
+                        <foaf:givenName>Damian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>241-264</bib:pages>
+        <dc:date>2017</dc:date>
+        <dc:description>ISBN: 2749-9995</dc:description>
+        <dc:title>Tanged Point Technocomplex–Swiderian, but what else? New findings from Kraków region, southern Poland</dc:title>
+    </bib:Article>
+    <bib:Book rdf:about="urn:isbn:0208-6034">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Łódż</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Wydawnictwo Uniwersytetu Łódzkiego</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Szymczak</foaf:surname>
+                        <foaf:givenName>Karol</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>ISBN 0208-6034</dc:identifier>
+        <dc:date>1992</dc:date>
+        <dc:title>Północno-wschodnia prowincja surowcowa kultury świderskiej</dc:title>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:83-85408-37-1">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Warszawa</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Wydawnictwa Fundacji &quot;Historia pro futuro&quot;</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Szymczak</foaf:surname>
+                        <foaf:givenName>Karol</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>ISBN 83-85408-37-1</dc:identifier>
+        <dc:date>1995</dc:date>
+        <dc:title>Epoka kamienia Polski północno-wschodniej na tle środkowoeuropejskim</dc:title>
+    </bib:Book>
+    <bib:Article rdf:about="#item_2860">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:number>49</prism:number>
+                <dc:title>Acta Archaeologica Carpathica</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Valde-Nowak</foaf:surname>
+                        <foaf:givenName>P</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kraszewska</foaf:surname>
+                        <foaf:givenName>A</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>5-35</bib:pages>
+        <dc:date>2015</dc:date>
+        <dc:description>Number: 49
+ISBN: 0001-5229
+Publisher: Polska Akademia Nauk</dc:description>
+        <dc:title>Nowa Biała and Sromowce Niżne—Late Palaeolithic Central Carpathian sites with Arched-backed Points</dc:title>
+    </bib:Article>
+    <bib:BookSection rdf:about="urn:isbn:978-83-61144-86-1">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:identifier>ISBN 978-83-61144-86-1</dc:identifier>
+                <dc:title>Klementowice. A Magdalenian site in eastern</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Lublin</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Institute of Archaeology. Maria Curie-Skłodowska University in Lublin</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wiśniewski</foaf:surname>
+                        <foaf:givenName>Tadeusz</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wiśniewski</foaf:surname>
+                        <foaf:givenName>T</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <link:link rdf:resource="#item_2862"/>
+        <bib:pages>7-66</bib:pages>
+        <dc:date>2015</dc:date>
+        <z:libraryCatalog>repozytorium.bg.ug.edu.pl</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dc:title>Magdalenian settlement in Klementowice</dc:title>
+    </bib:BookSection>
+    <z:Attachment rdf:about="#item_2862">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://repozytorium.bg.ug.edu.pl/info/book/UOG00e4a898768c4e3a84db3f7043003e30/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-27 09:00:49</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:BookSection rdf:about="#item_2863">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:title>A Late Magdalenian Winter Hunting Camp in Southern Poland</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Warszawa</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Institute of Archaeology and Ethnology of the Polish Academy of Sciences</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Królik</foaf:surname>
+                        <foaf:givenName>H.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schild</foaf:surname>
+                        <foaf:givenName>R</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <bib:pages>173-240</bib:pages>
+        <dc:date>2014</dc:date>
+        <dc:title>Chipped flint and quartzite artifacts</dc:title>
+    </bib:BookSection>
+    <bib:Book rdf:about="#item_2864">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Poznań</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Arkadia łowców i zbieraczy, Ośrodek Studiów Pradziejowych i Średniowiecznych IAiE PAN</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kobusiewicz</foaf:surname>
+                        <foaf:givenName>M</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>2016</dc:date>
+        <dc:title>Region Wojnowo</dc:title>
+    </bib:Book>
+    <bib:BookSection rdf:about="#item_2865">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+               <dc:title>Region Wojnowo. Arkadia łowców i zbieraczy</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Poznań</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Ośrodek Studiów Pradziejowych i Średniowiecznych. IAiE PAN</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kobusiewicz</foaf:surname>
+                        <foaf:givenName>M</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kobusiewicz</foaf:surname>
+                        <foaf:givenName>M</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <bib:pages>117-185</bib:pages>
+        <dc:date>2016</dc:date>
+        <dc:title>Wojnowo, stanowisko „a”</dc:title>
+    </bib:BookSection>
+    <bib:BookSection rdf:about="#item_2866">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Book><dc:title>Prehistoria Ziem Polskich</dc:title></bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Kraków</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Polska Akademia Umiejętności</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Krukowski</foaf:surname>
+                        <foaf:givenName>S</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Krukowski</foaf:surname>
+                        <foaf:givenName>S</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kostrzewski</foaf:surname>
+                        <foaf:givenName>J</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jakimowicz</foaf:surname>
+                        <foaf:givenName>R</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:date>1939-1948</dc:date>
+        <dc:title>Paleolit</dc:title>
+    </bib:BookSection>
+    <bib:BookSection rdf:about="#item_2867">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:title>A Late Magdalenian Winter Hunting Camp in Southern Poland</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Warszawa</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Institute of Archaeology and Ethnology of the Polish Academy of Sciences</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schild</foaf:surname>
+                        <foaf:givenName>R</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schild</foaf:surname>
+                        <foaf:givenName>R</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <bib:pages>17-28</bib:pages>
+        <dc:date>2014</dc:date>
+        <dc:title>Introduction</dc:title>
+    </bib:BookSection>
+    <bib:BookSection rdf:about="#item_2868">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:title>Całowanie. A Final Palaeolithic and Early Mesolithic Site on an Island in the Ancient Vistula Channel</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Warszawa</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Instytut Archeologii i Etnologii PAN</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schild</foaf:surname>
+                        <foaf:givenName>R</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mańka</foaf:surname>
+                        <foaf:givenName>D</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Królik</foaf:surname>
+                        <foaf:givenName>H</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Marczak</foaf:surname>
+                        <foaf:givenName>M</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schild</foaf:surname>
+                        <foaf:givenName>R</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <bib:pages>59-253</bib:pages>
+        <dc:date>2014</dc:date>
+        <dc:title>Archaeological materials</dc:title>
+    </bib:BookSection>
+    <bib:Book rdf:about="#item_2869">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Lublin</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Institute of Archaeology, Maria Curie-Skłodowska University of Lublin</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wiśniewski</foaf:surname>
+                        <foaf:givenName>T</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>2015</dc:date>
+        <dc:title>Klementowice. A Magdalenian site in eastern Poland</dc:title>
+        <z:numPages>346</z:numPages>
+    </bib:Book>
+    <bib:Article rdf:about="#item_2870">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>54</prism:volume>
+                <dc:title>Fontes Archaeologici Posnanienses</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mugaj</foaf:surname>
+                        <foaf:givenName>Jakub</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_2871"/>
+        <dc:subject>Artykuł problemowy</dc:subject>
+        <dc:subject>Artykuł z czasopisma archeologicznego</dc:subject>
+        <dc:subject>Artykuł z czasopisma naukowego</dc:subject>
+        <dc:subject>Krągola (woj. wielkopolskie, pow. koniński, gm. Stare Miasto)</dc:subject>
+        <dc:subject>Krzemień</dc:subject>
+        <dc:subject>Krzemieniarstwo</dc:subject>
+        <dc:subject>Kultura hamburska</dc:subject>
+        <dc:subject>Paleolit</dc:subject>
+        <dc:subject>Zabytki archeologiczne</dc:subject>
+        <bib:pages>89-103</bib:pages>
+        <dc:date>2019</dc:date>
+        <dc:title>Stanowisko kultury hamburskiej w Krągoli, woj. wielkopolskie : rekonstrukcja technologiii obróbki krzemienia w oparciu o analizę składanek krzemiennych</dc:title>
+    </bib:Article>
+    <bib:Memo rdf:about="#item_2871">
+       <rdf:value>&lt;p&gt;Bibliografia na stronie 102.&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Thesis rdf:about="#item_2872">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Warszawa</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Uniwersytet Warszawski</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Przeździecki</foaf:surname>
+                        <foaf:givenName>M</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>2014</dc:date>
+        <z:type>Wydział Historyczny</z:type>
+        <dc:title>Krzemieniarstwo schyłkowopaleolitycznej kultury wołkuszańskiej w świetle analizy materiałów ze stanowiska 3 w Wołkuszu, gm. Lipsk n/Biebrzą, pow. augustowski, woj. podlaskie</dc:title>
+    </bib:Thesis>
+    <bib:Article rdf:about="http://rcin.org.pl/iae/dlibra/publication/edition/68871">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>150</prism:volume>
+                <prism:number>9</prism:number>
+                <dc:title>Biuletyn Państwowego Instytutu Geologicznego</dc:title>
+                <dcterms:alternative>Biuletyn / Instytut Geologiczny, Z badań czwartorzędu. T. 9</dcterms:alternative>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sawicki</foaf:surname>
+                        <foaf:givenName>Ludwik</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2874"/>
+        <dc:subject>Antoniów, Bałtów commune, Ostrowiec Świętokrzyski county, świętokrzyskie voivodeship (Poland)</dc:subject>
+        <dc:subject>Magdalenian culture</dc:subject>
+        <dc:subject>Magdalenian culture flint objects</dc:subject>
+        <dc:subject>Paleolithic -- Poland</dc:subject>
+        <dc:subject>stratigraphy of archaeological site</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://rcin.org.pl/iae/dlibra/publication/edition/68871</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>171-216</bib:pages>
+        <dc:date>1960</dc:date>
+        <dc:description>Number: 9
+Place: Warszawa
+Publisher: Wydawnictwa Geologiczne</dc:description>
+        <dc:title>Stanowisko otwarte madleńskie Antoniów Mały</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_2874">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://rcin.org.pl/iae/Content/68871/PDF/WA308_87137_II14428_Stanowisko-otwarte_I.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-11-04 14:34:45</dcterms:dateSubmitted>
+        <dc:title>WA308_87137_II14428_Stanowisko-otwarte_I</dc:title>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <bib:BookSection rdf:about="#item_2875">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+               <dc:title>Prahistoria ziem polskich. Paleolit i mezolit</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Wydawnictwo</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Ossolineum</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schild</foaf:surname>
+                        <foaf:givenName>R</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chmielewski</foaf:surname>
+                        <foaf:givenName>Waldemar</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hensel</foaf:surname>
+                        <foaf:givenName>W</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <bib:pages>159-338</bib:pages>
+        <dc:date>1975</dc:date>
+        <dc:title>Późny paleolit</dc:title>
+    </bib:BookSection>
+    <bib:Book rdf:about="urn:isbn:978-83-89499-81-3">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Poznań</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>IAE PAN</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sobkowiak-Tabaka</foaf:surname>
+                        <foaf:givenName>Iwona</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Instytut Archeologii i Etnologii (Polska Akademia Nauk)</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Paleolithic period</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Antiquities</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Excavations (Archaeology)</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Civilization</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Antiquities, Prehistoric</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Catalogs</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Oder River Valley</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>ISBN 978-83-89499-81-3</dc:identifier>
+        <dc:date>2011</dc:date>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>GN772.22.P6 S66 2011</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:description>OCLC: ocn769134867</dc:description>
+        <z:libraryCatalog>Library of Congress ISBN</z:libraryCatalog>
+        <z:language>pol</z:language>
+        <dc:title>Społeczności późnego paleolitu w dorzeczu Odry</dc:title>
+        <z:numPages>416</z:numPages>
+    </bib:Book>
+    <bib:Article rdf:about="#item_2877">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <prism:volume>37</prism:volume><dc:title>Światowit</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Szymczak</foaf:surname>
+                        <foaf:givenName>Karol</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>143-188</bib:pages>
+        <dc:date>1991</dc:date>
+        <dc:title>Kultura perstuńska w paleolicie schyłkowym Niżu Środkowoeuropejskiego</dc:title>
+    </bib:Article>
+</rdf:RDF>

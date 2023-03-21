@@ -1,0 +1,757 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/">
+    <bib:Thesis rdf:about="#item_2577">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Vienna</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>na</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Antl-Weiser</foaf:surname>
+                        <foaf:givenName>Walpurga</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>1986</dc:date>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:title>Das Fundmaterial von Horn-Galgenberg und seine Stellung am Übergang vom Paläolithikum zum Mesolithikum</dc:title>
+    </bib:Thesis>
+    <bib:Article rdf:about="#item_2578">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>587</prism:volume>
+                <dc:title>Quaternary International</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Béres</foaf:surname>
+                        <foaf:givenName>Sándor</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cserpák</foaf:surname>
+                        <foaf:givenName>Ferenc</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Moskal-del Hoyo</foaf:surname>
+                        <foaf:givenName>Magdalena</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Repiszky</foaf:surname>
+                        <foaf:givenName>Tamás</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sázelová</foaf:surname>
+                        <foaf:givenName>Sandra</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wilczyński</foaf:surname>
+                        <foaf:givenName>Jaros\law</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lengyel</foaf:surname>
+                        <foaf:givenName>György</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2579"/>
+        <bib:pages>158–171</bib:pages>
+        <dc:date>2021</dc:date>
+        <dc:description>Publisher: Elsevier</dc:description>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:title>Zöld cave and the late epigravettian in eastern central Europe</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_2579">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S1040618220306157</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-11-03 21:43:25</dcterms:dateSubmitted>
+        <dc:title>Full Text</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_2580">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>39</prism:volume>
+                <dc:title>Folia Archaeologica (Budapest)</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dobosi</foaf:surname>
+                        <foaf:givenName>V. T.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jungbert</foaf:surname>
+                        <foaf:givenName>B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ringer</foaf:surname>
+                        <foaf:givenName>Á</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vörös</foaf:surname>
+                        <foaf:givenName>I.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2581"/>
+        <bib:pages>13–40</bib:pages>
+        <dc:date>1988</dc:date>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:title>Palaeolithic settlement in Nadap</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_2581">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&amp;idt=11840255</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-11-03 21:44:19</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_2582">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>43</prism:volume>
+                <prism:number>3-4</prism:number>
+                <dc:title>Acta Archaeologica Academiae Scientiarum Hungaricae</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dobosi</foaf:surname>
+                        <foaf:givenName>V. T.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kövecses-Varga</foaf:surname>
+                        <foaf:givenName>E.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2583"/>
+        <bib:pages>233–255</bib:pages>
+        <dc:date>1991</dc:date>
+        <dc:description>Number: 3-4</dc:description>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:title>Upper Palaeolithic site at Esztergom-Gyurgyalag. An Archaeological Analysis</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_2583">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&amp;idt=6550602</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-11-03 21:44:41</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_2584">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>2</prism:volume>
+                <prism:number>14</prism:number>
+                <dc:title>Archäologische Berichte</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gehlen</foaf:surname>
+                        <foaf:givenName>Birgit</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>475-552</bib:pages>
+        <dc:date>2001</dc:date>
+        <dc:description>Number: 14</dc:description>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:title>Rast am Fuße der Alpen. Die allerødzeitliche Abristation “Unter den Seewänden” bei Füssen im Ostallgäu</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="#item_2585">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>20</prism:volume>
+                <prism:number>1</prism:number>
+                <dc:title>Archäologie der Schweiz</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jagher</foaf:surname>
+                        <foaf:givenName>R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fischer</foaf:surname>
+                        <foaf:givenName>M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Morel</foaf:surname>
+                        <foaf:givenName>P. H.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2586"/>
+        <bib:pages>2–8</bib:pages>
+        <dc:date>1997</dc:date>
+        <dc:description>Number: 1</dc:description>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:title>Altwasser-Höhle 1: eine spätpaläolithische Jagdstation auf 1410 m ü. M. im südöstlichen Alpstein Al</dc:title>
+        <z:shortTitle>Altwasser-Höhle 1</z:shortTitle>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_2586">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&amp;idt=2878480</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-11-03 21:47:18</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:BookSection rdf:about="#item_2587">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:title>At the fringes of three worlds. Hunter-gatherers and farmers in the middle Tisza Valley</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Szolnok</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Damjanich Museum</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kertész</foaf:surname>
+                        <foaf:givenName>Róbert</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>5-39</bib:pages>
+        <dc:date>1996</dc:date>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:title>The Mesolithic in the Great Hungarian Plain. A Survey of the Evidence</dc:title>
+    </bib:BookSection>
+    <bib:BookSection rdf:about="#item_2588">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <prism:volume>9</prism:volume>
+                <dc:title>Die Gamssulzenhöhle im Toten Gebirge</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Wien</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Mitteilungen der Kommission für Quartärforschung der Österreichischen Akademie der Wissenschaften</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kühtreiber</foaf:surname>
+                        <foaf:givenName>Thomas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kunst</foaf:surname>
+                        <foaf:givenName>Günther Karl</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>83-119</bib:pages>
+        <dc:date>1995</dc:date>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:title>Das Spätglazial in der Gamssulzenhöhle im Toten Gebirge (Oberösterreich). Artefakte, Tierreste, Fundschichtbildung</dc:title>
+    </bib:BookSection>
+    <bib:Article rdf:about="#item_2591">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <prism:volume>9-10</prism:volume><dc:title>Praehistoria</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lengyel</foaf:surname>
+                        <foaf:givenName>Gyorgy</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>241–263</bib:pages>
+        <dc:date>2008-2009</dc:date>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:title>Radiocarbon dates of the “Gravettian Entity” in Hungary</dc:title>
+    </bib:Article>
+    <bib:BookSection rdf:about="#item_2592">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <prism:volume>13</prism:volume>
+                <dc:title>Aeolian scripts - New Ideas on the Lithic World</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Budapest</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Inventaria praehistorica Hungariae</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lengyel</foaf:surname>
+                        <foaf:givenName>Gyorgy</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2593"/>
+        <bib:pages>121-130</bib:pages>
+        <dc:date>2014</dc:date>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:title>Backed tool technology at Esztergom-Gyurgyalag</dc:title>
+    </bib:BookSection>
+    <z:Attachment rdf:about="#item_2593">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.researchgate.net/profile/Gyoergy-Lengyel-2/publication/267751033_BACKED_TOOL_TECHNOLOGY_AT_ESZTERGOM-GYURGYALAG_EPIGRAVETTIAN_SITE_IN_HUNGARY/links/54592f150cf2bccc4912b7a3/BACKED-TOOL-TECHNOLOGY-AT-ESZTERGOM-GYURGYALAG-EPIGRAVETTIAN-SITE-IN-HUNGARY.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-11-03 21:51:34</dcterms:dateSubmitted>
+        <dc:title>Full Text</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_2594">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:number>51</prism:number>
+                <dc:title>Acta Archaeologica Carpathica</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lengyel</foaf:surname>
+                        <foaf:givenName>György</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2595"/>
+        <bib:pages>47-66</bib:pages>
+        <dc:date>2016</dc:date>
+        <dc:description>Number: 51
+Publisher: Polish Academy of Sciences—Cracow Branch Commission of Archaeology</dc:description>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:title>Reassessing the middle and late upper palaeolithic in Hungary</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_2595">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.academia.edu/download/54092210/AACarp._2016_2-G.Lengyel.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-11-03 21:51:54</dcterms:dateSubmitted>
+        <dc:title>Full Text</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_2596">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:number>86</prism:number>
+                <dc:title>Folia Quaternaria</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lengyel</foaf:surname>
+                        <foaf:givenName>György</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2597"/>
+        <bib:pages>5–157</bib:pages>
+        <dc:date>2018</dc:date>
+        <dc:description>Number: 86
+Publisher: Portal Czasopism Naukowych Ejournals. eu</dc:description>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:title>Lithic analysis of the middle and late upper palaeolithic in Hungary</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_2597">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.ejournals.eu/FQ/2018/Vol-86/art/13384</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-11-03 21:52:31</dcterms:dateSubmitted>
+        <dc:title>Full Text</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Thesis rdf:about="#item_2598">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Vienna</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rettenbacher</foaf:surname>
+                        <foaf:givenName>Christian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>1998</dc:date>
+        <dc:title>Steinzeitliche Silexartefakte aus dem Abri von Elsbethen: Eine paläo-mesolithische Jagd-Station im Salzachtal</dc:title>
+        <z:shortTitle>Steinzeitliche Silexartefakte aus dem Abri von Elsbethen</z:shortTitle>
+    </bib:Thesis>
+    <bib:Article rdf:about="#item_2599">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>51</prism:volume>
+                <prism:number>2</prism:number>
+                <dc:title>Slovenská Archeológia</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Soják</foaf:surname>
+                        <foaf:givenName>M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hunka</foaf:surname>
+                        <foaf:givenName>J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>341–365</bib:pages>
+        <dc:date>2003</dc:date>
+        <dc:description>Number: 2
+Publisher: Slovenská akadémia vied</dc:description>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:title>Paleolitické sídlisko a neskorostredoveká peňazokazecká dielňa v jaskyni Suchá diera v Spišskej Teplici</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="#item_2600">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>1</prism:volume>
+                <prism:number>55</prism:number>
+                <dc:title>Slovenská Archeológia</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Valde-Nowak</foaf:surname>
+                        <foaf:givenName>P.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Soják</foaf:surname>
+                        <foaf:givenName>M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Was</foaf:surname>
+                        <foaf:givenName>M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2601"/>
+        <bib:pages>1–22</bib:pages>
+        <dc:date>2007</dc:date>
+        <dc:description>Number: 55</dc:description>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:title>On the problems of late Paleolithic settlement in northern Slovakia. Example of Stara Lubovna site</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_2601">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.infona.pl/resource/bwmeta1.element.0f4dd352-d66d-39f7-8782-01d182b63b07</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-11-03 21:58:41</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:BookSection rdf:about="#item_2602">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:title>From the Atlantic to Beyond the Bug River. Finding and Defining the Federmesser-Gruppen / Azilian</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Heidelberg</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Verlag des RGZM</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Valde-Nowak</foaf:surname>
+                        <foaf:givenName>P.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kraszewska</foaf:surname>
+                        <foaf:givenName>A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2603"/>
+        <bib:pages>105-118</bib:pages>
+        <dc:date>2020</dc:date>
+        <dc:description>Publisher: Mainz: Verlag des Römisch-Germanischen Zantralmuseums</dc:description>
+        <z:numberOfVolumes>40</z:numberOfVolumes>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:title>Two late palaeolithic arch-backed points varieties in the Northern Carpathians</dc:title>
+    </bib:BookSection>
+    <z:Attachment rdf:about="#item_2603">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://books.ub.uni-heidelberg.de/propylaeum/reader/download/575/575-30-87574-1-10-20200123.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-11-03 22:01:47</dcterms:dateSubmitted>
+        <dc:title>Full Text</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_2604">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>24</prism:volume>
+                <dc:title>Światowit: rocznik poświęcony archeologii przeddziejowej i badaniom pierwotnej kultury polskiej i s\lowiańskiej</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vértes</foaf:surname>
+                        <foaf:givenName>Lászlo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>199–202</bib:pages>
+        <dc:date>1962</dc:date>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:title>Die Ausgrabungen in Szekszárd-Palánk und die archäologischen Funde</dc:title>
+    </bib:Article>
+    <bib:Book rdf:about="#item_2990">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Innsbruck</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Unpublished B.A. Thesis</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Windisch</foaf:surname>
+                        <foaf:givenName>M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>2014</dc:date>
+        <dc:title>Die Steingeräte aus der Halbhöhle von Oberraun in Unken. Bachelorarbeit</dc:title>
+    </bib:Book>
+    <bib:Book rdf:about="#item_2993">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Vienna</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Unpublished M.A. Thesis</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schwarz</foaf:surname>
+                        <foaf:givenName>G.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>2007</dc:date>
+        <dc:title>Die spätpaläolithische - mesolithische Fundstelle Kamegg in Niederösterreich</dc:title>
+    </bib:Book>
+    <bib:Book rdf:about="#item_2994">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Innsbruck</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Unpublished M.A. Thesis</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nutz</foaf:surname>
+                        <foaf:givenName>Beatrix</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>2006</dc:date>
+        <dc:title>Die steinzeitlichen Fundstellen von Kamegg und Mühlfeld in Niederösterreich. Mit einem Verzeichnis spätpaläolithischer und mesolithischer Fundstellen in Österreich.</dc:title>
+    </bib:Book>
+</rdf:RDF>

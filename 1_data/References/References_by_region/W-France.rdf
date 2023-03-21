@@ -1,0 +1,1545 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#">
+    <bib:Article rdf:about="#item_2947">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0081-1246"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chollet</foaf:surname>
+                        <foaf:givenName>André</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dujardin</foaf:surname>
+                        <foaf:givenName>Véronique</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_2948"/>
+        <dcterms:isReferencedBy rdf:resource="#item_2949"/>
+        <dcterms:isReferencedBy rdf:resource="#item_2950"/>
+        <dcterms:isReferencedBy rdf:resource="#item_2951"/>
+        <dc:subject>France</dc:subject>
+        <dc:subject>Mésolithique</dc:subject>
+        <dc:subject>Paléolithique supérieur</dc:subject>
+        <dc:subject>Magdalénien</dc:subject>
+        <dc:subject>Industrie lithique</dc:subject>
+        <dc:subject>Azilien</dc:subject>
+        <dc:subject>Bois-Ragot</dc:subject>
+        <dc:subject>Colorant</dc:subject>
+        <dc:subject>Datation</dc:subject>
+        <dc:subject>Environnement</dc:subject>
+        <dc:subject>Faune</dc:subject>
+        <dc:subject>Objet en os</dc:subject>
+        <dc:subject>Parure</dc:subject>
+        <dc:subject>Site archéologique</dc:subject>
+        <dc:subject>Vienne</dc:subject>
+        <bib:pages>428</bib:pages>
+        <dc:date>2005</dc:date>
+        <dc:description>Publisher: Pôle éditorial archéologique de l'Ouest, Rennes</dc:description>
+        <z:libraryCatalog>Inist-CNRS</z:libraryCatalog>
+        <z:language>French</z:language>
+        <dc:title>La grotte du Bois-Ragot à Gouex, Vienne : Magdalénien et Azilien</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0081-1246">
+        <prism:volume>38</prism:volume>
+        <dc:title>Mémoires de la Société préhistorique française</dc:title>
+        <dc:identifier>ISSN 0081-1246</dc:identifier>
+        <dcterms:alternative>Mémoires de la Société préhistorique française</dcterms:alternative>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_2948">
+        <rdf:value>&lt;p&gt;Classification: 525-: Prehistoire et protohistoire / Prehistory and protohistory&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_2949">
+        <rdf:value>&lt;p&gt;Classification: 525-46: Europe / Europe&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_2950">
+        <rdf:value>&lt;p&gt;Classification: 525-53: Paléolithique supérieur / Upper palaeolithic&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_2951">
+       <rdf:value>&lt;p&gt;Inist-CNRS record number 18676519&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Article rdf:about="https://www.persee.fr/doc/galip_0016-4127_1996_num_38_1_2145">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0016-4127"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Célérier</foaf:surname>
+                        <foaf:givenName>Guy</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.persee.fr/doc/galip_0016-4127_1996_num_38_1_2145</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>1-98</bib:pages>
+        <dc:date>1993</dc:date>
+        <dcterms:dateSubmitted>2022-11-11 11:36:52</dcterms:dateSubmitted>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <z:language>fr</z:language>
+        <dc:title>L’abri sous roche de Pont d’Ambon à Bourdeilles (Dordogne). I : Technologie de l’outillage lithique taillé ; II : Inventaire et typométrie des pointes aziliennes</dc:title>
+        <z:shortTitle>L'abri sous roche de Pont d'Ambon à Bourdeilles (Dordogne)</z:shortTitle>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0016-4127">
+        <prism:volume>35</prism:volume>
+        <dc:title>Gallia préhistoire</dc:title>
+        <dc:identifier>ISSN 0016-4127</dc:identifier>
+        <dcterms:alternative>galip</dcterms:alternative>
+        <dc:identifier>DOI 10.3406/galip.1996.2145</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="http://www.persee.fr/web/revues/home/prescript/article/pal_1145-3370_1998_num_10_1_1138">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1145-3370"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Célérier</foaf:surname>
+                        <foaf:givenName>Guy</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.persee.fr/web/revues/home/prescript/article/pal_1145-3370_1998_num_10_1_1138</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>233-264</bib:pages>
+        <dc:date>1998</dc:date>
+        <dcterms:dateSubmitted>2022-11-11 11:39:37</dcterms:dateSubmitted>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <z:language>fr</z:language>
+        <dc:title>L'abri sous roche de Pont d'Ambon à Bourdeilles (Dordogne, France). Perpectives synthétiques</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1145-3370">
+        <prism:volume>10</prism:volume>
+        <dc:title>Paléo</dc:title>
+        <dc:identifier>ISSN 1145-3370</dc:identifier>
+        <dcterms:alternative>pal</dcterms:alternative>
+        <dc:identifier>DOI 10.3406/pal.1998.1138</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="https://linkinghub.elsevier.com/retrieve/pii/S1040618214007034">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:10406182"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jacquier</foaf:surname>
+                        <foaf:givenName>Jérémie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Naudinot</foaf:surname>
+                        <foaf:givenName>Nicolas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://linkinghub.elsevier.com/retrieve/pii/S1040618214007034</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>269-287</bib:pages>
+        <dc:date>2015</dc:date>
+        <dcterms:dateSubmitted>2022-11-11 11:40:48</dcterms:dateSubmitted>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dc:title>Socio economic significance of stone tools recycling, reuse and maintenance at the end of the Lateglacial in Northwestern France</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:10406182">
+        <prism:volume>361</prism:volume>
+        <dc:title>Quaternary International</dc:title>
+        <dc:identifier>ISSN 10406182</dc:identifier>
+        <dcterms:alternative>Quaternary International</dcterms:alternative>
+        <dc:identifier>DOI 10.1016/j.quaint.2014.09.051</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="https://www.persee.fr/doc/bspf_0249-7638_2018_num_115_3_14921">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0249-7638"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Langlais</foaf:surname>
+                        <foaf:givenName>Mathieu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Delvigne</foaf:surname>
+                        <foaf:givenName>Vincent</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gibaud</foaf:surname>
+                        <foaf:givenName>Alix</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jacquier</foaf:surname>
+                        <foaf:givenName>Jérémie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Perrin</foaf:surname>
+                        <foaf:givenName>Thomas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fernandes</foaf:surname>
+                        <foaf:givenName>Paul</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Delpuech</foaf:surname>
+                        <foaf:givenName>André</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.persee.fr/doc/bspf_0249-7638_2018_num_115_3_14921</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>497-529</bib:pages>
+        <dc:date>2018</dc:date>
+        <dc:description>Number: 3</dc:description>
+        <dcterms:dateSubmitted>2022-11-11 11:41:44</dcterms:dateSubmitted>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <z:language>fr</z:language>
+        <dc:title>La séquence archéostratigraphique du Cuze de Sainte-Anastasie (Cantal) : variations diachroniques et synchroniques des industries lithiques du Laborien au Mésolithique</dc:title>
+        <z:shortTitle>La séquence archéostratigraphique du Cuze de Sainte-Anastasie (Cantal)</z:shortTitle>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0249-7638">
+        <prism:volume>115</prism:volume>
+        <prism:number>3</prism:number>
+        <dc:title>Bulletin de la Société préhistorique française</dc:title>
+        <dc:identifier>ISSN 0249-7638</dc:identifier>
+        <dcterms:alternative>bspf</dcterms:alternative>
+        <dc:identifier>DOI 10.3406/bspf.2018.14921</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="http://journals.openedition.org/paleo/2917">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1145-3370,%202101-0420"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Langlais</foaf:surname>
+                        <foaf:givenName>Mathieu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Laroulandie</foaf:surname>
+                        <foaf:givenName>Véronique</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jacquier</foaf:surname>
+                        <foaf:givenName>Jérémie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Costamagno</foaf:surname>
+                        <foaf:givenName>Sandrine</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chalard</foaf:surname>
+                        <foaf:givenName>Pierre</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mallye</foaf:surname>
+                        <foaf:givenName>Jean-Baptiste</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pétillon</foaf:surname>
+                        <foaf:givenName>Jean-Marc</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rigaud</foaf:surname>
+                        <foaf:givenName>Solange</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Royer</foaf:surname>
+                        <foaf:givenName>Aurélien</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sitzia</foaf:surname>
+                        <foaf:givenName>Luca</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cochard</foaf:surname>
+                        <foaf:givenName>David</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dayet</foaf:surname>
+                        <foaf:givenName>Laure</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fat Cheung</foaf:surname>
+                        <foaf:givenName>Célia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Le Gall</foaf:surname>
+                        <foaf:givenName>Olivier</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Queffelec</foaf:surname>
+                        <foaf:givenName>Alain</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lacrampe-Cuyaubère</foaf:surname>
+                        <foaf:givenName>François</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2957"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://journals.openedition.org/paleo/2917</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>79-115</bib:pages>
+        <dc:date>2015</dc:date>
+        <dc:description>Number: 26</dc:description>
+        <dcterms:dateSubmitted>2022-11-11 11:46:33</dcterms:dateSubmitted>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:title>Le Laborien récent de la grotte-abri de Peyrazet (Creysse, Lot, France). Nouvelles données pour la fin du Tardiglaciaire en Quercy</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1145-3370,%202101-0420">
+        <prism:volume>26</prism:volume>
+        <dc:title>Paléo</dc:title>
+        <dc:identifier>ISSN 1145-3370, 2101-0420</dc:identifier>
+        <dcterms:alternative>paleo</dcterms:alternative>
+        <dc:identifier>DOI 10.4000/paleo.2917</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_2957">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journals.openedition.org/paleo/pdf/2917</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-11-11 11:46:36</dcterms:dateSubmitted>
+        <dc:title>Full Text</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_2958">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>2</prism:volume>
+                <dc:title>Préhistoire quercynoise</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lorblanchet</foaf:surname>
+                        <foaf:givenName>M</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>58-94</bib:pages>
+        <dc:date>1985</dc:date>
+        <dc:title>Premiers résultats de nouvelles recherches à l’abri Murat (Rocamadour, Lot)</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="#item_2959">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>1996</prism:volume>
+                <dc:title>La vie préhistorique</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lorblanchet</foaf:surname>
+                        <foaf:givenName>M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>282-285</bib:pages>
+        <dc:date>1996</dc:date>
+        <dc:description>Publisher: Archéologia-Société Préhistorique Française Dijon</dc:description>
+        <dc:title>Du Magdalénien à l’Azilien en Quercy</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="https://www.persee.fr/doc/galip_0016-4127_2009_num_51_1_2475">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>51</prism:volume>
+                <prism:number>1</prism:number>
+                <dc:title>Gallia préhistoire</dc:title>
+                <dc:identifier>ISSN 0016-4127</dc:identifier>
+                <dcterms:alternative>galip</dcterms:alternative>
+                <dc:identifier>DOI 10.3406/galip.2009.2475</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Marchand</foaf:surname>
+                        <foaf:givenName>Grégor</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Arthuis</foaf:surname>
+                        <foaf:givenName>Rémy</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Philibert</foaf:surname>
+                        <foaf:givenName>Sylvie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sellami</foaf:surname>
+                        <foaf:givenName>Farid</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sicard</foaf:surname>
+                        <foaf:givenName>Sandra</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Forré</foaf:surname>
+                        <foaf:givenName>Philippe</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lanoë</foaf:surname>
+                        <foaf:givenName>Sylvain</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nauleau</foaf:surname>
+                        <foaf:givenName>Jean-François</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Quesnel</foaf:surname>
+                        <foaf:givenName>Laurent</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Querré</foaf:surname>
+                        <foaf:givenName>Guirec</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2961"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.persee.fr/doc/galip_0016-4127_2009_num_51_1_2475</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>1-111</bib:pages>
+        <dc:date>2009</dc:date>
+        <dc:description>Number: 1</dc:description>
+        <dcterms:dateSubmitted>2022-11-11 11:51:19</dcterms:dateSubmitted>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <z:language>fr</z:language>
+        <dc:title>Un habitat azilien en Anjou : les Chaloignes à Mozé-sur-Louet (Maine-et-Loire)</dc:title>
+        <z:shortTitle>Un habitat azilien en Anjou</z:shortTitle>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_2961">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://hal-univ-tlse2.archives-ouvertes.fr/hal-02022735/file/GP_51_1-111_MARCHAND.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-11-11 11:51:26</dcterms:dateSubmitted>
+        <dc:title>Submitted Version</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://hal.archives-ouvertes.fr/hal-02197341">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>3</prism:volume>
+                <prism:number>Haltes de chasse en Préhistoire. Quelles réalités archéologiques ?</prism:number>
+                <dc:title>P@lethnologie</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Marchand</foaf:surname>
+                        <foaf:givenName>Grégor</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Naudinot</foaf:surname>
+                        <foaf:givenName>Nicolas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Philibert</foaf:surname>
+                        <foaf:givenName>Sylvie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sicard</foaf:surname>
+                        <foaf:givenName>Sandra</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>France</dc:subject>
+        <dc:subject>azilien</dc:subject>
+        <dc:subject>Chasse</dc:subject>
+        <dc:subject>haltes</dc:subject>
+        <dc:subject>l'Ouest</dc:subject>
+        <dc:subject>site</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://hal.archives-ouvertes.fr/hal-02197341</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>271-294</bib:pages>
+        <dc:date>2011</dc:date>
+        <dc:description>Number: Haltes de chasse en Préhistoire. Quelles réalités archéologiques ?
+Publisher: Presses universitaires du Midi</dc:description>
+        <dc:title>Chasse aux haltes sur un site azilien de l'Ouest de la France</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="http://journals.openedition.org/rao/1650">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0767-709X,%201775-3732"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Marchand</foaf:surname>
+                        <foaf:givenName>Grégor</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sicard</foaf:surname>
+                        <foaf:givenName>Sandra</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Forré</foaf:surname>
+                        <foaf:givenName>Philippe</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nauleau</foaf:surname>
+                        <foaf:givenName>Jean-François</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2964"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://journals.openedition.org/rao/1650</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>7-52</bib:pages>
+        <dc:date>2008</dc:date>
+        <dc:description>Number: 25</dc:description>
+        <dcterms:dateSubmitted>2022-11-11 11:57:59</dcterms:dateSubmitted>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:title>De la pelle mécanique aux remontages lithiques : espace habité et techniques au Tardiglaciaire sur l’habitat des Chaloignes (Mozé-sur-Louet, Maine-et-Loire)</dc:title>
+        <z:shortTitle>De la pelle mécanique aux remontages lithiques</z:shortTitle>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0767-709X,%201775-3732">
+        <prism:number>25</prism:number>
+        <dc:title>Revue archéologique de l'Ouest</dc:title>
+        <dc:identifier>ISSN 0767-709X, 1775-3732</dc:identifier>
+        <dcterms:alternative>rao</dcterms:alternative>
+        <dc:identifier>DOI 10.4000/rao.1650</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_2964">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journals.openedition.org/rao/pdf/1650</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-11-11 11:58:02</dcterms:dateSubmitted>
+        <dc:title>Full Text</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.persee.fr/doc/bspf_0249-7638_2013_num_110_2_14259">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>110</prism:volume>
+                <prism:number>2</prism:number>
+                <dc:title>Bulletin de la Société préhistorique française</dc:title>
+                <dc:identifier>ISSN 0249-7638</dc:identifier>
+                <dcterms:alternative>bspf</dcterms:alternative>
+                <dc:identifier>DOI 10.3406/bspf.2013.14259</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Naudinot</foaf:surname>
+                        <foaf:givenName>Nicolas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.persee.fr/doc/bspf_0249-7638_2013_num_110_2_14259</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>233-255</bib:pages>
+        <dc:date>2013</dc:date>
+        <dc:description>Number: 2</dc:description>
+        <dcterms:dateSubmitted>2022-11-11 12:01:06</dcterms:dateSubmitted>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <z:language>fr</z:language>
+        <dc:title>La fin du Tardiglaciaire dans le Grand-Ouest de la France</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="https://linkinghub.elsevier.com/retrieve/pii/S0278416514000385">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:02784165"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Naudinot</foaf:surname>
+                        <foaf:givenName>Nicolas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jacquier</foaf:surname>
+                        <foaf:givenName>Jérémie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://linkinghub.elsevier.com/retrieve/pii/S0278416514000385</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>177-189</bib:pages>
+        <dc:date>2014</dc:date>
+        <dcterms:dateSubmitted>2022-11-11 12:02:30</dcterms:dateSubmitted>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dc:title>Socio-economic organization of Final Paleolithic Societies: New perspectives from an aggregation site in Western France</dc:title>
+        <z:shortTitle>Socio-economic organization of Final Paleolithic societies</z:shortTitle>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:02784165">
+        <prism:volume>35</prism:volume>
+        <dc:title>Journal of Anthropological Archaeology</dc:title>
+        <dc:identifier>ISSN 02784165</dc:identifier>
+        <dcterms:alternative>Journal of Anthropological Archaeology</dcterms:alternative>
+        <dc:identifier>DOI 10.1016/j.jaa.2014.05.004</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="https://dx.plos.org/10.1371/journal.pone.0173037">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1932-6203"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Naudinot</foaf:surname>
+                        <foaf:givenName>Nicolas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bourdier</foaf:surname>
+                        <foaf:givenName>Camille</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Laforge</foaf:surname>
+                        <foaf:givenName>Marine</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Paris</foaf:surname>
+                        <foaf:givenName>Céline</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bellot-Gurlet</foaf:surname>
+                        <foaf:givenName>Ludovic</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Beyries</foaf:surname>
+                        <foaf:givenName>Sylvie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Thery-Parisot</foaf:surname>
+                        <foaf:givenName>Isabelle</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Le Goffic</foaf:surname>
+                        <foaf:givenName>Michel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Macchiarelli</foaf:surname>
+                        <foaf:givenName>Roberto</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <link:link rdf:resource="#item_2968"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://dx.plos.org/10.1371/journal.pone.0173037</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>e0204464</bib:pages>
+        <dc:date>2017</dc:date>
+        <dc:description>Number: 9</dc:description>
+        <dcterms:dateSubmitted>2022-11-11 12:03:12</dcterms:dateSubmitted>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dc:title>Divergence in the evolution of Paleolithic symbolic and technological systems: The shining bull and engraved tablets of Rocher de l'Impératrice</dc:title>
+        <z:shortTitle>Divergence in the evolution of Paleolithic symbolic and technological systems</z:shortTitle>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1932-6203">
+        <prism:volume>12</prism:volume>
+        <prism:number>9</prism:number>
+        <dc:title>PLoS ONE</dc:title>
+        <dc:identifier>ISSN 1932-6203</dc:identifier>
+        <dcterms:alternative>PLoS ONE</dcterms:alternative>
+        <dc:identifier>DOI 10.1371/journal.pone.0173037</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_2968">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0173037&amp;type=printable</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-11-11 12:03:14</dcterms:dateSubmitted>
+        <dc:title>Full Text</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:BookSection rdf:about="#item_2969">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <prism:volume>38</prism:volume>
+                <dc:title>La grotte du Bois-Ragot à Gouex (Vienne) Magdalénien et Azilien. Essai sur les hommes et leur environnement</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Paris</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Société préhistorique française</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Valentin</foaf:surname>
+                        <foaf:givenName>Boris</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hantai</foaf:surname>
+                        <foaf:givenName>Anna</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chollet</foaf:surname>
+                        <foaf:givenName>André</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dujardin</foaf:surname>
+                        <foaf:givenName>Véronique</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dcterms:isReferencedBy rdf:resource="#item_2970"/>
+        <dcterms:isReferencedBy rdf:resource="#item_2971"/>
+        <dcterms:isReferencedBy rdf:resource="#item_2972"/>
+        <dcterms:isReferencedBy rdf:resource="#item_2973"/>
+        <dc:subject>Mésolithique</dc:subject>
+        <dc:subject>Industrie lithique</dc:subject>
+        <dc:subject>Azilien</dc:subject>
+        <dc:subject>Art</dc:subject>
+        <dc:subject>Bois</dc:subject>
+        <dc:subject>Etude</dc:subject>
+        <bib:pages>89-182</bib:pages>
+        <dc:date>2005</dc:date>
+        <dc:description>Publisher: Pôle éditorial archéologique de l'Ouest, Rennes</dc:description>
+        <z:libraryCatalog>Inist-CNRS</z:libraryCatalog>
+        <z:language>French</z:language>
+        <dc:title>Transformations de l'industrie lithique pendant l'Azilien. Étude des niveaux 3 et 4 du Bois-Ragot</dc:title>
+    </bib:BookSection>
+    <bib:Memo rdf:about="#item_2970">
+        <rdf:value>&lt;p&gt;Classification: 525-: Prehistoire et protohistoire / Prehistory and protohistory&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_2971">
+        <rdf:value>&lt;p&gt;Classification: 525-12: Méthodologie et études générales / Methodology and general studies&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_2972">
+        <rdf:value>&lt;p&gt;Classification: 525-36: Industrie lithique / Lithic industry&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_2973">
+       <rdf:value>&lt;p&gt;Inist-CNRS record number 18729112&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <rdf:Description rdf:about="urn:isbn:978-84-12-29360-9">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-84-12-29360-9</dc:identifier>
+                <dc:title>Las facies microlaminares del final del Paleolítico en el Mediterráneo ibérico y el valle del Ebro</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Barcelona</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Societat Catalana d'Arqueologia (SCA)</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cheung</foaf:surname>
+                        <foaf:givenName>Célia Fat</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Langlais</foaf:surname>
+                        <foaf:givenName>Mathieu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2975"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://dialnet.unirioja.es/servlet/articulo?codigo=8007846</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>11-37</bib:pages>
+        <dc:date>2020</dc:date>
+        <dc:description>Section: Las facies microlaminares del final del Paleolítico en el Mediterráneo ibérico y el valle del Ebro</dc:description>
+        <dcterms:dateSubmitted>2022-11-14 10:39:30</dcterms:dateSubmitted>
+        <z:libraryCatalog>dialnet.unirioja.es</z:libraryCatalog>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>Las facies microlaminares del final del Paleolítico en el Mediterráneo ibérico y el valle del Ebro</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+        <z:language>spa</z:language>
+        <dcterms:abstract>Autorías: Célia Fat Cheung, Mathieu Langlais.
+Localización: Las facies microlaminares del final del Paleolítico en el Mediterráneo ibérico y el valle del Ebro, 2020.
+Artículo de Libro en Dialnet.</dcterms:abstract>
+        <dc:title>El Paleolítico final en el sudoeste francés, de los Pirineos al Atlántico</dc:title>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_2975">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://dialnet.unirioja.es/servlet/articulo?codigo=8007846</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-11-14 10:39:36</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:978-2-271-13647-3">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Gallia Préhistoire</dc:title>
+                <dc:identifier>Supplément XLIII</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Paris</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>CNRS Éditions</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Langlais</foaf:surname>
+                        <foaf:givenName>Mathieu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Laroulandie</foaf:surname>
+                        <foaf:givenName>Véronique</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://books.openedition.org/editionscnrs/55810</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:identifier>ISBN 978-2-271-13647-3</dc:identifier>
+        <dc:date>2021</dc:date>
+        <dc:description>DOI: 10.4000/books.editionscnrs.55810</dc:description>
+        <dcterms:dateSubmitted>2022-11-14 10:44:38</dcterms:dateSubmitted>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <z:language>fr</z:language>
+        <dc:title>La grotte-abri de Peyrazet (Creysse, Lot, France) au Magdalénien: Originalité fonctionnelle d’un habitat des derniers chasseurs de rennes du Quercy</dc:title>
+        <z:shortTitle>La grotte-abri de Peyrazet (Creysse, Lot, France) au Magdalénien</z:shortTitle>
+    </bib:Book>
+    <bib:Article rdf:about="https://hal.archives-ouvertes.fr/hal-03006277">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>117</prism:volume>
+                <prism:number>3</prism:number>
+                <dc:title>Bulletin de la Société préhistorique française</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Langlais</foaf:surname>
+                        <foaf:givenName>Mathieu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Delvigne</foaf:surname>
+                        <foaf:givenName>Vincent</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jacquier</foaf:surname>
+                        <foaf:givenName>Jérémie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chevallier</foaf:surname>
+                        <foaf:givenName>Aude</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Marquebielle</foaf:surname>
+                        <foaf:givenName>Benjamin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rigaud</foaf:surname>
+                        <foaf:givenName>Solange</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Detrain</foaf:surname>
+                        <foaf:givenName>Luc</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Morala</foaf:surname>
+                        <foaf:givenName>André</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fat Cheung</foaf:surname>
+                        <foaf:givenName>Célia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2978"/>
+        <dc:subject>Final Palaeolithic</dc:subject>
+        <dc:subject>approche pétro-techno-typo-fonctionnelle</dc:subject>
+        <dc:subject>Aquitain Basin</dc:subject>
+        <dc:subject>Bassin aquitain</dc:subject>
+        <dc:subject>Laborian</dc:subject>
+        <dc:subject>Laborien</dc:subject>
+        <dc:subject>open air</dc:subject>
+        <dc:subject>organisation spatiale</dc:subject>
+        <dc:subject>Paléolithique final</dc:subject>
+        <dc:subject>petro-techno-typo-functional approach</dc:subject>
+        <dc:subject>pioneer</dc:subject>
+        <dc:subject>pionnier</dc:subject>
+        <dc:subject>plein air</dc:subject>
+        <dc:subject>socio-economic variations</dc:subject>
+        <dc:subject>spatial organization</dc:subject>
+        <dc:subject>temporalités</dc:subject>
+        <dc:subject>temporalities</dc:subject>
+        <dc:subject>variations socio-économiques</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://hal.archives-ouvertes.fr/hal-03006277</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>409-460</bib:pages>
+        <dc:date>2020</dc:date>
+        <dc:description>Number: 3
+Publisher: Société préhistorique française</dc:description>
+        <dc:title>Variations socio-économiques et temporalités des occupations de plein air du Laborien ancien à Port-de-Penne (Penne d'Agenais, Lot-et-Garonne)</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_2978">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://hal.archives-ouvertes.fr/hal-03006277/file/PdP_article_NEW.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-11-14 10:47:11</dcterms:dateSubmitted>
+        <dc:title>PdP_article_NEW.pdf</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="https://hal.archives-ouvertes.fr/hal-01836149">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dcterms:isPartOf>
+                    <bib:Series>
+                        <dc:title>Séances de la Société Préhistorique Française</dc:title>
+                    </bib:Series>
+                </dcterms:isPartOf>
+                <prism:volume>Seánce 3</prism:volume>
+                <dc:title>Les groupes culturels de la transition Pléistocène-Holocène entre Atlantique et Adriatique : actes de la Séance de la Société Préhistorique Française, Bordeaux, 24-25 mai 2012</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Paris</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Société Préhistorique Française</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Langlais</foaf:surname>
+                        <foaf:givenName>Mathieu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Detrain</foaf:surname>
+                        <foaf:givenName>Luc</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ferrie</foaf:surname>
+                        <foaf:givenName>Jean-Georges</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Boudadi-Maligne</foaf:surname>
+                        <foaf:givenName>Myriam</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mallye</foaf:surname>
+                        <foaf:givenName>Jean-Baptiste</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Marquebielle</foaf:surname>
+                        <foaf:givenName>Benjamin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rigaud</foaf:surname>
+                        <foaf:givenName>Solange</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bonnet-Jacquement</foaf:surname>
+                        <foaf:givenName>Peggy</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fat Cheung</foaf:surname>
+                        <foaf:givenName>Célia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Naudinot</foaf:surname>
+                        <foaf:givenName>Nicolas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Valdeyron</foaf:surname>
+                        <foaf:givenName>Nicolas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Turq</foaf:surname>
+                        <foaf:givenName>Alain</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Langlais</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>Mathieu</foaf:surname></foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Naudinot</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>N.</foaf:surname></foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Peresani</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>M.</foaf:surname></foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://hal.archives-ouvertes.fr/hal-01836149</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>83-128</bib:pages>
+        <dc:date>2014</dc:date>
+        <dc:title>Réévaluation des gisements de La Borie del Rey et de Port-de-Penne : nouvelles perspectives pour la transition Pléistocène-Holocène dans le Sud-Ouest de la France</dc:title>
+    </rdf:Description>
+    <bib:Thesis rdf:about="http://www.theses.fr/2010REN1S092">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Rennes</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Université Rennes 1</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Naudinot</foaf:surname>
+                        <foaf:givenName>Nicolas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_2981"/>
+        <dcterms:isReferencedBy rdf:resource="#item_2982"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://www.theses.fr/2010REN1S092</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2010</dc:date>
+        <z:type>Thèse de doctorat</z:type>
+        <dc:title>Dynamiques techno-économiques et de peuplement au Tardiglaciaire dans le grand‑ouest de la France</dc:title>
+        <z:numPages>738</z:numPages>
+    </bib:Thesis>
+    <bib:Memo rdf:about="#item_2981">
+       <rdf:value>&lt;p&gt;2010REN1S092&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_2982">
+        <rdf:value>&lt;p&gt;Thèse de doctorat dirigée par Monnier, Jean-Laurent et Marchand, Grégor Archéologie et archéométrie Rennes 1 2010&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <rdf:Description rdf:about="https://hal.archives-ouvertes.fr/hal-02110687">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>L’Aquitaine à la fin des temps glaciaires : les sociétés de la transition du Paléolithique final au début du Mésolithique dans l’espace Nord aquitain. Actes de la table organisée en hommage à Guy Célérier, Les Eyzies-de-Tayac, 24-26 juin 2015</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Les Eyzies-de-Tayac</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Musée national de Préhistoire (no spécial Paléo)</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Naudinot</foaf:surname>
+                        <foaf:givenName>Nicolas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Le Goffic</foaf:surname>
+                        <foaf:givenName>Michel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bellot-Gurlet</foaf:surname>
+                        <foaf:givenName>Ludovic</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Beyries</foaf:surname>
+                        <foaf:givenName>Sylvie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bourdier</foaf:surname>
+                        <foaf:givenName>Camille</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jacquier</foaf:surname>
+                        <foaf:givenName>Jérémie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Laforge</foaf:surname>
+                        <foaf:givenName>Marine</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Paris</foaf:surname>
+                        <foaf:givenName>Céline</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sorin</foaf:surname>
+                        <foaf:givenName>Sabine</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Averbouh</foaf:surname>
+                        <foaf:givenName>A</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bonnet-Jacquement</foaf:surname>
+                        <foaf:givenName>P</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cleyet-Merle</foaf:surname>
+                        <foaf:givenName>J.-J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:subject>Late Glacial</dc:subject>
+        <dc:subject>Tardiglaciaire</dc:subject>
+        <dc:subject>Armorican Massif</dc:subject>
+        <dc:subject>Art mobilier lithique</dc:subject>
+        <dc:subject>Azilien ancien</dc:subject>
+        <dc:subject>Early Azilian</dc:subject>
+        <dc:subject>Lithic mobile art</dc:subject>
+        <dc:subject>Massif armoricain</dc:subject>
+        <dc:subject>Pigment</dc:subject>
+        <dc:subject>techno-économie.</dc:subject>
+        <dc:subject>Techno-economy</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://hal.archives-ouvertes.fr/hal-02110687</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>181-191</bib:pages>
+        <dc:date>2018</dc:date>
+        <dc:title>Du nouveau à l'Ouest : résultats préliminaires sur l'Azilien ancien de l'abri sous roche du Rocher de l'Impératrice (Plougastel-Daoulas, Finistère, France)</dc:title>
+    </rdf:Description>
+    <rdf:Description rdf:about="#item_2984">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>2018</prism:volume>
+                <dc:title>L’Aquitaine à la fin des temps glaciaires - Aquitaine at the end of the Ice Age. Les sociétés de la transition du Paléolithique final au début du Mésolithique dans l’espace Nord aquitain. Actes de la table ronde organisée en hommage à Guy Célérier, Les Eyzies-de-Tayac, 24-26 juin 2015</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Paléo (numéro spécial)</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Langlais</foaf:surname>
+                        <foaf:givenName>M</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Averbouh</foaf:surname>
+                        <foaf:givenName>A</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bonnet-Jacquement</foaf:surname>
+                        <foaf:givenName>P</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cleyet-Merle</foaf:surname>
+                        <foaf:givenName>J.-J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <bib:pages>97–108</bib:pages>
+        <dc:date>2018</dc:date>
+        <dc:title>Le Magdalénien supérieur: une technologie de pointes</dc:title>
+    </rdf:Description>
+    <bib:BookSection rdf:about="#item_2985">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dcterms:isPartOf>
+                    <bib:Series>
+                        <dc:title>Mémoires de la Société préhistorique française</dc:title>
+                    </bib:Series>
+                </dcterms:isPartOf>
+                <prism:volume>38</prism:volume>
+                <dc:title>La grotte du Bois-Ragot à Gouex (Vienne) Magdalénien et Azilien. Essai sur les hommes et leur environnement</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Paris</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Mémoires de la Société préhistorique française</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Le Licon-Julien</foaf:surname>
+                        <foaf:givenName>Gwenaëlle</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chollet</foaf:surname>
+                        <foaf:givenName>André</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dujardin</foaf:surname>
+                        <foaf:givenName>Véronique</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dcterms:isReferencedBy rdf:resource="#item_2986"/>
+        <dcterms:isReferencedBy rdf:resource="#item_2987"/>
+        <dcterms:isReferencedBy rdf:resource="#item_2988"/>
+        <dcterms:isReferencedBy rdf:resource="#item_2989"/>
+        <dc:subject>Industrie lithique</dc:subject>
+        <dc:subject>Art</dc:subject>
+        <dc:subject>Bois</dc:subject>
+        <bib:pages>67-89</bib:pages>
+        <dc:date>2005</dc:date>
+        <dc:description>Publisher: Pôle éditorial archéologique de l'Ouest, Rennes</dc:description>
+        <z:libraryCatalog>Inist-CNRS</z:libraryCatalog>
+        <z:language>French</z:language>
+        <dc:title>L'industrie lithique du niveau 5 du Bois-Ragot</dc:title>
+        <z:archive>FRANCIS</z:archive>
+    </bib:BookSection>
+    <bib:Memo rdf:about="#item_2986">
+        <rdf:value>&lt;p&gt;Classification: 525-: Prehistoire et protohistoire / Prehistory and protohistory&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_2987">
+        <rdf:value>&lt;p&gt;Classification: 525-12: Méthodologie et études générales / Methodology and general studies&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_2988">
+        <rdf:value>&lt;p&gt;Classification: 525-36: Industrie lithique / Lithic industry&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_2989">
+       <rdf:value>&lt;p&gt;Inist-CNRS record number 18729111&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+</rdf:RDF>
