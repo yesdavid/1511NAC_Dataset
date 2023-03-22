@@ -1,5 +1,5 @@
 
-## Research compendium for 'Hussain et al. (2023) A new pan-European dataset revealing variability in lithic technology, toolkits, and artefact shapes between ~15 and 11,000 years ago' 
+## Research compendium for 'A new pan-European dataset revealing variability in lithic technology, toolkits, and artefact shapes between ~15 and 11,000 years ago' 
 
 
 ### Compendium DOI:
