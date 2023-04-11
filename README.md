@@ -1,5 +1,5 @@
 
-## Research compendium for 'Hussain et al. (2023) A new pan-European dataset revealing variability in lithic technology, toolkits, and artefact shapes between ~15 and 11,000 years ago' 
+## Research compendium for 'A new pan-European dataset revealing variability in lithic technology, toolkits, and artefact shapes between ~15 and 11,000 years ago' 
 
 
 ### Compendium DOI:
@@ -27,7 +27,7 @@ Europe; Pleistocene-Holocene transition; Late Glacial archaeology; lithic techno
 
 ### Overview of contents and how to reproduce:
 
-This repository contains data (`1_data`) and code (`2_code`) for the paper. After downloading, the results can be reproduced using `matzig_et_al_2021.Rproj` and the existing folder structure. The required packages and their versions which have been used in this study are listed below and in the `DESCRIPTION`-file. All analyses and visualisations presented in this paper were prepared in R 3.6.3 under Ubuntu 18.04.5 LTS (64-bit).
+This repository contains data (`1_data`) and code (`2_code`) for the paper. After downloading, the results can be reproduced using `matzig_et_al_2021.Rproj` and the existing folder structure. The required packages and their versions which have been used in this study are listed below and in the `DESCRIPTION`-file. All analyses and visualisations presented in this paper were prepared in R 4.2.2 under Ubuntu 18.04.5 LTS (64-bit).
 
 ### Required R-packages and their versions:
 
