@@ -224,6 +224,8 @@ TaxUnits_per_Region_plot <-
   theme(legend.position = "none") + 
   theme(text = element_text(family = "-monotype-arial-%s-%s-*-*-%d-*-*-*-*-*-*-*"))
 
+TaxUnits_per_Region_plot
+
 ggsave(plot = TaxUnits_per_Region_plot,
        filename = file.path(output_path, "TaxUnits_per_Region.png"), 
        width = 20, height = 10, units = "cm")
