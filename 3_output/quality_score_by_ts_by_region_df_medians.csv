@@ -18,9 +18,9 @@ SWF,"SWF
 PL,"PL
 (n=8)",I,4
 IBC,"IBC
-(n=9)",I,6
+(n=7)",I,6
 IBM,"IBM
-(n=11)",I,5
+(n=10)",I,5
 IBA,"IBA
 (n=2)",I,6
 SS,"SS
@@ -50,9 +50,9 @@ SWF,"SWF
 PL,"PL
 (n=17)",II,4
 IBC,"IBC
-(n=5)",II,5
+(n=6)",II,5
 IBM,"IBM
-(n=5)",II,6
+(n=4)",II,6
 IBA,"IBA
 (n=1)",II,6
 SS,"SS
@@ -84,9 +84,9 @@ SWF,"SWF
 PL,"PL
 (n=29)",III,4
 IBC,"IBC
-(n=5)",III,5
+(n=6)",III,5
 IBM,"IBM
-(n=7)",III,5
+(n=6)",III,5
 IBA,"IBA
 (n=2)",III,6
 NF,"NF
