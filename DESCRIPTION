@@ -9,7 +9,6 @@ Imports:
     magrittr (>= 2.0.3),
     Momocs (>= 1.4.0),
     outlineR (>= 0.1.0),
-    poseidonR (>= 0.9.0),
     raster (>= 3.6-20),
     readr (>= 2.1.4),
     remotes (>= 2.4.2),
