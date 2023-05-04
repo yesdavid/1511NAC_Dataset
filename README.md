@@ -27,14 +27,13 @@ Europe; Pleistocene-Holocene transition; Late Glacial archaeology; lithic techno
 
 ### Overview of contents and how to reproduce:
 
-This repository contains data (`1_data`) and code (`2_code`) for the paper. After downloading, the results can be reproduced using `matzig_et_al_2021.Rproj` and the existing folder structure. The required packages and their versions which have been used in this study are listed below and in the `DESCRIPTION`-file. All analyses and visualisations presented in this paper were prepared in R 4.2.2 under Ubuntu 18.04.5 LTS (64-bit).
+This repository contains data (`1_data`) and code (`2_scripts`) for the paper. After downloading, the results can be reproduced using `1511NAC_database.Rproj` and the existing folder structure. The required packages and their versions which have been used in this study are listed below and in the `DESCRIPTION`-file. All analyses and visualisations presented in this paper were prepared in R 4.2.2 under Ubuntu 18.04.5 LTS (64-bit).
 
 ### Required R-packages and their versions:
 
+`data.table` (>= 1.14.8), `dplyr` (>= 1.1.2), `forcats` (>= 1.0.0), `ggforce` (>= 0.4.1), `ggplot2` (>= 3.4.2), `ggpointgrid` (>= 1.2.0), `ggridges` (>= 0.5.4), `magrittr` (>= 2.0.3), `Momocs` (>= 1.4.0), `outlineR` (>= 0.1.0), `raster` (>= 3.6-20), `readr` (>= 2.1.4), `remotes` (>= 2.4.2), `rgeos` (>= 0.6-2), `rworldmap` (>= 1.3-6), `sp` (>= 1.6-0).
 
 ### Licenses:
 
 Code: MIT <http://opensource.org/licenses/MIT> year: 2023, copyright holder: David Nicolas Matzig
-
-Data:
 
