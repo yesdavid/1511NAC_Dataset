@@ -1,5 +1,5 @@
 
-## Research compendium for 'A new pan-European dataset revealing variability in lithic technology, toolkits, and artefact shapes between ~15 and 11,000 years ago' 
+## Research compendium for 'A pan-European dataset revealing variability in lithic technology, toolkits, and artefact shapes ~15-11 kya' 
 
 ### Compendium DOI:
 
@@ -13,7 +13,7 @@ The files at the URL above will generate the results as found in the publication
 
 ### Published in:
 
-Shumon T. Hussain, Felix Riede, David N. Matzig, Miguel Biard, Philippe Crombé, Federica Fontana, Daniel Groß, Thomas Hess, Mathieu Langlais, Javier Fernández-Lopéz de Pablo, Ludovic Mevel, William Mills, Martin Moník, Nicolas Naudinot, Caroline Posch, Tomas Rimkus, Damian Stefański, Hans Vandendriessche (2023) A new pan-European dataset revealing variability in lithic technology, toolkits, and artefact shapes between ~15 and 11,000 years ago. [![DOI](https://zenodo.org/badge/DOI/.svg)](https://doi.org/) 
+Shumon T. Hussain, Felix Riede, David N. Matzig, Miguel Biard, Philippe Crombé, Federica Fontana, Daniel Groß, Thomas Hess, Mathieu Langlais, Javier Fernández-Lopéz de Pablo, Ludovic Mevel, William Mills, Martin Moník, Nicolas Naudinot, Caroline Posch, Tomas Rimkus, Damian Stefański, Hans Vandendriessche (2023) A pan-European dataset revealing variability in lithic technology, toolkits, and artefact shapes ~15-11 kya. [![DOI](https://zenodo.org/badge/DOI/.svg)](https://doi.org/) 
 
 ### Abstract:
 
