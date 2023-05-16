@@ -3,7 +3,7 @@
 
 ### Compendium DOI:
 
-[![DOI](https://zenodo.org/badge/DOI/.svg)](https://doi.org/)
+[![DOI](https://zenodo.org/badge/DOI/.svg)](https://doi.org/10.5281/zenodo.7940337)
 
 The files at the URL above will generate the results as found in the publication. The files hosted at <https://github.com/yesdavid/1511NAC_Database> are the development versions and may have changed since the paper was published.
 
