@@ -9,10 +9,10 @@ datasheet_sites_raw_loaded <- readr::read_csv(file.path("1_data", "raw", "MASTER
                                        skip = 2)
 # datasheet_sites_raw$Unique_row_ID <- c(1:nrow(datasheet_sites_raw_loaded))
 
-datasheet_sites_Abgleich_missingSites <- readr::read_csv(file.path("1_data", "raw", "MASTERTABLE_v7_all_revised_sites_Abgleich_missingSites.csv"))
+datasheet_sites_comparison_key_missingSites <- readr::read_csv(file.path("1_data", "raw", "MASTERTABLE_v7_all_revised_sites_comparison_key_missingSites.csv"))
 
 datasheet_sites_raw <- dplyr::left_join(datasheet_sites_raw_loaded, 
-                                    datasheet_sites_Abgleich_missingSites,
+                                    datasheet_sites_comparison_key_missingSites,
                                     by = c("Key_site","Level_layer_concentration"))
 
 # quality score
