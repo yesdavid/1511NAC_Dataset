@@ -1,0 +1,857 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
+    <bib:Book rdf:about="#item_2625">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Eindhoven</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Stitching Brabants Heem</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Arts</foaf:surname>
+                        <foaf:givenName>Nico</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Deeben</foaf:surname>
+                        <foaf:givenName>Jos</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2626"/>
+        <dc:date>1976</dc:date>
+        <dc:description>Publisher: Eindhoven: Stichting Brabants Heem</dc:description>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:title>Een Federmesser nederzetting langs de kapeldijk te Westelbeers, Provincie Noord-Brabant</dc:title>
+        <z:numPages>68</z:numPages>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_2626">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.narcis.nl/publication/RecordID/document%3A800002232</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-11-07 16:33:06</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_2627">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>50</prism:volume>
+                <dc:title>Journal of Archaeological Science</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Crombé</foaf:surname>
+                        <foaf:givenName>Philippe</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sergant</foaf:surname>
+                        <foaf:givenName>Joris</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Verbrugge</foaf:surname>
+                        <foaf:givenName>Arne</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>De Graeve</foaf:surname>
+                        <foaf:givenName>Arne</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cherretté</foaf:surname>
+                        <foaf:givenName>Bart</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mikkelsen</foaf:surname>
+                        <foaf:givenName>Jari</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cnudde</foaf:surname>
+                        <foaf:givenName>Veerle</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>De Kock</foaf:surname>
+                        <foaf:givenName>Tim</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Huisman</foaf:surname>
+                        <foaf:givenName>Hans DJ</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Van Os</foaf:surname>
+                        <foaf:givenName>Bertil JH</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Van Strydonck</foaf:surname>
+                        <foaf:givenName>Mark</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Boudin</foaf:surname>
+                        <foaf:givenName>M</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2628"/>
+        <link:link rdf:resource="#item_2629"/>
+        <bib:pages>420–439</bib:pages>
+        <dc:date>2014</dc:date>
+        <dc:description>Publisher: Elsevier</dc:description>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:title>A sealed flint knapping site from the Younger Dryas in the Scheldt valley (Belgium): Bridging the gap in human occupation at the Pleistocene–Holocene transition in W Europe</dc:title>
+        <z:shortTitle>A sealed flint knapping site from the Younger Dryas in the Scheldt valley (Belgium)</z:shortTitle>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_2628">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.academia.edu/download/34546313/Crombe_et_al._JASc_2014_Ruien.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-11-07 16:33:55</dcterms:dateSubmitted>
+        <dc:title>Full Text</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_2629">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/abs/pii/S0305440314002672</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-11-07 16:34:01</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="#item_2630">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>Actes du XXVIIéme Congrès Préhistorique de France, Transitions, Ruptures et Continuité durant la Préhistoire</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Paris</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Société Préhistorique française</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Crombé</foaf:surname>
+                        <foaf:givenName>Philippe</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Deeben</foaf:surname>
+                        <foaf:givenName>Jos</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Van Strydonck</foaf:surname>
+                        <foaf:givenName>Mark</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2631"/>
+        <bib:pages>583–604</bib:pages>
+        <dc:date>2014</dc:date>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:title>Hunting in a changing environment: the transition from the Younger Dryas to the (Pre)boreal in Belgium and the southern Netherlands</dc:title>
+        <z:shortTitle>Hunting in a changing environment</z:shortTitle>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_2631">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://biblio.ugent.be/publication/4371817</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-11-07 16:34:28</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_2632">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>7</prism:volume>
+                <dc:title>Archeologie</dc:title>
+                <dcterms:alternative>Archeologie</dcterms:alternative>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Deeben</foaf:surname>
+                        <foaf:givenName>Jos</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2633"/>
+        <bib:pages>3-79</bib:pages>
+        <dc:date>1996</dc:date>
+        <dc:coverage>3</dc:coverage>
+        <z:libraryCatalog>ResearchGate</z:libraryCatalog>
+        <dc:title>De laatpaleolithische en mesolithische sites bij Geldrop (N. Br.). Deel 3, Archeologie 7, 3-79.</dc:title>
+        <z:shortTitle>Deeben, J., 1996</z:shortTitle>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_2633">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.researchgate.net/publication/272348433_Deeben_J_1996_De_laatpaleolithische_en_mesolithische_sites_bij_Geldrop_N_Br_Deel_3_Archeologie_7_3-79</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-11-07 16:37:24</dcterms:dateSubmitted>
+        <dc:title>ResearchGate Link</dc:title>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_2634">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>20</prism:volume>
+                <dc:title>Notae Praehistoricae</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Deeben</foaf:surname>
+                        <foaf:givenName>J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dijkstra</foaf:surname>
+                        <foaf:givenName>P.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Van Gisbergen</foaf:surname>
+                        <foaf:givenName>P.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>95–109</bib:pages>
+        <dc:date>2000</dc:date>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:title>Some new 14C dates from sites of the Ahrensburg culture in the Southern Netherlands</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="#item_2635">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>16</prism:volume>
+                <dc:title>Niekus, MJL Th., Barton, RNE, Street, M. &amp; Terberger, Th.(eds): A mind set on flint. Studies in honour of Dick Stapert. Groningen Archaeological Studies</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Deeben</foaf:surname>
+                        <foaf:givenName>Jos</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schreurs</foaf:surname>
+                        <foaf:givenName>José</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2636"/>
+        <bib:pages>295–319</bib:pages>
+        <dc:date>2012</dc:date>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:title>The Pope, a miracle and an Ahrensburgian windbreak in the municipality of Waalre (province of Noord-Brabant), the Netherlands</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_2636">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.researchgate.net/profile/Jos-Deeben/publication/264551580_The_Pope_a_miracle_and_an_Ahrensburgian_windbreak_in_the_municipality_of_Waalre_province_of_Noord-Brabant_the_Netherlands/links/53e52f970cf2fb7487146505/The-Pope-a-miracle-and-an-Ahrensburgian-windbreak-in-the-municipality-of-Waalre-province-of-Noord-Brabant-the-Netherlands.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-11-07 16:38:43</dcterms:dateSubmitted>
+        <dc:title>Full Text</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_2637">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:number>85</prism:number>
+                <dc:title>Bulletin de la Société Royale belge d’Anthropologie et de Préhistoire</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dewez</foaf:surname>
+                        <foaf:givenName>Michel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>5-181</bib:pages>
+        <dc:date>1974</dc:date>
+        <dc:description>Number: 85</dc:description>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:title>Nouvelles recherches à la grotte de Remouchamps</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="#item_2638">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>64</prism:volume>
+                <dc:title>Notae Praehistoricae Tervuren</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hyughe</foaf:surname>
+                        <foaf:givenName>D.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2639"/>
+        <bib:pages>183-202</bib:pages>
+        <dc:date>1985</dc:date>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:title>Een vroeg-mesolithisch wooncomplex te Zonhoven-Kapelberg (Belgisch Limburg).(Un complexe d'habitat du Mésolithique ancien à Z.-K.: Limbourg belge), Limburg</dc:title>
+        <z:shortTitle>Een vroeg-mesolithisch wooncomplex te Zonhoven-Kapelberg (Belgisch Limburg).(Un complexe d'habitat du Mésolithique ancien à Z.-K.</z:shortTitle>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_2639">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&amp;idt=12145467</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-11-07 16:40:42</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_2640">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>41</prism:volume>
+                <prism:number>1</prism:number>
+                <dc:title>Archäologisches Korrespondenzblatt</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lauwerier</foaf:surname>
+                        <foaf:givenName>Roel CGM</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Deeben</foaf:surname>
+                        <foaf:givenName>Jos</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2641"/>
+        <link:link rdf:resource="#item_2642"/>
+        <bib:pages>1–20</bib:pages>
+        <dc:date>2011</dc:date>
+        <dc:description>Number: 1</dc:description>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:title>Burnt animal remains from Federmesser sites in the Netherlands</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_2641">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journals.ub.uni-heidelberg.de/index.php/ak/article/download/28495/22186</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-11-07 16:40:59</dcterms:dateSubmitted>
+        <dc:title>Full Text</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_2642">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journals.ub.uni-heidelberg.de/index.php/ak/article/view/28495</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-11-07 16:41:06</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="#item_2643">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Liège</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>ERAUL</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Otte</foaf:surname>
+                        <foaf:givenName>Marcel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <prism:volume>60</prism:volume>
+        <dc:date>1994</dc:date>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:title>Le Magdalénien du Trou de Chaleux (Hulsonniaux-Belgique)</dc:title>
+    </bib:Book>
+    <bib:Book rdf:about="#item_2644">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Liège</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>ERAUL</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Otte</foaf:surname>
+                        <foaf:givenName>Marcel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2645"/>
+        <prism:volume>80</prism:volume>
+        <dc:date>1997</dc:date>
+        <z:libraryCatalog>Google Books</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dc:title>La Grotte Du Bois Laiterie: Recolonisation Magdalénienne de la Belgique</dc:title>
+        <z:shortTitle>La Grotte Du Bois Laiterie</z:shortTitle>
+        <z:numPages>408</z:numPages>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_2645">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://books.google.dk/books?id=-vpAdTZf0VEC</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-11-07 16:42:25</dcterms:dateSubmitted>
+        <dc:title>Google Books Link</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_2646">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>24</prism:volume>
+                <dc:title>Notae Praehistoricae</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Perdaen</foaf:surname>
+                        <foaf:givenName>Yves</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Crombé</foaf:surname>
+                        <foaf:givenName>Philippe</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sergant</foaf:surname>
+                        <foaf:givenName>Joris</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2647"/>
+        <bib:pages>81–88</bib:pages>
+        <dc:date>2004</dc:date>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:title>Federmessergroepen in de Scheldepolders (Oost-Vlaanderen, België): Technologische variabiliteit binnen een vast schema</dc:title>
+        <z:shortTitle>Federmessergroepen in de Scheldepolders (Oost-Vlaanderen, België)</z:shortTitle>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_2647">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://biblio.naturalsciences.be/associated_publications/notae-praehistoricae/NP24/np24_81-88.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-11-07 16:43:04</dcterms:dateSubmitted>
+        <dc:title>Full Text</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_2650">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>1987</prism:volume>
+                <dc:title>Archaeologica Belgica</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vermeersch</foaf:surname>
+                        <foaf:givenName>Pierre</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Symens</foaf:surname>
+                        <foaf:givenName>N.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vynckier</foaf:surname>
+                        <foaf:givenName>P.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gijselings</foaf:surname>
+                        <foaf:givenName>G.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lauwers</foaf:surname>
+                        <foaf:givenName>R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2651"/>
+        <bib:pages>7–56</bib:pages>
+        <dc:date>1987</dc:date>
+        <z:libraryCatalog>Google Scholar</z:libraryCatalog>
+        <dc:title>Orp, site Magdalénien de plein air (comm. de Orp-Jauche)</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_2651">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://lirias.kuleuven.be/retrieve/282941</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-11-07 16:47:32</dcterms:dateSubmitted>
+        <dc:title>Full Text</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:978-90-5867-011-3">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Archeologie in Vlaanderen</dc:title>
+                <dc:identifier>monographie 3</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Leuven</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Leuven University Press ; Instituut voor het Archeologisch Patrimonium</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>De Bie</foaf:surname>
+                        <foaf:givenName>Marc</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Caspar</foaf:surname>
+                        <foaf:givenName>Jean-Paul</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>ISBN 978-90-5867-011-3</dc:identifier>
+        <dc:date>2000</dc:date>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>GN772.22.B4 D4 2000</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:description>OCLC: ocm45968949</dc:description>
+        <z:libraryCatalog>Library of Congress ISBN</z:libraryCatalog>
+        <dc:title>Rekem: a Federmesser camp on the Meuse River bank</dc:title>
+        <z:shortTitle>Rekem</z:shortTitle>
+        <z:numPages>2</z:numPages>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:978-1-4073-1082-4">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>BAR international series</dc:title>
+                <dc:identifier>2471</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Oxford</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Archaeopress</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vermeersch</foaf:surname>
+                        <foaf:givenName>P. M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>ISBN 978-1-4073-1082-4</dc:identifier>
+        <dc:date>2013</dc:date>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>DH811.Z55 V47 2013</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <z:libraryCatalog>Library of Congress ISBN</z:libraryCatalog>
+        <dc:title>An Ahrensburgian site at Zonhoven-Molenheide (Belgium)</dc:title>
+        <z:numPages>95</z:numPages>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:978-2-902788-05-7">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Reims</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Édition Société Archéologique Champenoise</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rozoy</foaf:surname>
+                        <foaf:givenName>J. G.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>ISBN 978-2-902788-05-7</dc:identifier>
+        <dc:date>1978</dc:date>
+        <dc:description>OCLC: 1024020272</dc:description>
+        <z:libraryCatalog>Open WorldCat</z:libraryCatalog>
+        <z:language>fre</z:language>
+        <dc:title>Les derniers chasseurs: l'Epipaléolithique en France et en Belgique , essai de synthèse</dc:title>
+        <z:shortTitle>Les derniers chasseurs</z:shortTitle>
+        <z:numPages>2</z:numPages>
+    </bib:Book>
+    <bib:Book rdf:about="#item_2991">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Eindhoven</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Archeologische vereniging Werkgroep t’Oude Slot</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Snijders</foaf:surname>
+                        <foaf:givenName>F.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>2000</dc:date>
+        <dc:title>Bivak aan de Beerze. Laat-paleolithische en mesolithische vindplaatsen te Westelbeers. Deel 1: Westelbeeers-Zuidwest</dc:title>
+    </bib:Book>
+    <bib:Book rdf:about="#item_2992">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Dissertationes Archaeologicae Gandenses</dc:title>
+                <dc:identifier>18</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Brugge</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>De Tempel</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Van Noten</foaf:surname>
+                        <foaf:givenName>F.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cahen</foaf:surname>
+                        <foaf:givenName>D.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Keeley</foaf:surname>
+                        <foaf:givenName>Lawrence H.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Moeyersons</foaf:surname>
+                        <foaf:givenName>J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>1978</dc:date>
+        <dc:title>Les chasseurs de Meer</dc:title>
+    </bib:Book>
+    <bib:Book rdf:about="#item_3495">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Leiden</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Analecta praehistorica Leidensia 42</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rensink</foaf:surname>
+                        <foaf:givenName>Eelco</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>2010</dc:date>
+        <dc:title>Eyserheide. A Magdalenian open-air site in the loess area of the Netherlands and its archaeological context.</dc:title>
+    </bib:Book>
+</rdf:RDF>

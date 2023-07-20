@@ -1,0 +1,1262 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/">
+    <bib:BookSection rdf:about="#item_2719">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:title>La fin du Paléolithique supérieur dans les alpes du nord, le jura méridional et les régions limitrophes. Approches culturelles et environnementales</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Paris</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Affolter</foaf:surname>
+                        <foaf:givenName>J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <prism:edition>Mémoire de la Société préhistorique française</prism:edition>
+        <bib:pages>161-172</bib:pages>
+        <dc:date>2009</dc:date>
+        <dc:title>Les Douattes (Musièges – Haute-Savoie) : les séries magdaléniennes et aziliennes des fouilles Jayet et Pion (1999-2002)</dc:title>
+    </bib:BookSection>
+    <bib:BookSection rdf:about="https://www.persee.fr/doc/acths_1764-7355_2014_act_138_2_2728">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <prism:volume>138</prism:volume>
+                <dc:title>Actes des congrès nationaux des sociétés historiques et scientifiques</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Nantes</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Ed. du CTHS</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bémilli</foaf:surname>
+                        <foaf:givenName>Céline</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Biard</foaf:surname>
+                        <foaf:givenName>Miguel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chaussé</foaf:surname>
+                        <foaf:givenName>Christine</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Donnart</foaf:surname>
+                        <foaf:givenName>Klet</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2721"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.persee.fr/doc/acths_1764-7355_2014_act_138_2_2728</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:rights>free</dc:rights>
+        <bib:pages>170-187</bib:pages>
+        <dc:date>2014</dc:date>
+        <dc:description>Publisher: Persée - Portail des revues scientifiques en SHS</dc:description>
+        <dcterms:dateSubmitted>2022-10-19 09:27:17</dcterms:dateSubmitted>
+        <z:libraryCatalog>www.persee.fr</z:libraryCatalog>
+        <z:language>fre</z:language>
+        <dcterms:abstract>Une fouille archéologique de 12 ha réalisée dans la carrière Lafarge à Alizay (Eure) sous la direction de C. Marcigny a permis la mise au jour en 2010 de trois locus attribuables à l’extrême fin du Paléolithique supérieur datés entre 9960 ± 40 BP et 10100 ± 40 BP. Cette contribution porte exclusivement sur les résultats préliminaires de la fouille d’un des locus réalisée par M. Biard en 2012. Les travaux sur le locus 28704 ont révélé une occupation particulièrement bien structurée, composée de restes lithiques et fauniques bien conservés. Aux Aurochs largement dominants est associé un unique bois de chute de Renne dont la présence soulève certaines questions. L’organisation spatiale exceptionnelle des vestiges, la présence de plusieurs animaux indiquent clairement une occupation de courte durée orientée sur l’acquisition et le traitement du gibier. L’éventail des contraintes techniques générées par cette activité est abordé et contribue à la connaissance des modes de vie des Belloisiens.</dcterms:abstract>
+        <dc:title>Une partie de chasse à l’Aurochs il y a 10 000 ans : le Locus 28704 d’Alizay (Eure, France)</dc:title>
+        <z:shortTitle>Une partie de chasse à l’Aurochs il y a 10 000 ans</z:shortTitle>
+    </bib:BookSection>
+    <z:Attachment rdf:about="#item_2721">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.persee.fr/doc/acths_1764-7355_2014_act_138_2_2728</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-19 09:27:29</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:978-2-271-07160-6">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Paris</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>CNRS Éditions</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Biard</foaf:surname>
+                        <foaf:givenName>Miguel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hinguant</foaf:surname>
+                        <foaf:givenName>Stéphan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Beurion</foaf:surname>
+                        <foaf:givenName>Claire</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Deloze</foaf:surname>
+                        <foaf:givenName>Valérie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Forré</foaf:surname>
+                        <foaf:givenName>Philippe</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sellami</foaf:surname>
+                        <foaf:givenName>Farid</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2724"/>
+        <link:link rdf:resource="#item_2725"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://hal-inrap.archives-ouvertes.fr/hal-02046097</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:identifier>ISBN 978-2-271-07160-6</dc:identifier>
+        <dc:date>2011</dc:date>
+        <dc:description>Pages: 168 p.</dc:description>
+        <dcterms:dateSubmitted>2022-10-19 09:39:27</dcterms:dateSubmitted>
+        <z:libraryCatalog>www.hal.inserm.fr</z:libraryCatalog>
+        <z:language>fr</z:language>
+        <dcterms:abstract>Lors de la construction de l’autoroute A28 entre Rouen et Alençon, un gisement daté du Paléolithique supérieur final a été découvert et fouillé au Buhot. Ce site en bordure de la rivière du Bec est remarquable à plus d’un titre : au regard de la rareté des sites de cette période en Haute-Normandie, pour son excellent état de conservation, ainsi que pour la qualité et l’originalité de l’assemblage lithique mis au jour (près de 5 000 outils de silex). L’absence de restes de faune est palliée par une étude géoarchéologique et techno-typologique, laquelle a permis de cerner les objectifs du débitage. De nombreux remontages et raccords, associés à l’analyse des méthodes de taille et des techniques de percussion, contribuent à la compréhension des différentes séquences de la chaîne opératoire. Enfin, des comparaisons régionales et extrarégionales établies avec des gisements de même nature complètent cette analyse.</dcterms:abstract>
+        <dc:title>Le bivouac préhistorique du Buhot, à Calleville (Eure): caractérisation d'un assemblage lithique lamino-lamellaire de la fin du paléolithique supérieur</dc:title>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_2724">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://hal-inrap.archives-ouvertes.fr/hal-02046097/document</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-19 09:39:54</dcterms:dateSubmitted>
+        <dc:title>Full Text PDF</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_2725">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.hal.inserm.fr/RECHERCHES_ARCHEOLOGIQUES/hal-02046097v1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-19 09:39:35</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="#item_2726">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>Transitions, ruptures et continuité durant la préhistoire, actes du XXVII e</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Paris</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Société Préhistorique Française</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Biard</foaf:surname>
+                        <foaf:givenName>M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hinguant</foaf:surname>
+                        <foaf:givenName>S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>605-621</bib:pages>
+        <dc:date>2014</dc:date>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>Congrès préhistorique de France, les Eyzies-de-Tayac, 31 mai – 5 juin 2010</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+        <dc:title>Des grandes lames aux microlithes: unité technologique d’un assemblage lithique du Paléolithique supérieur final à Calleville (Eure)</dc:title>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&amp;idt=1558130">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>Mémoires du Musée de préhistoire d'Ile-de-France</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <foaf:name>Mémoires du Musée de préhistoire d'Ile-de-France</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bodu</foaf:surname>
+                        <foaf:givenName>Pierre</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2728"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&amp;idt=1558130</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>315-339</bib:pages>
+        <dc:date>2000</dc:date>
+        <dc:description>ISSN: 0991-5761,
+Issue: 7</dc:description>
+        <dcterms:dateSubmitted>2022-10-19 09:52:33</dcterms:dateSubmitted>
+        <z:libraryCatalog>pascal-francis.inist.fr</z:libraryCatalog>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>L'Europe centrale et septentrionale au Tardiglaciaire : confrontation des modèles régionaux de peuplement. Actes de la table-ronde internationale de Nemours, 14-16 mai 1997</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+        <z:language>en</z:language>
+        <dc:title>Que sont devenus les Magdaléniens du Bassin parisien ? Quelques éléments de réponse sur le gisement azilien du Closeau (Rueil-Malmaison, France)</dc:title>
+        <z:shortTitle>Que sont devenus les Magdaléniens du Bassin parisien ?</z:shortTitle>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_2728">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&amp;idt=1558130</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-19 09:52:38</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://linkinghub.elsevier.com/retrieve/pii/S000355210800068X">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:00035521"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bodu</foaf:surname>
+                        <foaf:givenName>Pierre</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mevel</foaf:surname>
+                        <foaf:givenName>Ludovic</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2730"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://linkinghub.elsevier.com/retrieve/pii/S000355210800068X</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>509-543</bib:pages>
+        <dc:date>2008</dc:date>
+        <dc:description>Number: 4-5</dc:description>
+        <dcterms:dateSubmitted>2022-10-19 09:54:32</dcterms:dateSubmitted>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <z:language>fr</z:language>
+        <dc:title>Enquête autour des lames tranchantes de l’Azilien ancien. Le cas du niveau inférieur du Closeau (Rueil-Malmaison, Hauts-de-Seine, France)</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:00035521">
+        <prism:volume>112</prism:volume>
+        <prism:number>4-5</prism:number>
+        <dc:title>L'Anthropologie</dc:title>
+        <dc:identifier>ISSN 00035521</dc:identifier>
+        <dcterms:alternative>L'Anthropologie</dcterms:alternative>
+        <dc:identifier>DOI 10.1016/j.anthro.2008.06.004</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_2730">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://hal.archives-ouvertes.fr/hal-03391650/file/bodu%26mevel-2008.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-19 09:54:38</dcterms:dateSubmitted>
+        <dc:title>Submitted Version</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.jstor.org/stable/41220999">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0249-7638"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bodu</foaf:surname>
+                        <foaf:givenName>Pierre</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Debout</foaf:surname>
+                        <foaf:givenName>Grégory</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bignon</foaf:surname>
+                        <foaf:givenName>Olivier</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2732"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.jstor.org/stable/41220999</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>711-728</bib:pages>
+        <dc:date>2006</dc:date>
+        <dc:description>Number: 4
+Publisher: Société Préhistorique Française</dc:description>
+        <dcterms:dateSubmitted>2022-10-19 09:57:07</dcterms:dateSubmitted>
+        <z:libraryCatalog>JSTOR</z:libraryCatalog>
+        <dcterms:abstract>L'enquête palethnographique sur les chasseurs-cueilleurs du Tardiglaciaire du Bassin parisien s'est, de longue date, intéressée aux pratiques de l'habitat, tant au niveau de l'unité d'occupation qu'à l'échelle des campements. Une voie de recherche parallèle a tenté d'identifier les auteurs des productions lithiques et osseuses notamment. Appliquée aux gisements magdaléniens, cette démarche a été particulièrement féconde alors qu'il a fallu attendre 1994 et la fouille du Closeau pour qu'elle puisse concerner un site azilien. Sur le niveau ancien du Closeau, des études classiques ont permis de décrire des unités d'habitation fortement structurées, mais également, grâce aux remontages lithiques, les relations qu'elles ont entretenues. Des travaux récents associant les données de la saisonnalité, les modes d'utilisation de l'espace et les quantités d'artefacts abandonnés ouvrent de nouvelles perspectives quant à la compréhension de la gestion économique et de l'organisation sociale d'un territoire azilien. Palaeoethnographic studies of Late Glacial hunter-gatherers in the Paris Basin have for many years focused on dwelling practices at the level of both occupation units and camps. A parallel research orientation has attempted to identify the authors oflithic and bone/antler production. This approach has been particularly fruitful in the context of Magdalenian sites, but was not applied to an Azilian site until 1994, in the context of excavations at Le Closeau. In the earliest level of this site, classic studies allowed the identification of highly structured dwelling units, while the relations between them were determined through lithic refitting. Recent analyses associating data concerning seasonality, the utilisation of space and quantities of abandoned artefacts open new perspectives for understanding the economic and social organisation of Azilian territory.</dcterms:abstract>
+        <dc:title>Variabilité des habitudes tardiglaciaires dans le Bassin parisien : l'organisation spatiale et sociale de l'Azilien ancien du Closeau</dc:title>
+        <z:shortTitle>Variabilité des habitudes tardiglaciaires dans le Bassin parisien</z:shortTitle>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0249-7638">
+        <prism:volume>103</prism:volume>
+        <prism:number>4</prism:number>
+        <dc:title>Bulletin de la Société préhistorique française</dc:title>
+        <dc:identifier>ISSN 0249-7638</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_2732">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.jstor.org/stable/pdfplus/10.2307/41220999.pdf?acceptTC=true</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-19 09:57:13</dcterms:dateSubmitted>
+        <dc:title>JSTOR Full Text PDF</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_2733">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>14</prism:volume>
+                <prism:number>1</prism:number>
+                <dc:title>Gallia Préhistoire</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Brezillon</foaf:surname>
+                        <foaf:givenName>M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>3-40</bib:pages>
+        <dc:date>1971</dc:date>
+        <dc:description>Number: 1</dc:description>
+        <dc:title>Les Tarterêts II, site paléolithique de plein air à Corbeil-Essonnes (Essonne)</dc:title>
+    </bib:Article>
+    <bib:Report rdf:about="https://halshs.archives-ouvertes.fr/halshs-03034203">
+        <z:itemType>report</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dcterms:alternative>Paléolithique final et Mésolithique dans le Bassin parisien et ses marges. Habitats, sociétés et environnements, Projet Collectif de Recherche</dcterms:alternative>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Nanterre</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Service région d’archéologie d’Ile-de-France</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Caron-Laviolette</foaf:surname>
+                        <foaf:givenName>Elisa</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mevel</foaf:surname>
+                        <foaf:givenName>Ludovic</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ollivier-Alibert</foaf:surname>
+                        <foaf:givenName>Cécile</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2735"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://halshs.archives-ouvertes.fr/halshs-03034203</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2018</dc:date>
+        <dcterms:dateSubmitted>2022-10-19 10:00:23</dcterms:dateSubmitted>
+        <z:type>Report</z:type>
+        <z:libraryCatalog>halshs.archives-ouvertes.fr</z:libraryCatalog>
+        <z:language>fr</z:language>
+        <dc:title>Le gisement des Tarterêts II” à Corbeil-Essonnes (Essonne) : nouvelle approche synthétique du mobilier lithique. L. Mevel et S. Griselin (dirs.), Paléolithique final et Mésolithique dans le bassin parisien et ses marges habitats, sociétés et environnements, rapport de PCR</dc:title>
+        <z:shortTitle>Le gisement des Tarterêts II” à Corbeil-Essonnes (Essonne)</z:shortTitle>
+    </bib:Report>
+    <z:Attachment rdf:about="#item_2735">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://halshs.archives-ouvertes.fr/halshs-03034203/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-19 10:00:28</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="#item_2736">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Paris</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Éditions du CTHS</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mevel</foaf:surname>
+                        <foaf:givenName>Ludovic</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>2017</dc:date>
+        <dc:title>Des sociétés en mouvement. Évolution des sociétés magdaléniennes et aziliennes des alpes du nord françaises</dc:title>
+        <z:numPages>329</z:numPages>
+    </bib:Book>
+    <bib:Article rdf:about="https://www.jstor.org/stable/24364969">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>110</prism:volume>
+                <prism:number>4</prism:number>
+                <dc:title>Bulletin de la Société préhistorique française</dc:title>
+                <dc:identifier>ISSN 0249-7638</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mevel</foaf:surname>
+                        <foaf:givenName>Ludovic</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2738"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.jstor.org/stable/24364969</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>657-689</bib:pages>
+        <dc:date>2013</dc:date>
+        <dc:description>Number: 4
+Publisher: Société Préhistorique Française</dc:description>
+        <dcterms:dateSubmitted>2022-10-19 10:09:33</dcterms:dateSubmitted>
+        <z:libraryCatalog>JSTOR</z:libraryCatalog>
+        <dcterms:abstract>L'avènement des traditions techniques aziliennes a alimenté de nombreux débats ces dernières années. L'analyse des industries lithiques a eu une place centrale pour nourrir ces débats. La révision des séries attribuées à la phase ancienne de l'Azilien provenant de l'abri de La Fru (Saint-Christophe-la-Grotte, Savoie) va nous permettre de proposer une nouvelle lecture de ce faciès en dehors du Bassin parisien et d'évoquer la genèse du phénomène d'azilianisation dans ce contexte. L'abri de La Fru est à l'heure actuelle un des gisements les plus riches connus pour la fin du Paléolithique supérieur d'Europe occidentale. Il a livré des occupations s'échelonnant du Magdalénien supérieur (17000 cal. BC) au Mésolithique moyen (9000-8200 cal. BC) à l'intérieur de trois secteurs de fouilles distincts (aires 1, 2 et 3). Les occupations de la phase ancienne de l'Azilien sont localisées dans l'aire 1 (couche 3) et dans l'aire 2 (couche 3). Les nombreuses et fiables datations 14C obtenues situent l'occupation du site par les Aziliens anciens entre 12300 et 11300 cal. BC. Cependant, l'absence de calage chrono-environnemental à l'échelle du site n'autorise pas de rapporter ces occupations à une chrono-zone du Tardiglaciaire. Les séries de l'abri de La Fru, et en particulier la couche 3 de l'aire 1, ont déjà fait l'objet de nombreux travaux. Cependant, ces assemblages n'avaient jamais été évalués d'un point de vue taphonomique et techno-économique. C'est pourtant l'association de ces différentes grilles d'analyse qui permet d'intégrer ces gisements issus de contextes karstiques à une discussion sur l'évolution des dernières sociétés du Tardiglaciaire à l'échelle européenne. Notre objectif a donc d'abord consisté à documenter précisément le contenu de chacune des collections attribuées à la phase ancienne de l'Azilien à l'aide de méthodes d'analyse modernes, pour ensuite confronter ces résultats aux séries aziliennes qui sont à ce jour les mieux connues et surtout les mieux documentées (Le Closeau, Bois-Ragot, etc.) et proposer ainsi une nouvelle lecture du début de l'Azilien. La première étape de cette analyse a donc consisté en une analyse archéostratigraphique des séquences archéologiques disponibles. Elle a permis de mettre en évidence des degrés de perturbations différents. Dans l'aire 1, l'ensemble lithique de la couche 3 est le résultat d'un palimpseste d'occupations des phases anciennes et récentes de l'Azilien. Nous avons donc mis en évidence deux composantes techno-économiques. L'aire 2, et la couche 3 en particulier, ont été moins affectées par les perturbations post-dépositionelles. Une composante magdalénienne a toutefois été isolée. L'analyse technologique comparée de ces ensembles de l'Azilien ancien a permis de mettre en évidence des similarités et des différences entre les deux assemblages. Les objectifs de production sont similaires dans les deux collections. La première étape de la chaîne opératoire vise la production de lames de 70 à 100 mm destinées à être transformées en outils du fonds commun. Les procédés techniques sont identiques entre les deux collections. On notera simplement que dans l'aire 1 les lames les plus régulières ont servi de supports aux burins, alors que dans l'aire 2 elles ont servi de supports aux grattoirs. Les lames plus courtes (≤ 60 mm), produites dans un second temps de la chaîne opératoire, ont servi de supports à la fabrication des pointes lithiques. Dans les deux collections, elles ont été confectionnées sur des lames régulières. On note toutefois la présence de deux types distincts : des bipointes et des monopointes. C'est une caractéristique partagée avec l'occupation du gisement de Bois-Ragot (Vienne). À La Fru, cette coexistence de deux types de pointes à dos pendant la phase ancienne de l'Azilien est perçue selon un prisme économique. En effet, ce sont les lames les plus courtes, probablement extraites lors des derniers stades de l'exploitation des blocs, qui ont été transformées en monopointes. Les plus longues ont été transformées en bipointes. Aussi, que l'on se place sur un plan typologique ou technologique, l'Azilien ancien de l'abri de La Fru présente des similarités importantes avec des gisements contemporains ou sub-contemporains, depuis la barrière pyrénéenne jusqu'au Nord du Bassin parisien. Si dans certains espaces géographiques comme le Bassin parisien on voit apparaitre des pointes à dos dans l'équipement lithique des Magdaléniens, ce n'est pas le cas dans les Alpes du Nord. Aussi, ces secteurs géographiques ont pu jouer le rôle d'épicentre de diffusion de nouvelles pratiques techniques. L'apparition presque synchrone de l'Azilien ancien ne laisse guère de doute sur le caractère global du processus ayant présidé à ces transformations. Peut-on encore envisager une azilianisation au cas par cas, dans chaque substrat magdalénien régional? Au regard de la très forte similarité constatée des industries lithiques et des comportements de ces groupes, il paraît à peu près assuré que ces changements dans les traditions ont été diffusés à partir d'un épicentre qui a durablement transformé les sociétés magdaléniennes. Les réseaux d'échanges, ou de circulations, évoqués à propos du Magdalénien supérieur, ne contredisent pas l'hypothèse d'une diffusion rapide de ces nouvelles idées. Sont-elles nées dans des contextes où les adaptations aux changements des environnements (animaux et végétaux) nécessitaient une réponse rapide et radicale de la part des Magdaléniens, préalablement à une diffusion sur les territoires voisins? C'est une hypothèse qui nous apparaît parfaitement crédible en l'état actuel de nos connaissances. The origin of the Azilian traditions caused much debate over the past decade, in particular in northern France. The analysis of lithic industries played a central role in these debates. A revision of the early Azilian deposits from La Fru (Saint-Christophe-la-Grotte, Savoie) will allow us to propose a new interpretation of this techno-complex outside the Paris Basin and to discuss the genesis of the 'Azilianisation' process in this context. The shelter at La Fru is currently one of the richest deposits known for the end of the Upper Palaeolithic in western Europe. It has yielded occupation levels from the Upper Magdalenian (17000 cal. BC) to the Middle Mesolithic (9000-8200 cal. BC) within three separate excavation areas (areas 1, 2, 3). The early Azilian occupations are located in area 1 (layer 3) and area 2 (layer 3). The numerous and reliable dates show that settlement of the site by early Azilians occurred between 12300 and 11300 cal. BC. Unfortunately, the lack of environmental data from the site does not allow the early Azilian settlements to be related to a chrono-environmental phase. The lithic industries from La Fru and especially layer 3 area 1, have already been the subject of numerous studies. Flowever, they were never evaluated from a taphonomic and techno-economical perspective, although it is the combination of these analytical methods which will allow these karstic contexts to be integrated into a discussion on the evolution of Lateglacial societies on a European scale. Our aim is, first, to describe the contents of each early Azilian collection from La Fru, using modern analytical methods. In a second step it will be possible to compare our results with the best documented early Azilian collections (Le Closeau, Bois Ragot, etc.). Finally, we will propose a new reading of the early Azilian tradition in the context of the French Alps. The first step consisted of an archaeo-stratigraphic analysis of the archaeological sequences available. It allowed the different degrees of disturbance in each archaeological layer to be highlighted. For area 1, layer 3 is the result of a palimpsest of settlements from the early and recent Azilian. Therefore, the lithic industry is clearly the result of several occupations. Area 2, and layer 3 in particular, have been less affected by post-depositional disturbance. However a Magdalenian component was identified. The comparative technological analysis helped to highlight the similarities and differences between the two collections. The aim of the productions is similar in both collections. The first step of the 'chaîne opératoire' consisted of the production of blades from 70 to 100 mm in length. These blades were transformed into common tools (burin, end-scraper, retouched blades). The technical processes are also the same between the two collections. We note that the most regular blades from area 1 were used as supports for burins, whereas for area 2 they were used as blanks for end-scrapers. The shorter blades (≤ 60 mm), produced in the second stage of the 'chaîne opératoire', served as supports for the manufacture of backed points. In both collections they were based on regular blanks. However, we can note the presence of two distinct types of backed points (bipoints and monopoints). This is a characteristic shared with layer 4 of Bois-Ragot (Vienne). At La Fru, this coexistence of two types of backed points during the early phase of the Azilian is seen as having an economic origin: the shorter blades, probably produced in the final stages of knapping, were transformed into monopoints, the longest into bipoints. From a typological or technological point of view, the early Azilian lithic industry from La Fru shows similarities with contemporary or sub-contemporary settlements from the Pyrenees to the north of the Paris Basin. While in certain geographic areas such as the Paris Basin backed points appear in the lithic toolkit of the Magdalenian populations, it is not the case in the northern Alps. Thus, these geographic sectors may have played a role as an epicentre for the spread of new technical practices. The almost synchronous appearance of the early Azilian leaves little doubt as to the global nature of the process presiding over these transformations. Can a 'case-by-case' process of 'Azilianisation' still be envisaged in each regional Magdalenian substratum? In view of the strong similarity noted in the lithic industries and the practices of these groups it seems practically certain that these changes in tradition spread from an epicentre which lastingly transformed Magdalenian societies. Exchange or circulation networks, evoked with regard to the Upper Magdalenian, do not contradict the hypothesis of a rapid spread of these new ideas. Did they arise in contexts where adaptation to changes in the environment (animals and plants) called for rapid and radical reaction by the Magdalenians, before spreading to neighbouring territories? That is a hypothesis which seems to us to be perfectly coherent with our present state of knowledge.</dcterms:abstract>
+        <dc:title>Les premières sociétés aziliennes: Nouvelle lecture de la genèse du phénomène d'azilianisation dans les Alpes du Nord à partir des deux niveaux d'occupation de l'abri de La Fru (Saint-Christophe-la-Grotte, Savoie)</dc:title>
+        <z:shortTitle>Les premières sociétés aziliennes</z:shortTitle>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_2738">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.jstor.org/stable/pdfplus/10.2307/24364969.pdf?acceptTC=true</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-19 10:09:39</dcterms:dateSubmitted>
+        <dc:title>JSTOR Full Text PDF</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:BookSection rdf:about="https://halshs.archives-ouvertes.fr/halshs-03023790">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <prism:volume>Paléo n° spécial 2018</prism:volume>
+                <dc:title>L'aquitaine à la fin des temps glaciaires - aquitaine at the end of the ice age. les sociétés de la transition du paléolithique final au début du mésolithique dans l'espace nord aquitain. actes de la table ronde organisée en hommage à guy célérier, les eyzies-de-tayac, 24-26 juin 2015</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mevel</foaf:surname>
+                        <foaf:givenName>Ludovic</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bodu</foaf:surname>
+                        <foaf:givenName>Pierre</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cleyet-Merle</foaf:surname>
+                        <foaf:givenName>J.-J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bonnet-Jacquement</foaf:surname>
+                        <foaf:givenName>P.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Averbouh</foaf:surname>
+                        <foaf:givenName>A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <link:link rdf:resource="#item_2740"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://halshs.archives-ouvertes.fr/halshs-03023790</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>203-214</bib:pages>
+        <dc:date>2018</dc:date>
+        <dcterms:dateSubmitted>2022-10-19 10:10:30</dcterms:dateSubmitted>
+        <z:libraryCatalog>HAL Archives Ouvertes</z:libraryCatalog>
+        <dc:title>Le closeau reloaded. actualités et perspectives autour des occupations aziliennes du closeau (rueil-malmaison, hauts-de-seine)</dc:title>
+    </bib:BookSection>
+    <z:Attachment rdf:about="#item_2740">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://hal.archives-ouvertes.fr/halshs-03023790/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-19 10:10:34</dcterms:dateSubmitted>
+        <dc:title>HAL Snapshot</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_2741">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>P@lethnologie</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Moulin</foaf:surname>
+                        <foaf:givenName>B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Onfray</foaf:surname>
+                        <foaf:givenName>M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mevel</foaf:surname>
+                        <foaf:givenName>L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>in press</dc:date>
+        <dc:title>(Ré)occupations d’un abri-sous-roche à la fin du Paléolithique récent. Dynamique sédimentaire et microstratigraphie de la séquence archéologique de l’abri des Douattes (Musièges, Haute-Savoie)</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="http://journals.openedition.org/galliap/1492">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0016-4127,%202109-9642"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Olive</foaf:surname>
+                        <foaf:givenName>Monique</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pigeot</foaf:surname>
+                        <foaf:givenName>Nicole</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bignon-Lau</foaf:surname>
+                        <foaf:givenName>Olivier</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2743"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://journals.openedition.org/galliap/1492</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>47-108</bib:pages>
+        <dc:date>2019</dc:date>
+        <dc:description>Number: 59</dc:description>
+        <dcterms:dateSubmitted>2022-10-19 10:13:12</dcterms:dateSubmitted>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:title>Un campement magdalénien à Étiolles (Essonne): Des activités à la microsociologie d’un habitat</dc:title>
+        <z:shortTitle>Un campement magdalénien à Étiolles (Essonne)</z:shortTitle>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0016-4127,%202109-9642">
+        <prism:number>59</prism:number>
+        <dc:title>Gallia Préhistoire</dc:title>
+        <dc:identifier>ISSN 0016-4127, 2109-9642</dc:identifier>
+        <dcterms:alternative>galliap</dcterms:alternative>
+        <dc:identifier>DOI 10.4000/galliap.1492</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_2743">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://hal.archives-ouvertes.fr/hal-02397861/file/Olive%20et%20al%20%28Gallia%20Pr%C3%A9histoire%29%202019.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-19 10:13:18</dcterms:dateSubmitted>
+        <dc:title>Submitted Version</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.persee.fr/issue/galip_0072-0100_2004_sup_37_1">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>Supplément 37</prism:volume>
+                <prism:number>1</prism:number>
+                <dc:title>Gallia préhistoire</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pigeot</foaf:surname>
+                        <foaf:givenName>Nicole</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2747"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.persee.fr/issue/galip_0072-0100_2004_sup_37_1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2004</dc:date>
+        <dc:description>Number: 1</dc:description>
+        <dcterms:dateSubmitted>2022-10-19 10:19:49</dcterms:dateSubmitted>
+        <z:libraryCatalog>www.persee.fr</z:libraryCatalog>
+        <z:language>fr-FR</z:language>
+        <dc:title>Les derniers Magdaléniens d’Étiolles : perspectives culturelles et paléohistoriques (l'unité d’habitation Q31)</dc:title>
+        <z:shortTitle>Gallia préhistoire. Supplément 37, 2004. Les derniers Magdaléniens d’Étiolles</z:shortTitle>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_2747">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.persee.fr/issue/galip_0072-0100_2004_sup_37_1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-19 10:19:55</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_2748">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0997-0576"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pion</foaf:surname>
+                        <foaf:givenName>Gilbert</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mevel</foaf:surname>
+                        <foaf:givenName>Ludovic</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2749"/>
+        <bib:pages>63-68</bib:pages>
+        <dc:date>2005</dc:date>
+        <dc:description>Num Pages: 6
+Place: Saint Germain en Laye
+Publisher: Musée des antiquités nationales</dc:description>
+        <z:language>fr</z:language>
+        <dc:title>Nouvelles recherches sur les occupations tardiglaciaires dans les Alpes du nord françaises : premiers résultats des fouilles de l'abri des Douattes (Musièges, Haute-Savoie)</dc:title>
+        <z:shortTitle>Nouvelles recherches sur les occupations tardiglaciaires dans les Alpes du nord françaises</z:shortTitle>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0997-0576">
+        <prism:volume>35</prism:volume>
+        <dc:title>Nouvelles recherches sur les occupations tardiglaciaires dans les Alpes du nord françaises : premiers résultats des fouilles de l'abri des Douattes (Musièges, Haute-Savoie)</dc:title>
+        <dc:identifier>ISSN 0997-0576</dc:identifier>
+        <dcterms:alternative>Antiq. natl. (St-Germain-en-Laye)</dcterms:alternative>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_2749">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&amp;idt=18729169</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-19 10:22:29</dcterms:dateSubmitted>
+        <dc:title>Nouvelles recherches sur les occupations tardiglaciaires dans les Alpes du nord françaises : premiers résultats des fouilles de l'abri des Douattes (Musièges, Haute-Savoie)</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://hal.archives-ouvertes.fr/hal-02333980">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:number>9</prism:number>
+                <dc:title>Revue archéologique d'Île-de-France</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Roblin-Jouve</foaf:surname>
+                        <foaf:givenName>Annie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Olive</foaf:surname>
+                        <foaf:givenName>Monique</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rodriguez</foaf:surname>
+                        <foaf:givenName>Patrice</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bignon-Lau</foaf:surname>
+                        <foaf:givenName>Olivier</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chaussé</foaf:surname>
+                        <foaf:givenName>Christine</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dumarcay</foaf:surname>
+                        <foaf:givenName>Gaëlle</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lejeune</foaf:surname>
+                        <foaf:givenName>Yann</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Leroyer</foaf:surname>
+                        <foaf:givenName>Chantal</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Thiébault</foaf:surname>
+                        <foaf:givenName>Stéphanie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wattez</foaf:surname>
+                        <foaf:givenName>Julia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2751"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Allerød</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Bølling</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Tardiglaciaire</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Bassin parisien</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>environnement</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>limon fluviatile</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Magdalénien</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>malacologie.</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>vallée de la Seine</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://hal.archives-ouvertes.fr/hal-02333980</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>7-58</bib:pages>
+        <dc:date>2016</dc:date>
+        <dc:description>Number: 9
+Publisher: Les Amis de la RAIF</dc:description>
+        <dcterms:dateSubmitted>2022-10-19 10:23:37</dcterms:dateSubmitted>
+        <z:libraryCatalog>HAL Archives Ouvertes</z:libraryCatalog>
+        <dc:title>Les limons fluviatiles du site magdalénien d'Étiolles (Essone, France). Bilan des recherches sur le contexte physique et naturel des occupations humaines à Étiolles</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_2751">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://hal.archives-ouvertes.fr/hal-02333980/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-19 10:23:42</dcterms:dateSubmitted>
+        <dc:title>HAL Snapshot</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Report rdf:about="#item_2752">
+        <z:itemType>report</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dcterms:alternative>Les sociétés de l’Allerød et du Dryas récent entre Atlantique et méditéranée</dcterms:alternative>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Paris</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mevel</foaf:surname>
+                        <foaf:givenName>Ludovic</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fornage-Bontemps</foaf:surname>
+                        <foaf:givenName>S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bereiziat</foaf:surname>
+                        <foaf:givenName>G.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>45-81</bib:pages>
+        <dc:date>2013</dc:date>
+        <dc:description>Issue: 3</dc:description>
+        <z:type>Séancs de la Société préhistorique française</z:type>
+        <prism:number>3</prism:number>
+        <dc:title>Au carrefour des influences culturelles ? Les industries lithiques de la fin du Tardiglaciaire entre Alpes du nord et Jura, 11 500-9 500 CalBC</dc:title>
+    </bib:Report>
+    <bib:Article rdf:about="https://www.persee.fr/doc/galip_0072-0100_2004_sup_37_1_2729">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>37</prism:volume>
+                <prism:number>1</prism:number>
+                <dc:title>Gallia Préhistoire</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Christensen</foaf:surname>
+                        <foaf:givenName>Marianne</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Valentin</foaf:surname>
+                        <foaf:givenName>Boris</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2756"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.persee.fr/doc/galip_0072-0100_2004_sup_37_1_2729</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:rights>free</dc:rights>
+        <bib:pages>107-160</bib:pages>
+        <dc:date>2004</dc:date>
+        <dc:description>Number: 1
+Publisher: Persée - Portail des revues scientifiques en SHS</dc:description>
+        <dcterms:dateSubmitted>2022-10-19 11:03:35</dcterms:dateSubmitted>
+        <z:libraryCatalog>www.persee.fr</z:libraryCatalog>
+        <z:language>fre</z:language>
+        <dc:title>Armatures de projectiles et outils. De la production à l’abandon</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_2756">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.persee.fr/doc/galip_0072-0100_2004_sup_37_1_2729</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-19 11:03:46</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Thesis rdf:about="#item_2757">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Paris</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>SRA d’Ile-de-France</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bodu</foaf:surname>
+                        <foaf:givenName>Pierre</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>1998</dc:date>
+        <dc:title>Le “Closeau”. Deux années de fouille sur un gisement azilien et belloisien en bord de Seine</dc:title>
+        <z:numPages>470</z:numPages>
+    </bib:Thesis>
+    <bib:BookSection rdf:about="#item_3467">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:title>Transitions, ruptures et continuité durant la Préhistoire</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Paris</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mevel</foaf:surname>
+                        <foaf:givenName>Ludovic</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pion</foaf:surname>
+                        <foaf:givenName>Gilbert</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fornage-Bontemps</foaf:surname>
+                        <foaf:givenName>S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <prism:edition>Société préhistorique française</prism:edition>
+        <bib:pages>527-546</bib:pages>
+        <dc:date>2014</dc:date>
+        <dc:title>Changements techniques et géographie culturelle à l’extrême fin du Paléolithique dans les Alpes du nord françaises. Les stratigraphies de l’abri de La Fru (Savoie) revisitées</dc:title>
+    </bib:BookSection>
+    <bib:Book rdf:about="#item_3470">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Paris</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Éditions du Centre National de la Recherche Scientifique</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pigeot</foaf:surname>
+                        <foaf:givenName>Nicole</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>1987</dc:date>
+        <dc:title>Magdaléniens d’Étiolles. Économie de débitage et organisation sociale (l’unité d’habitation U5)</dc:title>
+    </bib:Book>
+    <bib:Article rdf:about="#item_3472">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>110</prism:volume>
+                <prism:number>4</prism:number>
+                <dc:title>Bulletin de la Société préhistorique française</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mevel</foaf:surname>
+                        <foaf:givenName>Ludovic</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>657-689</bib:pages>
+        <dc:date>2014</dc:date>
+        <dc:title>Les premières sociétés Aziliennes : nouvelle lecture de la genèse du phénomène d’azilianisation dans les Alpes du Nord à partir des deux niveaux d’occupations Azilien ancien de l’abri de La Fru (Saint-Christophe-la-Grotte, Savoie</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="https://hal-univ-rennes1.archives-ouvertes.fr/hal-02064004">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:number>Numéro spécial</prism:number>
+                <dc:title>PALEO : Revue d'Archéologie Préhistorique</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Biard</foaf:surname>
+                        <foaf:givenName>Miguel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bemilli</foaf:surname>
+                        <foaf:givenName>Céline</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chaussé</foaf:surname>
+                        <foaf:givenName>Christine</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Donnart</foaf:surname>
+                        <foaf:givenName>Klet</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3497"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://hal-univ-rennes1.archives-ouvertes.fr/hal-02064004</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>215</bib:pages>
+        <dc:date>2018</dc:date>
+        <dcterms:dateSubmitted>2023-01-17 15:51:59</dcterms:dateSubmitted>
+        <z:libraryCatalog>hal.science</z:libraryCatalog>
+        <z:language>fr</z:language>
+        <dc:title>Une occupation temporaire au Belloisien ? Le Cas du locus 28704 du site d'Alizay (Eure, France)</dc:title>
+        <z:shortTitle>Une occupation temporaire au Belloisien ?</z:shortTitle>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_3497">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://hal.science/hal-02064004/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-01-17 15:52:06</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="#item_3501">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Paris</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Mémoire de la Société préhistorique française</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Olive</foaf:surname>
+                        <foaf:givenName>Monique</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>1988</dc:date>
+        <dc:title>Une habitation magdalénienne d'Etiolles : l'unité P 15</dc:title>
+    </bib:Book>
+</rdf:RDF>

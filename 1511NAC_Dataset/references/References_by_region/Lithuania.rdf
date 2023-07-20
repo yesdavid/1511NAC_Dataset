@@ -1,0 +1,809 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#">
+    <bib:Article rdf:about="https://vb.ku.lt/object/elaba:2699799/">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1392-5520,%202351-6534"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Grigaliūnas</foaf:surname>
+                        <foaf:givenName>Marijus</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2664"/>
+        <link:link rdf:resource="#item_2665"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://vb.ku.lt/object/elaba:2699799/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>174-189</bib:pages>
+        <dc:date>2013</dc:date>
+        <dc:description>Publisher: Klaipėdos universiteto leidykla</dc:description>
+        <dcterms:dateSubmitted>2022-10-18 09:05:41</dcterms:dateSubmitted>
+        <z:libraryCatalog>vb.ku.lt</z:libraryCatalog>
+        <z:language>eng</z:language>
+        <dcterms:abstract>In 2004, an archaeological survey was carried out in Aukštumala upland bog (in the Šilutė district in western Lithuania), during which the remains of settlements from the Late Palaeolithic and Middle Mesolithic periods were discovered. These were the first sites from the Late Glacial and Early Holocene periods to be found in the lower reaches of the River Nemunas. The chronology and topography of the sites helped to identify the chronology of the area’s population, and to localise the natural environment in which the people of these periods lived. Based on the typology of the discovered artefacts, manufactured flint items in the Palaeolithic settlement were identified as being close to Late Arensburgian culture, and those of the Middle Mesolithic to Maglemosian or Early Nemunas culture.</dcterms:abstract>
+        <dc:title>The first Palaeolithic and Mesolithic settlements in Aukštumala, Šilutė district, the Nemunas river delta</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1392-5520,%202351-6534">
+        <prism:volume>20</prism:volume>
+        <dc:title>Archaeologia Baltica: Frontier societies and environmental change in Northeast Europe</dc:title>
+        <dc:identifier>ISSN 1392-5520, 2351-6534</dc:identifier>
+        <dc:identifier>DOI 10.15181/ab.v20i0.815</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_2664">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://vb.ku.lt/object/elaba:2699799/2699799.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-18 09:05:43</dcterms:dateSubmitted>
+        <dc:title>Full Text PDF</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_2665">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://vb.ku.lt/object/elaba:2699799/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-18 09:05:45</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_2666">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>29</prism:volume>
+                <dc:title>Arheoloģija un etnogrāfija</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Girininkas</foaf:surname>
+                        <foaf:givenName>Algirdas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rimkus</foaf:surname>
+                        <foaf:givenName>Tomas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Slah</foaf:surname>
+                        <foaf:givenName>Gvidas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Daugnora</foaf:surname>
+                        <foaf:givenName>Linas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Stančikaitė</foaf:surname>
+                        <foaf:givenName>Miglė</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zabiela</foaf:surname>
+                        <foaf:givenName>Gintautas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2667"/>
+        <bib:pages>13-30</bib:pages>
+        <dc:date>2016</dc:date>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dcterms:abstract>An axe of Lyngby type made of antler of male adult reindeer was recovered in 2014 in the Parupė settlement of Biržai District, northern Lithuania. Archaeological investigations were carried out at the Lateglacial (Allerød) site near the Mūša–Nemunėlis Basin during which the stratigraphic context of the ind was established. Pollen analysis, loss-onignition (LOI), magnetic susceptibility, and grain-size measurements were applied in case of accommodating layers. It was determined that reindeer hunters made the Parupė axe in the Late Allerød, which is conirmed by the radiocarbon dating: 11145 to 11045 cal. BC. his is the irst ind of this kind uncovered in the territory of Lithuania. he artefacts of Lyngby type recovered in Lithuania and in the Baltic area are typologically, technologically, and chronologically identical and coeval with the artefacts discovered in South-West Europe. he use-wear analysis of the Lithuanian artefact allowed identifying its function and manufacturing technology. his tool was used for felling trees. Analysis of stable carbon (δ13C) and nitrogen (δ15N) isotopes of the uncovered antler axe produced values similar to those obtained of the antlers of all reindeer inhabiting the East Baltic area at that time.</dcterms:abstract>
+        <dc:title>Lyngby Type Artefacts of Lithuania in the Context of the Stone Age in Europe: Multidisciplinary Study</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_2667">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://d1wqtxts1xzle7.cloudfront.net/51330112/Lyngby_type_artefacts_of_Lithuania_A_E_29-with-cover-page-v2.pdf?Expires=1666087563&amp;Signature=eeGsxN4wvcbENoJWlx5bj0IgRmXq1YQhNlL7WnnHBCJxiVUIpUDl3mb4qnabvGno2cE6LZS5SIUi7Q7bJjiC7MduQ-Im-q14IMJXNBThm~KigGEdOY-jBVuvZ-TNCrFV7ewnXXlbD1ArKbVDs8qoRnNEHjXAVaYOsYw2AnRKwoD0VceNLydTU~XYXm07YW1ouHLjW9yAezuWH7cF~~SeoVfbzSfaDsrDVzR8HnIvabEyaKAxnKSgOVZyhDB2Lh-Xx5S-9bdGEtNcJff7rY3FMUbchR6EBLTaQ0dbee8XtODLbE0okgeqXNJO5e06Okj3lyFTM1iyxPh6N-qQlEqf-Q__&amp;Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-18 09:06:12</dcterms:dateSubmitted>
+        <dc:title>Girininkas et al. - LYNGBY TYPE ARTEFACTS OF LITHUANIA IN THE CONTEXT .pdf</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://etalpykla.lituanistikadb.lt/object/LT-LDB-0001:J.04~2002~1367161450453/">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1392-5520"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ostrauskas</foaf:surname>
+                        <foaf:givenName>Tomas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2669"/>
+        <link:link rdf:resource="#item_2670"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://etalpykla.lituanistikadb.lt/object/LT-LDB-0001:J.04~2002~1367161450453/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>51-82</bib:pages>
+        <dc:date>2002</dc:date>
+        <dcterms:dateSubmitted>2022-10-18 09:07:35</dcterms:dateSubmitted>
+        <z:libraryCatalog>etalpykla.lituanistikadb.lt</z:libraryCatalog>
+        <z:language>eng</z:language>
+        <dc:title>Kabeliai 2 Stone Age Site</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1392-5520">
+        <prism:volume>5</prism:volume>
+        <dc:title>Archaeologia Baltica</dc:title>
+        <dc:identifier>ISSN 1392-5520</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_2669">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://etalpykla.lituanistikadb.lt/object/LT-LDB-0001:J.04~2002~1367161450453/J.04~2002~1367161450453.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-18 09:07:38</dcterms:dateSubmitted>
+        <dc:title>Full Text PDF</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_2670">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://etalpykla.lituanistikadb.lt/object/LT-LDB-0001:J.04~2002~1367161450453/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-18 09:07:40</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://urn.kb.se/resolve?urn=urn:nbn:se:raa:diva-6001">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>114</prism:volume>
+                <prism:number>1</prism:number>
+                <dc:title>Fornvännen</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rimkus</foaf:surname>
+                        <foaf:givenName>Tomas&quot;</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2672"/>
+        <link:link rdf:resource="#item_2673"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://urn.kb.se/resolve?urn=urn:nbn:se:raa:diva-6001</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>1-11</bib:pages>
+        <dc:date>2019</dc:date>
+        <dc:description>Number: 1
+Publisher: Kungl. Vitterhets Historie och Antikvitets Akademien</dc:description>
+        <dcterms:dateSubmitted>2022-10-18 09:09:04</dcterms:dateSubmitted>
+        <z:libraryCatalog>www.diva-portal.org</z:libraryCatalog>
+        <z:language>eng</z:language>
+        <dcterms:abstract>DiVA portal is a finding tool for research publications and student theses written at the following 50 universities and research institutions.</dcterms:abstract>
+        <dc:title>In search of Lithuania coastal Mesolithic : review of current data and the aims of an ongoing research project</dc:title>
+        <z:shortTitle>In search of Lithuania coastal Mesolithic</z:shortTitle>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_2672">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.diva-portal.org/smash/get/diva2:1386088/FULLTEXT01</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-18 09:09:08</dcterms:dateSubmitted>
+        <dc:title>Full Text PDF</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_2673">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1386088&amp;dswid=-3599</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-18 09:09:11</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://etalpykla.lituanistikadb.lt/object/LT-LDB-0001:J.04~2021~1647892512555/">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>28</prism:volume>
+                <dc:title>Archaeologia Baltica</dc:title>
+                <dc:identifier>ISSN 1392-5520</dc:identifier>
+                <dc:identifier>DOI 10.15181/ab.v28i0.2285</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rimkus</foaf:surname>
+                        <foaf:givenName>Tomas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Girininkas</foaf:surname>
+                        <foaf:givenName>Algirdas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2675"/>
+        <link:link rdf:resource="#item_2676"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://etalpykla.lituanistikadb.lt/object/LT-LDB-0001:J.04~2021~1647892512555/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>118-131</bib:pages>
+        <dc:date>2021</dc:date>
+        <dcterms:dateSubmitted>2022-10-18 09:09:59</dcterms:dateSubmitted>
+        <z:libraryCatalog>etalpykla.lituanistikadb.lt</z:libraryCatalog>
+        <z:language>eng</z:language>
+        <dc:title>An Attempt to link a lithic complex with the late palaeolithic Rangifer tarandus antler axe from the Parupė site in northern Lithuania</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_2675">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://etalpykla.lituanistikadb.lt/object/LT-LDB-0001:J.04~2021~1647892512555/J.04~2021~1647892512555.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-18 09:10:08</dcterms:dateSubmitted>
+        <dc:title>Full Text PDF</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_2676">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://etalpykla.lituanistikadb.lt/object/LT-LDB-0001:J.04~2021~1647892512555/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-18 09:09:59</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_2677">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <prism:volume>54</prism:volume><dc:title>PACT</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Šatavičius</foaf:surname>
+                        <foaf:givenName>E.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>157-169</bib:pages>
+        <dc:date>1998</dc:date>
+        <dc:title>The Early Mesolithic site of Pasieniai</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="https://etalpykla.lituanistikadb.lt/object/LT-LDB-0001:J.04~2002~1367162034600/">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0207-8694"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Šatavičius</foaf:surname>
+                        <foaf:givenName>Egidijus</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2679"/>
+        <link:link rdf:resource="#item_2680"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://etalpykla.lituanistikadb.lt/object/LT-LDB-0001:J.04~2002~1367162034600/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>163-186</bib:pages>
+        <dc:date>2002</dc:date>
+        <dcterms:dateSubmitted>2022-10-18 09:19:36</dcterms:dateSubmitted>
+        <z:libraryCatalog>etalpykla.lituanistikadb.lt</z:libraryCatalog>
+        <z:language>lit</z:language>
+        <dc:title>Hamburgo kultūros radiniai Lietuvoje</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0207-8694">
+        <prism:volume>23</prism:volume>
+        <dc:title>Lietuvos archeologija</dc:title>
+        <dc:identifier>ISSN 0207-8694</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_2679">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://etalpykla.lituanistikadb.lt/object/LT-LDB-0001:J.04~2002~1367162034600/J.04~2002~1367162034600.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-18 09:19:40</dcterms:dateSubmitted>
+        <dc:title>Full Text PDF</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_2680">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://etalpykla.lituanistikadb.lt/object/LT-LDB-0001:J.04~2002~1367162034600/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-18 09:19:41</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://etalpykla.lituanistikadb.lt/object/LT-LDB-0001:J.04~2004~1367162052986/">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>25</prism:volume>
+                <dc:title>Lietuvos archeologija</dc:title>
+                <dc:identifier>ISSN 0207-8694</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Šatavičius</foaf:surname>
+                        <foaf:givenName>Egidijus</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2682"/>
+        <link:link rdf:resource="#item_2683"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://etalpykla.lituanistikadb.lt/object/LT-LDB-0001:J.04~2004~1367162052986/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>17-44</bib:pages>
+        <dc:date>2004</dc:date>
+        <dcterms:dateSubmitted>2022-10-18 09:20:18</dcterms:dateSubmitted>
+        <z:libraryCatalog>etalpykla.lituanistikadb.lt</z:libraryCatalog>
+        <z:language>lit</z:language>
+        <dc:title>Bromės (Liungbiu) kultūra Lietuvoje</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_2682">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://etalpykla.lituanistikadb.lt/object/LT-LDB-0001:J.04~2004~1367162052986/J.04~2004~1367162052986.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-18 09:20:22</dcterms:dateSubmitted>
+        <dc:title>Full Text PDF</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_2683">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://etalpykla.lituanistikadb.lt/object/LT-LDB-0001:J.04~2004~1367162052986/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-18 09:20:22</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://etalpykla.lituanistikadb.lt/object/LT-LDB-0001:J.04~2005~1367155064486/">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1392-6748"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Šatavičius</foaf:surname>
+                        <foaf:givenName>Egidijus</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2685"/>
+        <link:link rdf:resource="#item_2686"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://etalpykla.lituanistikadb.lt/object/LT-LDB-0001:J.04~2005~1367155064486/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>49-82</bib:pages>
+        <dc:date>2005</dc:date>
+        <dcterms:dateSubmitted>2022-10-18 09:21:15</dcterms:dateSubmitted>
+        <z:libraryCatalog>etalpykla.lituanistikadb.lt</z:libraryCatalog>
+        <z:language>lit</z:language>
+        <dc:title>Lietuvos vėlyvojo paleolito kultūrų periodizacija</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1392-6748">
+        <prism:volume>6</prism:volume>
+        <dc:title>Archaeologia Lituana</dc:title>
+        <dc:identifier>ISSN 1392-6748</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_2685">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://etalpykla.lituanistikadb.lt/object/LT-LDB-0001:J.04~2005~1367155064486/J.04~2005~1367155064486.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-18 09:21:16</dcterms:dateSubmitted>
+        <dc:title>Full Text PDF</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_2686">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://etalpykla.lituanistikadb.lt/object/LT-LDB-0001:J.04~2005~1367155064486/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-18 09:21:20</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://etalpykla.lituanistikadb.lt/object/LT-LDB-0001:J.04~2005~1367154586335/">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>29</prism:volume>
+                <dc:title>Lietuvos archeologija</dc:title>
+                <dc:identifier>ISSN 0207-8694</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Šatavičius</foaf:surname>
+                        <foaf:givenName>Egidijus</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2688"/>
+        <link:link rdf:resource="#item_2689"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://etalpykla.lituanistikadb.lt/object/LT-LDB-0001:J.04~2005~1367154586335/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>133-170</bib:pages>
+        <dc:date>2005</dc:date>
+        <dcterms:dateSubmitted>2022-10-18 09:22:49</dcterms:dateSubmitted>
+        <z:libraryCatalog>etalpykla.lituanistikadb.lt</z:libraryCatalog>
+        <z:language>lit</z:language>
+        <dc:title>Svidrų kultūra Lietuvoje</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_2688">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://etalpykla.lituanistikadb.lt/object/LT-LDB-0001:J.04~2005~1367154586335/J.04~2005~1367154586335.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-18 09:22:51</dcterms:dateSubmitted>
+        <dc:title>Full Text PDF</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_2689">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://etalpykla.lituanistikadb.lt/object/LT-LDB-0001:J.04~2005~1367154586335/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-18 09:22:53</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.zurnalai.vu.lt/archaeologia-lituana/article/view/1190">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2538-8738"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Šatavičius</foaf:surname>
+                        <foaf:givenName>Egidijus</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2691"/>
+        <link:link rdf:resource="#item_2692"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.zurnalai.vu.lt/archaeologia-lituana/article/view/1190</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>66-83</bib:pages>
+        <dc:date>2012</dc:date>
+        <dc:description>Number: 0</dc:description>
+        <dc:title>Titnago kasimo ir apdirbimo dirbtuvės prie Titno ežero</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2538-8738">
+        <prism:volume>13</prism:volume>
+        <dc:title>Archaeologia Lituana</dc:title>
+        <dc:identifier>ISSN 2538-8738</dc:identifier>
+        <dcterms:alternative>AL</dcterms:alternative>
+        <dc:identifier>DOI 10.15388/ArchLit.2012.0.1190</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_2691">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.zurnalai.vu.lt/archaeologia-lituana/article/download/1190/643</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-18 09:23:42</dcterms:dateSubmitted>
+        <dc:title>Full Text</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_2692">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.zurnalai.vu.lt/archaeologia-lituana/article/view/1190</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-18 09:23:35</dcterms:dateSubmitted>
+        <dc:title>Titnago kasimo ir apdirbimo dirbtuvės prie Titno ežero | Archaeologia Lituana</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:BookSection rdf:about="https://www.lituanistika.lt/content/50620">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:title>Archaeological investigations in independent Lithuania (1990-2010)</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Vilnius</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Lietuvos Archeologijos Draugija</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Šatavičius</foaf:surname>
+                        <foaf:givenName>Egidijus</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2694"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.lituanistika.lt/content/50620</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:rights>closed</dc:rights>
+        <bib:pages>27-34</bib:pages>
+        <dc:date>2012</dc:date>
+        <dc:description>Publisher: Society of the Lithuanian Archaeology
+Pages: 27-34</dc:description>
+        <dcterms:dateSubmitted>2022-10-18 09:24:03</dcterms:dateSubmitted>
+        <z:language>en</z:language>
+        <dcterms:abstract>The Sudota archaeological complex is on the left shore of the Žeimena river, some 3 kilometres north-west of Švenčionėliai in the Švenčionys powiat. The complex was discovered in 1990, and since 1994 to this day, wide-ranging excavation works are conducted there. In this article, the newest data from archaeological examinations is discussed. In the Sudota archaeological complex, cultural layers lay one on top of one another. The lower layer is that of the Stone Age cultural horizon, characterised by yellowish-brown sand. In this period of time, an area of about 150x120 m was inhabited. During the examinations, a large number of stone ware (mostly flint), organic finds (animal and fish bone) and remains of several buildings were found. Based on typological-technological criteria, all stone finds may be categorised into seven groups. Above the Stone Age cultural horizon there is a horizon of Iron Age kurgans. During the examination, the remains of six kurgans were excavated. There is no doubt that while the kurgans were being formed, the forest covering the ground was burned. Based on their construction and the discovered burials, the kurgans may date back to the time from the 4th to the 7th century. Kurgan 1 was probably built the first and, compared to the others, it is the best-preserved. Above the horizon of kurgans, a horizon of remains of a village dating back to the time from the 15th century to the middle of the 19th century was found. During the excavation, fragments of over 800 earthenware and of various other finds (burnt clay, metal artefacts) were found in this horizon, but there were no remains of buildings which stood in the village.</dcterms:abstract>
+        <dc:title>The Investigation of the Sudota archaeological complex</dc:title>
+    </bib:BookSection>
+    <z:Attachment rdf:about="#item_2694">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.lituanistika.lt/content/50620</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-18 09:24:08</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:BookSection rdf:about="https://www.lituanistika.lt/content/65381">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:title>A hundred years of archaeological discoveries in Lithuania / edited by Gintautas Zabiela, Zenonas Baubonis, Eglė Marcinkevičiūtė</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Vilnius</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Lietuvos archeologijos draugija</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Šatavičius</foaf:surname>
+                        <foaf:givenName>Egidijus</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2696"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.lituanistika.lt/content/65381</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:rights>closed</dc:rights>
+        <bib:pages>8-39</bib:pages>
+        <dc:date>2016</dc:date>
+        <dc:description>Publisher: Lietuvos archeologijos draugija
+Pages: 8-39</dc:description>
+        <dcterms:dateSubmitted>2022-10-18 09:25:57</dcterms:dateSubmitted>
+        <z:language>en</z:language>
+        <dcterms:abstract>Straipsnyje aptariami Paleolito ir Mezolito laikotarpio archeologiniai tyrimai Lietuvos teritorijoje. Lietuvos Akmens amžiaus tyrimai prasidėjo XIX a. viduryje, bet tik 1925 m. buvo publikuoti vieni pirmųjų mokslinių darbų. 1920–1950 m. laikotarpiu rasta apie 20 Akmens amžiaus periodo artefaktų, 1928 m. išleistas archeologinis atlasas, kuriame buvo sužymėtos praktiškai visos Akmens amžiaus laikotarpio vietos Lietuvoje. Pirmieji Paleolito ir Mezolito laikotarpio objektai Lietuvoje iškasti Margiuose ir Samantoniuose. Pirmosios Lietuvos Respublikos laikotarpiu didelę įtaką Lietuvos archeologams darė kolegos iš Lenkijos. Pirmąsias Mezolito laikotarpio gyvenvietes Mergežeryje, Rudnioje ir Puvočiuose tyrė archeologas J. Puzinas. 1974 m. buvo išleistas gerokai papildytas archeologijos atlasas, kuriame buvo pažymėta 1300 naujų įrašų apie Paleolito ir Mezolito periodų gyvenvietes Lietuvoje. R. Rimantienė sukūrė pirmąją kultūrinę-chronologinę Lietuvos Akmens amžiaus gyvenviečių sistemą ir išskyrė Baltijos Magdaleno, Svidrų bei Kundos kultūras. XXI a. pasiūlytos naujos Paleolito ir Mezolito laikotarpių kultūrinės-chronologinės sistemos (E. Šatavičius, T. Ostrauskas ir kt.). Titnago dirbiniai charakterizuoja Mezolito pradžią Lietuvoje. Šio laikotarpio gyvenvietės yra pastebimai didesnės nei Paleolito periodu ir daugiausiai atpažįstamos Pietų Lietuvoje.</dcterms:abstract>
+        <dc:title>The First Palaeolithic inhabitants and the Mesolithic in Lithuanian territory</dc:title>
+    </bib:BookSection>
+    <z:Attachment rdf:about="#item_2696">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.lituanistika.lt/content/65381</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-18 09:25:58</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_3466">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>34</prism:volume>
+                <prism:number>2</prism:number>
+                <dc:title>Baltica</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Damušytė</foaf:surname>
+                        <foaf:givenName>Aldona</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Stančikaitė</foaf:surname>
+                        <foaf:givenName>Miglė</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Girininkas</foaf:surname>
+                        <foaf:givenName>Algirdas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rimkus</foaf:surname>
+                        <foaf:givenName>Tomas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Daugnora</foaf:surname>
+                        <foaf:givenName>Linas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Skuratovič</foaf:surname>
+                        <foaf:givenName>Žana</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Uogintas</foaf:surname>
+                        <foaf:givenName>Domas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Valūnas</foaf:surname>
+                        <foaf:givenName>Darius</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vaikutienė</foaf:surname>
+                        <foaf:givenName>Giedrė</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Žulkus</foaf:surname>
+                        <foaf:givenName>Vladas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:pages>216-245</bib:pages>
+        <dc:date>2021</dc:date>
+        <dc:title>New insight into the palaeoenvironmental dynamics as a background of the human history in the Nemunas River Delta region, W Lithuania, throughout the Lateglacial and Early Holocene</dc:title>
+    </bib:Article>
+</rdf:RDF>
