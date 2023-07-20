@@ -25,7 +25,7 @@ Europe; Pleistocene-Holocene transition; Late Glacial archaeology; lithic techno
 
 ### Overview of contents and how to reproduce:
 
-This repository contains data (`1_data`) and code (`2_scripts`) for the paper, as well as the `1511NAC_Dataset` folder. The `1511NAC_Dataset` folder contains all relevant data for the readers to start their own analyses using the database. After downloading the complete repository, the results can be reproduced using `1511NAC_database.Rproj` and the existing folder structure. The required packages and their versions which have been used in this study are listed below and in the `DESCRIPTION`-file. All analyses and visualisations presented in this paper were prepared in R 4.2.2 under Ubuntu 18.04.5 LTS (64-bit).
+This repository contains data (`1_data`) and code (`2_scripts`) for the paper, as well as the `1511NAC_Dataset` folder. The `1511NAC_Dataset` folder contains all relevant data for the readers to start their own analyses using the dataset. After downloading the complete repository, the results can be reproduced using `1511NAC_dataset.Rproj` and the existing folder structure. The required packages and their versions which have been used in this study are listed below and in the `DESCRIPTION`-file. All analyses and visualisations presented in this paper were prepared in R 4.2.2 under Ubuntu 18.04.5 LTS (64-bit).
 
 ### Required R-packages and their versions:
 
