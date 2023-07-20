@@ -33,5 +33,7 @@ This repository contains data (`1_data`) and code (`2_scripts`) for the paper, a
 
 ### Licenses:
 
-Code: MIT <http://opensource.org/licenses/MIT>, copyright holder: David Nicolas Matzig (2023)
+Code: __MIT__ <http://opensource.org/licenses/MIT>, copyright holder: David Nicolas Matzig (2023).
+
+Data and intellectual work: __Creative Commons Attribution 4.0 International License__ (http://creativecommons.org/licenses/by/4.0/), copyright holder: the authors (2023).
 
