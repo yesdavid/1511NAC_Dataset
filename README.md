@@ -13,7 +13,8 @@ The files at the URL above will generate the results as found in the publication
 
 ### Published in:
 
-Shumon T. Hussain, Felix Riede, David N. Matzig, Miguel Biard, Philippe Crombé, Federica Fontana, Daniel Groß, Thomas Hess, Mathieu Langlais, Javier Fernández-Lopéz de Pablo, Ludovic Mevel, William Mills, Martin Moník, Nicolas Naudinot, Caroline Posch, Tomas Rimkus, Damian Stefański, Hans Vandendriessche (2023) A pan-European dataset revealing variability in lithic technology, toolkits, and artefact shapes ~15-11 kya. [![DOI](https://zenodo.org/badge/DOI/.svg)](https://doi.org/) 
+[![DOI](https://zenodo.org/badge/DOI/10.1038/s41597-023-02500-9.svg)](https://doi.org/10.1038/s41597-023-02500-9)  
+Shumon T. Hussain, Felix Riede, David N. Matzig, Miguel Biard, Philippe Crombé, Federica Fontana, Daniel Groß, Thomas Hess, Mathieu Langlais, Javier Fernández-Lopéz de Pablo, Ludovic Mevel, William Mills, Martin Moník, Nicolas Naudinot, Caroline Posch, Tomas Rimkus, Damian Stefański, Hans Vandendriessche. A pan-European dataset revealing variability in lithic technology, toolkits, and artefact shapes ~15-11 kya. _Sci Data_ __10__, 593 (2023). https://doi.org/10.1038/s41597-023-02500-9.
 
 ### Abstract:
 
